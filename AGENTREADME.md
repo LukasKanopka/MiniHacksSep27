@@ -6,13 +6,13 @@ Decision highlights
 - Frontend: Netlify-deployed SPA (React/Vite) with folder upload UX, using presigned URLs for S3 direct uploads. See [netlify.toml](netlify.toml:1).
 - API layer: Netlify Functions (Node) for upload-session, search, and ingestion kickoff: [functions/upload.ts](netlify/functions/upload.ts:1), [functions/ingest_start.ts](netlify/functions/ingest_start.ts:1), [functions/search.ts](netlify/functions/search.ts:1), [functions/person.ts](netlify/functions/person.ts:1), [functions/documents.ts](netlify/functions/documents.ts:1), [functions/health.ts](netlify/functions/health.ts:1).
 - Worker: Python service on Railway, reusing existing Neo4j code ([neo4j/src/main.py](neo4j/src/main.py:1), [neo4j/src/db.py](neo4j/src/db.py:1), [neo4j/src/config.py](neo4j/src/config.py:1)). Add signed webhooks [neo4j/src/main.py:ingest_webhook()](neo4j/src/main.py:1) and [neo4j/src/main.py:finalize_job()](neo4j/src/main.py:1).
-- LLMs: OpenRouter for generation and embeddings: [openrouter.generate()](docs/openrouter.md:1) and [openrouter.embed()](docs/openrouter.md:1).
-  - Primary generation: anthropic/claude-3.5-sonnet
-  - Fallback generation: openai/gpt-4o-mini
-  - Primary embedding: openai/text-embedding-3-small (1536 dims, cost-efficient)
-  - Fallback embedding: voyage/voyage-3-lite
+- Google Gemini API using 2.5 Flash 
+- Fallback LLMs: OpenRouter for generation and embeddings: [openrouter.generate()](docs/openrouter.md:1) and [openrouter.embed()](docs/openrouter.md:1).
+- Gemini 2.5 Flash through Open Router
+- Fallback GPT 5 mini through openrouter
+
 - Storage: 
-  - Raw files: AWS S3 with presigned URLs (default). Cloudflare R2 is an alternate with similar API.
+  - Raw files: AWS S3 with presigned URLs (default). 
   - Graph + vectors: Neo4j AuraDB (managed). Store both knowledge graph and chunk vectors via native vector indexes.
 - Auth: MVP disables Netlify Identity; secure worker webhook with HMAC signature (shared secret). Identity can be enabled post-MVP.
 - CI/CD: Netlify builds SPA + Functions based on [netlify.toml](netlify.toml:1).
