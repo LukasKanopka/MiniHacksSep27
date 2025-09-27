@@ -1,32 +1,57 @@
+
 import os
 import time
 import hmac
 import hashlib
 import json
 import datetime
+import mimetypes
+from pathlib import Path
 from typing import Optional, Tuple, Any, Dict, List
 
 try:
-    from fastapi import FastAPI, Request, Header
+    from fastapi import FastAPI, Request, Header, BackgroundTasks
     from fastapi.responses import JSONResponse
-except Exception as e:
+except Exception:
     # FastAPI is assumed to be available per project requirements.
     # If not installed, install with:
     #   pip install fastapi uvicorn
     raise
 
+# Worker HMAC (required for accepting Function webhooks)
 WORKER_SIGNING_SECRET = os.getenv("WORKER_SIGNING_SECRET")
 if not WORKER_SIGNING_SECRET:
-    # Fail fast at startup to avoid accepting unsigned requests.
     raise RuntimeError("WORKER_SIGNING_SECRET environment variable is required to start the worker HTTP server")
+
+# Local dev ingestion: prefer local dataset over S3 for MVP
+# Base directory for local files; default to "<repo_root>/Test Data"
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+WORKER_LOCAL_DATA_DIR = Path(os.getenv("WORKER_LOCAL_DATA_DIR", str(PROJECT_ROOT / "Test Data")))
+
+# OpenRouter (embeddings)
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
+OPENROUTER_BASE_URL = os.getenv("OPENROUTER_BASE_URL", "https://openrouter.ai/api/v1")
+OPENROUTER_EMBED_MODEL = os.getenv("OPENROUTER_EMBED_MODEL", "openai/text-embedding-3-small")
+NETLIFY_SITE_URL = os.getenv("NETLIFY_SITE_URL")  # used for HTTP-Referer header (recommended)
+
+# Chunking parameters (tokens are approx chars/4)
+DEFAULT_CHUNK_TOKENS = 600
+DEFAULT_OVERLAP_TOKENS = 80
+DEFAULT_MIN_TOKENS = 80
+TOKEN_CHAR_RATIO = 4  # heuristic: ~4 chars per token
+
+# Supported text file extensions for MVP
+SUPPORTED_TEXT_EXTS = {".txt", ".md", ".csv", ".pdf"}
 
 app = FastAPI(title="Worker Webhooks", version="1.0.0")
 
 SKEW_SECONDS = 300  # +/- 5 minutes
 
+
 def iso_now() -> str:
     """Return current time in ISO8601 UTC with timezone."""
     return datetime.datetime.now(datetime.timezone.utc).isoformat()
+
 
 def respond_json(payload: Dict[str, Any], status: int, correlation_id: Optional[str]) -> JSONResponse:
     headers = {}
@@ -34,15 +59,12 @@ def respond_json(payload: Dict[str, Any], status: int, correlation_id: Optional[
         headers["x-correlation-id"] = correlation_id
     return JSONResponse(content=payload, status_code=status, headers=headers)
 
+
 def verify_hmac(x_timestamp: Optional[str], x_signature: Optional[str], body: bytes, secret: str, skew_seconds: int = SKEW_SECONDS) -> Tuple[bool, str]:
     """
     Verify webhook authenticity using HMAC-SHA256.
 
-    The signature is computed as hex_lower(HMAC_SHA256(secret, "{timestamp}.{raw_body_bytes}")).
-    - Headers:
-        X-Timestamp: unix seconds (str)
-        X-Signature: hex lowercase digest
-    - The comparison uses constant-time equality.
+    Signature = hex_lower(HMAC_SHA256(secret, "{timestamp}.{raw_body_bytes}"))
 
     Returns (ok, error_code) where error_code is one of:
       "invalid timestamp", "invalid signature", "" (empty string when ok).
@@ -64,71 +86,230 @@ def verify_hmac(x_timestamp: Optional[str], x_signature: Optional[str], body: by
         return False, "invalid signature"
     return True, ""
 
-def validate_ingest_payload(data: Any) -> Tuple[str, List[Dict[str, Any]]]:
-    """
-    Minimal validation for /worker/ingest payload.
-    Ensures:
-      - jobId: non-empty str
-      - s3Prefix: str starting with "anon/" and ending with "/"
-      - files: non-empty list of items with non-empty "path" and "sha256", and size >= 0
-      - options: optional; if present and contains chunkTokens/overlapTokens, they must be integers.
-    Returns (job_id, files)
-    Raises ValueError on invalid payload with a human-readable message.
-    """
-    if not isinstance(data, dict):
-        raise ValueError("body must be a JSON object")
-    job_id = data.get("jobId")
-    if not isinstance(job_id, str) or not job_id.strip():
-        raise ValueError("jobId must be a non-empty string")
-    s3_prefix = data.get("s3Prefix")
-    if not isinstance(s3_prefix, str) or not s3_prefix.startswith("anon/") or not s3_prefix.endswith("/"):
-        raise ValueError('s3Prefix must be a string starting with "anon/" and ending with "/"')
-    files = data.get("files")
-    if not isinstance(files, list) or len(files) == 0:
-        raise ValueError("files must be a non-empty list")
-    for i, f in enumerate(files):
-        if not isinstance(f, dict):
-            raise ValueError(f"files[{i}] must be an object")
-        path = f.get("path")
-        sha256 = f.get("sha256")
-        size = f.get("size")
-        if not isinstance(path, str) or not path.strip():
-            raise ValueError(f"files[{i}].path must be a non-empty string")
-        if not isinstance(sha256, str) or not sha256.strip():
-            raise ValueError(f"files[{i}].sha256 must be a non-empty string")
-        if not isinstance(size, (int, float)) or size < 0:
-            raise ValueError(f"files[{i}].size must be a number >= 0")
-    options = data.get("options")
-    if options is not None:
-        if not isinstance(options, dict):
-            raise ValueError("options must be an object when provided")
-        for key in ("chunkTokens", "overlapTokens"):
-            if key in options and not isinstance(options[key], int):
-                raise ValueError(f"options.{key} must be an integer when provided")
-    return job_id, files
 
-def validate_finalize_payload(data: Any) -> str:
+def read_local_text(base_dir: Path, relative_path: str) -> Optional[str]:
     """
-    Minimal validation for /worker/finalize payload.
-    Ensures:
-      - jobId: non-empty str
-      - summary: object with numeric fields: documents, chunks, errors
-    Returns job_id.
-    Raises ValueError on invalid payload.
+    Read a supported text file from local dataset. Returns text or None if unsupported/missing.
+    Supported: .txt, .md, .csv (CSV joined by spaces per row)
     """
-    if not isinstance(data, dict):
-        raise ValueError("body must be a JSON object")
-    job_id = data.get("jobId")
-    if not isinstance(job_id, str) or not job_id.strip():
-        raise ValueError("jobId must be a non-empty string")
-    summary = data.get("summary")
-    if not isinstance(summary, dict):
-        raise ValueError("summary must be an object")
-    for key in ("documents", "chunks", "errors"):
-        val = summary.get(key)
-        if not isinstance(val, (int, float)):
-            raise ValueError(f"summary.{key} must be a number")
-    return job_id
+    # Normalize and prevent path traversal
+    rel = Path(relative_path.lstrip("/")).as_posix()
+    full = (base_dir / rel).resolve()
+    try:
+        full.relative_to(base_dir.resolve())
+    except Exception:
+        return None
+
+    ext = full.suffix.lower()
+    if ext not in SUPPORTED_TEXT_EXTS:
+        return None
+    if not full.exists() or not full.is_file():
+        return None
+
+    try:
+        if ext in {".txt", ".md"}:
+            return full.read_text(encoding="utf-8", errors="ignore")
+        elif ext == ".csv":
+            import csv
+            rows: List[str] = []
+            with full.open("r", encoding="utf-8", errors="ignore", newline="") as f:
+                reader = csv.reader(f)
+                for row in reader:
+                    rows.append(" ".join([c for c in row if c]))
+            return "\n".join(rows)
+        elif ext == ".pdf":
+            # Lightweight local PDF text extraction via PyMuPDF
+            try:
+                import fitz  # type: ignore
+            except Exception:
+                return None
+            text_chunks: List[str] = []
+            with fitz.open(str(full)) as doc:
+                for page in doc:
+                    text_chunks.append(page.get_text("text"))
+            return "\n".join([t for t in text_chunks if t])
+    except Exception:
+        return None
+    return None
+
+
+def simple_chunk(text: str, chunk_tokens: int, overlap_tokens: int, min_tokens: int) -> List[Dict[str, Any]]:
+    """
+    Simple char-window chunking using token-to-char heuristic.
+    Returns list of dicts: {text, order, tokens}
+    """
+    if not text:
+        return []
+    window = max(chunk_tokens * TOKEN_CHAR_RATIO, min_tokens * TOKEN_CHAR_RATIO)
+    overlap = max(overlap_tokens * TOKEN_CHAR_RATIO, 0)
+    start = 0
+    chunks: List[Dict[str, Any]] = []
+    order = 0
+    N = len(text)
+    while start < N:
+        end = min(N, start + window)
+        piece = text[start:end]
+        # trim piece boundaries
+        piece = piece.strip()
+        if piece:
+            est_tokens = max(1, len(piece) // TOKEN_CHAR_RATIO)
+            if est_tokens >= min_tokens:
+                chunks.append({"text": piece, "order": order, "tokens": est_tokens})
+                order += 1
+        if end == N:
+            break
+        start = end - overlap if end - overlap > start else end
+    return chunks
+
+
+def guess_mime(path: str) -> str:
+    mt, _ = mimetypes.guess_type(path)
+    return mt or "text/plain"
+
+
+def sha256_hex(b: bytes) -> str:
+    return hashlib.sha256(b).hexdigest()
+
+
+def sha1_hex(b: bytes) -> str:
+    return hashlib.sha1(b).hexdigest()
+
+
+def openrouter_embed(texts: List[str], correlation_id: Optional[str]) -> List[List[float]]:
+    """
+    Call OpenRouter embeddings endpoint with a batch of texts.
+    Returns list of embedding vectors. On error, returns empty list.
+    """
+    if not OPENROUTER_API_KEY:
+        print(json.dumps({"ts": iso_now(), "level": "error", "msg": "embed_missing_api_key"}))
+        return []
+    try:
+        import httpx  # type: ignore
+    except Exception:
+        print(json.dumps({"ts": iso_now(), "level": "error", "msg": "embed_httpx_not_installed"}))
+        return []
+
+    headers = {
+        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+        "Content-Type": "application/json",
+        "X-Title": "find-right-people-worker",
+    }
+    if NETLIFY_SITE_URL:
+        headers["HTTP-Referer"] = NETLIFY_SITE_URL
+    if correlation_id:
+        headers["x-correlation-id"] = correlation_id
+
+    payload = {
+        "model": OPENROUTER_EMBED_MODEL,
+        "input": texts,
+    }
+
+    try:
+        with httpx.Client(timeout=60) as client:
+            resp = client.post(f"{OPENROUTER_BASE_URL}/embeddings", headers=headers, json=payload)
+            if resp.status_code // 100 != 2:
+                print(json.dumps({
+                    "ts": iso_now(), "level": "error", "msg": "embed_failed",
+                    "status": resp.status_code, "body": resp.text[:500]
+                }))
+                return []
+            data = resp.json()
+            out: List[List[float]] = []
+            for item in data.get("data", []):
+                emb = item.get("embedding")
+                if isinstance(emb, list):
+                    out.append(emb)
+            return out
+    except Exception as e:
+        print(json.dumps({"ts": iso_now(), "level": "error", "msg": "embed_exception", "error": str(e)}))
+        return []
+
+
+def process_job(job_id: str, base_dir: Path, files: List[Dict[str, Any]], options: Dict[str, Any], correlation_id: Optional[str]) -> None:
+    """
+    Background processing:
+    - Read local files (TXT/MD/CSV) from base_dir/p.path
+    - Chunk text
+    - Embed chunks (batch up to 64 sequentially)
+    - Upsert Document and Chunks into Neo4j
+    """
+    from .db import upsert_document, upsert_chunk  # lazy import to avoid early driver init in web path
+
+    chunk_tokens = int(options.get("chunkTokens") or DEFAULT_CHUNK_TOKENS)
+    overlap_tokens = int(options.get("overlapTokens") or DEFAULT_OVERLAP_TOKENS)
+    min_tokens = int(options.get("minTokens") or DEFAULT_MIN_TOKENS)
+
+    total_docs = 0
+    total_chunks = 0
+
+    for f in files:
+        rel_path = f.get("path") or ""
+        text = read_local_text(base_dir, rel_path)
+        if not text:
+            # Unsupported or missing; skip
+            print(json.dumps({
+                "ts": iso_now(), "level": "warn", "msg": "file_skip",
+                "correlationId": correlation_id, "path": rel_path
+            }))
+            continue
+
+        # Document id: sha256 of raw bytes (deterministic)
+        raw = text.encode("utf-8", errors="ignore")
+        doc_id = sha256_hex(raw)
+        mime = guess_mime(rel_path)
+        upsert_document(doc_id=doc_id, path=rel_path, mime=mime, bytes_count=len(raw), status="processing")
+
+        # Chunk
+        chunks = simple_chunk(text, chunk_tokens, overlap_tokens, min_tokens)
+        if not chunks:
+            # Mark empty but ingested
+            upsert_document(doc_id=doc_id, path=rel_path, mime=mime, bytes_count=len(raw), status="ingested")
+            total_docs += 1
+            continue
+
+        # Embed in batches (size 64)
+        batch_size = 64
+        for i in range(0, len(chunks), batch_size):
+            batch = chunks[i:i + batch_size]
+            embeds = openrouter_embed([c["text"] for c in batch], correlation_id)
+            # If embeddings failed, skip these chunks
+            if len(embeds) != len(batch):
+                print(json.dumps({
+                    "ts": iso_now(), "level": "error", "msg": "embed_batch_mismatch",
+                    "expected": len(batch), "got": len(embeds)
+                }))
+                continue
+            # Upsert each chunk
+            for c, emb in zip(batch, embeds):
+                # Chunk id: sha1 of normalized text
+                chunk_id = sha1_hex((doc_id + "|" + str(c["order"]) + "|" + c["text"]).encode("utf-8"))
+                upsert_chunk(
+                    chunk_id=chunk_id,
+                    doc_id=doc_id,
+                    text=c["text"],
+                    embedding=emb,
+                    order=int(c["order"]),
+                    tokens=int(c["tokens"]),
+                    section=None,
+                    page=None,
+                )
+                total_chunks += 1
+
+        # Mark document ingested
+        upsert_document(doc_id=doc_id, path=rel_path, mime=mime, bytes_count=len(raw), status="ingested")
+        total_docs += 1
+
+    print(json.dumps({
+        "ts": iso_now(),
+        "level": "info",
+        "msg": "ingest_job_done",
+        "correlationId": correlation_id,
+        "jobId": job_id,
+        "documents": total_docs,
+        "chunks": total_chunks,
+        "errors": 0  # basic MVP does not count per-file errors
+    }))
+
 
 @app.post("/worker/ingest")
 async def ingest_webhook(
@@ -136,6 +317,7 @@ async def ingest_webhook(
     x_timestamp: Optional[str] = Header(None, alias="X-Timestamp"),
     x_signature: Optional[str] = Header(None, alias="X-Signature"),
     x_correlation_id: Optional[str] = Header(None, alias="x-correlation-id"),
+    background_tasks: BackgroundTasks = None,
 ):
     body = await request.body()
     ok, err = verify_hmac(x_timestamp, x_signature, body, WORKER_SIGNING_SECRET)
@@ -149,6 +331,13 @@ async def ingest_webhook(
         job_id, files = validate_ingest_payload(data)
     except ValueError as ve:
         return respond_json({"code": "invalid_request", "message": str(ve)}, 400, x_correlation_id)
+
+    # Local-mode: ignore s3Prefix and use WORKER_LOCAL_DATA_DIR
+    options = data.get("options") or {}
+
+    if background_tasks is not None:
+        background_tasks.add_task(process_job, job_id, WORKER_LOCAL_DATA_DIR, files, options, x_correlation_id)
+
     print(json.dumps({
         "ts": iso_now(),
         "level": "info",
@@ -156,8 +345,10 @@ async def ingest_webhook(
         "correlationId": x_correlation_id,
         "jobId": job_id,
         "fileCount": len(files),
+        "baseDir": str(WORKER_LOCAL_DATA_DIR),
     }))
     return respond_json({"jobId": job_id, "status": "processing"}, 202, x_correlation_id)
+
 
 @app.post("/worker/finalize")
 async def finalize_job(
@@ -188,9 +379,3 @@ async def finalize_job(
         "summary": summary,
     }))
     return respond_json({"status": "ok"}, 200, x_correlation_id)
-
-# Note:
-# The previous script-oriented usage in this module was replaced by a FastAPI app exposing:
-#   - POST /worker/ingest
-#   - POST /worker/finalize
-# Ingestion processing is intentionally not implemented here per scope.
