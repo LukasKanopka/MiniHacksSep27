@@ -52,22 +52,11 @@ Prioritized user stories
 - As an operator, I can observe costs, latencies, and failure modes easily.
 
 
-
-## 3) Non-Functional Requirements
-
-- Availability: 99.9% for query endpoints; ingestion may be best-effort.
-- Scalability: Horizontal scaling on Functions and Worker; S3 and AuraDB managed.
-- Latency: P95 query &lt; 1.5s for top-10; ingestion batch parallelism tunable.
-- Cost ceilings: Configurable per environment; default throttle for OpenRouter qps.
-- Data durability: S3 for blobs, AuraDB for graph with automated backups.
-- Privacy/PII: Encryption in transit (TLS), at rest (S3 SSE, AuraDB), safe deletion flow.
-
-
-
 ## 4) System Architecture
 
 Components
 - SPA Frontend (Netlify): Folder upload UI; calls Functions to get presigned URLs; observes ingestion status; runs queries.
+- Use Liquid Glass Library and use context 7 MCP to find docs https://liquidglassui.org - This is the library 
 - Netlify Functions (Node): Issues S3 presigned URLs, triggers ingestion job, proxies search queries to Neo4j/Aura, and minimal orchestration.
 - Python Worker (Railway): Ingests via webhook, downloads files from S3, parses (Unstructured API recommended), chunks, embeds via OpenRouter, and writes to Neo4j with vector indexes; exposes webhooks [neo4j/src/main.py:ingest_webhook()](neo4j/src/main.py:1), [neo4j/src/main.py:finalize_job()](neo4j/src/main.py:1).
 - Data Stores: S3 for raw blobs; Neo4j AuraDB for graph and chunk vectors.
@@ -94,7 +83,7 @@ ASCII data flow
        v
   [Netlify Function: ingest_start] --5) signed webhook--> [Python Worker on Railway]
        |
-       v 6) GET from S3, parse, chunk, embed via OpenRouter
+       v 6) GET from S3, parse, chunk, embed via OpenRouter or Google Gemini API 
   [Unstructured API]   [OpenRouter]
        |
        v 7) Upsert graph + vectors
