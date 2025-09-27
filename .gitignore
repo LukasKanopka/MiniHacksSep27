@@ -31,10 +31,12 @@ env/
 dist/
 build/
 .eggs/
-
 # Coverage reports
 htmlcov/
 .coverage
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Node modules
+node_modules/
