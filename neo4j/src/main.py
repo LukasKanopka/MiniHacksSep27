@@ -8,6 +8,13 @@ import datetime
 import mimetypes
 from pathlib import Path
 from typing import Optional, Tuple, Any, Dict, List
+from dotenv import load_dotenv
+# Load env from CWD and repo root for local dev before reading any env vars
+try:
+    load_dotenv()
+    load_dotenv(dotenv_path=str(Path(__file__).resolve().parents[2] / ".env"))
+except Exception:
+    pass
 
 try:
     from fastapi import FastAPI, Request, Header, BackgroundTasks
