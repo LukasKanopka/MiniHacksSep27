@@ -1,0 +1,22 @@
+# Netlify configuration for Milestone 0 baseline
+# - Functions directory for serverless functions
+# - Redirects to expose functions under /api/*
+# - SPA fallback for future single-page app
+# - Build publish directory kept as "dist" per PRD; may adjust later
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+  functions = "netlify/functions"
+
+# Rewrite /api/* requests to the corresponding Netlify Function
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+
+# SPA fallback: route all other paths to index.html
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
