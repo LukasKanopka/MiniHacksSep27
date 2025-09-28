@@ -2,15 +2,21 @@
   "name": "find-right-people",
   "version": "0.1.0",
   "private": true,
-  "engines": { "node": ">=18" },
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
-    "predev": "npm run build",
-    "build": "npm --prefix web install && npm --prefix web run build",
-    "dev": "netlify dev"
+    "dev": "npx netlify-cli dev --dir=web",
+    "predev": "echo \"skip predev\"",
+    "build": "echo \"no build needed for static web\""
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.637.0",
     "@aws-sdk/s3-request-presigner": "^3.637.0",
-    "neo4j-driver": "^5.25.0"
+    "neo4j-driver": "^5.25.0",
+    "netlify": "^23.8.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.38.1"
   }
 }
