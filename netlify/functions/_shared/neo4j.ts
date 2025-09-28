@@ -239,7 +239,7 @@
    Array<{
      person: { id?: string; name?: string; roles?: string[]; skills?: string[] };
      aggScore: number;
-     citations: Array<{ documentId?: string; chunkId?: string; score: number; snippet?: string }>;
+     citations: Array<{ documentId?: string; path?: string; chunkId?: string; score: number; snippet?: string }>;
    }>
  > {
    const cypher = `
@@ -264,7 +264,7 @@
  WITH p, collect({c:c, d:d, score:score}) AS hits
  RETURN p AS person,
         reduce(s=0.0, h IN hits | s + h.score) AS aggScore,
-        [h IN hits | { documentId: h.d.id, chunkId: h.c.id, score: h.score, snippet: substring(h.c.text,0,240)}][0..5] AS topEvidence
+        [h IN hits | { documentId: h.d.id, path: h.d.path, chunkId: h.c.id, score: h.score, snippet: substring(h.c.text,0,240)}][0..5] AS topEvidence
  ORDER BY aggScore DESC
  LIMIT toInteger($k)
  `;
@@ -287,15 +287,17 @@
          skills: toStringArraySafe(getPropSafe(props, "skills")),
        };
        const aggScore = toNumberSafe(agg);
-       const citations: Array<{ documentId?: string; chunkId?: string; score: number; snippet?: string }> = [];
+       const citations: Array<{ documentId?: string; path?: string; chunkId?: string; score: number; snippet?: string }> = [];
        if (Array.isArray(ev)) {
          for (const h of ev) {
            const documentId = getPropSafe(h, "documentId");
+           const path = getPropSafe(h, "path");
            const chunkId = getPropSafe(h, "chunkId");
            const score = toNumberSafe(getPropSafe(h, "score"));
            const snippetRaw = getPropSafe(h, "snippet");
            citations.push({
              documentId: documentId !== undefined ? String(documentId) : undefined,
+             path: path !== undefined ? String(path) : undefined,
              chunkId: chunkId !== undefined ? String(chunkId) : undefined,
              score,
              snippet: typeof snippetRaw === "string" ? snippetRaw : (snippetRaw !== undefined ? String(snippetRaw) : undefined),

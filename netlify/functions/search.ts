@@ -41,7 +41,8 @@ export const handler = async (event: any) => {
     1,
     50
   );
-  const synthesize = !!(payload && payload.synthesize === true);
+  // Default to synthesis ON unless explicitly disabled by client
+  const synthesize = !(payload && payload.synthesize === false);
 
   // Step 1-2: Embed the query
   let queryEmbedding: number[] = [];
@@ -84,6 +85,7 @@ export const handler = async (event: any) => {
     score: r.aggScore,
     citations: (Array.isArray(r.citations) ? r.citations : []).map((c) => ({
       documentId: c.documentId,
+      path: (c as any).path,
       chunkId: c.chunkId,
       score: c.score,
       snippet: c.snippet,
@@ -105,7 +107,8 @@ export const handler = async (event: any) => {
         const citeLines: string[] = [];
         for (const c of r.citations.slice(0, 3)) {
           const snip = (c.snippet ?? "").replace(/\s+/g, " ").trim();
-          citeLines.push(`  - doc:${c.documentId ?? ""} chunk:${c.chunkId ?? ""} score:${c.score.toFixed(4)} "${snip}"`);
+          const path = (c as any).path ? ` path:${(c as any).path}` : "";
+          citeLines.push(`  - doc:${c.documentId ?? ""}${path} chunk:${c.chunkId ?? ""} score:${c.score.toFixed(4)} "${snip}"`);
         }
         if (citeLines.length > 0) evidenceLines.push(...citeLines);
       }
@@ -134,9 +137,31 @@ export const handler = async (event: any) => {
     }
   }
 
+  // Aggregate unique references across results (top ~10)
+  const refSet = new Set<string>();
+  const references: Array<{ documentId?: string; path?: string; chunkId?: string; score?: number; snippet?: string }> = [];
+  for (const r of results) {
+    for (const c of r.citations) {
+      const key = `${c.documentId ?? ""}|${(c as any).path ?? ""}|${c.chunkId ?? ""}`;
+      if (!refSet.has(key)) {
+        refSet.add(key);
+        references.push({
+          documentId: c.documentId,
+          path: (c as any).path,
+          chunkId: c.chunkId,
+          score: c.score,
+          snippet: c.snippet,
+        });
+      }
+      if (references.length >= 10) break;
+    }
+    if (references.length >= 10) break;
+  }
+
   const response: Record<string, any> = {
     queryEmbeddingModel: embeddingModel,
     results,
+    references,
   };
 
   if (answer !== undefined) {
