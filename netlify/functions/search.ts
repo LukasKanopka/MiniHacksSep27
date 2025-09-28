@@ -68,8 +68,10 @@ export const handler = async (event: any) => {
   try {
     neoResults = await queryPeopleByEmbedding(queryEmbedding, k);
   } catch (e: any) {
-    logError("search_failed", correlationId, { stage: "vector_query", error: e?.message ?? String(e) });
-    return internalError("Vector search failed", correlationId);
+    const errMsg = e?.message ?? String(e);
+    logError("search_failed", correlationId, { stage: "vector_query", error: errMsg });
+    // Include error details in dev to aid debugging
+    return internalError("Vector search failed", correlationId, { error: errMsg });
   }
 
   // Map to response schema

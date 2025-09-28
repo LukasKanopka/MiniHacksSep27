@@ -6,6 +6,7 @@ import hashlib
 import json
 import datetime
 import mimetypes
+import re
 from pathlib import Path
 from typing import Optional, Tuple, Any, Dict, List
 from dotenv import load_dotenv
@@ -50,7 +51,112 @@ TOKEN_CHAR_RATIO = 4  # heuristic: ~4 chars per token
 # Supported text file extensions for MVP
 SUPPORTED_TEXT_EXTS = {".txt", ".md", ".csv", ".pdf"}
 
+# --- Naive Person Extraction (MVP, tightened) ---
+# Detect "Proper Case" multi-word names and normalize to stable ids
+PERSON_NAME_RE = re.compile(r"\b([A-Z][a-z]+(?:\s+[A-Z][a-z\.]+)+)\b")
+
+# Common stopwords to exclude obviously non-person phrases (per-token)
+STOPWORDS = {
+    "The", "And", "For", "With", "From", "Into", "Across", "Between", "Among",
+    "Project", "Graph", "Knowledge", "Vector", "Search", "Database", "Engineer",
+    "Senior", "Staff", "Manager", "Director", "Company", "Organization"
+}
+
+# Terms/suffixes that are NOT person names (case-insensitive comparisons)
+BANNED_TERMS = {
+    "computer science", "software engineering", "data structures",
+    "advanced algorithms", "network security", "machine learning",
+    "google cloud", "magna cum laude", "cum laude"
+}
+BANNED_SUFFIXES = {"Science", "Engineering", "Algorithms", "Structures", "Security", "Cloud", "Learning", "Laude"}
+
+# Contact hints typical in resumes
+EMAIL_RE = re.compile(r"\b[\w\.-]+@[\w\.-]+\.\w{2,}\b")
+PHONE_RE = re.compile(r"(\+?\d[\d\-\.\s\(\)]{7,}\d)")
+
+def _person_id_from_name(name: str) -> str:
+    base = name.strip().lower()
+    base = re.sub(r"\s+", "-", base)
+    base = re.sub(r"[^a-z0-9\-]", "", base)
+    base = re.sub(r"-{2,}", "-", base).strip("-")
+    return base
+
+def _looks_like_person(parts: list[str]) -> bool:
+    # 2–4 tokens, tokens like "John" or "Q." (allow middle initials)
+    if not (2 <= len(parts) <= 4):
+        return False
+    for p in parts:
+        if re.fullmatch(r"[A-Z]\.", p):  # middle initial
+            continue
+        if not re.fullmatch(r"[A-Z][a-z]+", p):
+            return False
+        if p in STOPWORDS:
+            return False
+    # Avoid common subject/degree suffixes
+    if parts[-1] in BANNED_SUFFIXES:
+        return False
+    return True
+
+def extract_person_names(text: str) -> list[str]:
+    if not text:
+        return []
+    text_lower = text.lower()
+    has_contact = bool(EMAIL_RE.search(text) or PHONE_RE.search(text))
+    found = set()
+
+    for m in PERSON_NAME_RE.finditer(text):
+        cand = m.group(1).strip()
+        cand_lower = cand.lower()
+        # Exclude known non-person phrases
+        if cand_lower in BANNED_TERMS:
+            continue
+
+        parts = cand.split()
+        if not _looks_like_person(parts):
+            continue
+
+        # If no contact info in this chunk, be stricter: ignore obvious non-names
+        # e.g., single-word capitals are filtered above; here we exclude if any token is common subject keyword
+        if not has_contact:
+            if any(p in BANNED_SUFFIXES for p in parts):
+                continue
+            # Exclude if any token is unusually long (likely a compound/subject)
+            if any(len(p) > 20 for p in parts):
+                continue
+
+        found.add(cand)
+
+    # Return deterministic order
+    return sorted(found)
+
 app = FastAPI(title="Worker Webhooks", version="1.0.0")
+
+# Verify Neo4j connectivity at startup to surface routing/auth issues early
+@app.on_event("startup")
+def _startup_check_neo4j():
+    try:
+        from .db import verify_connectivity
+        verify_connectivity()
+    except Exception:
+        # Keep server running; background ingestion will log detailed errors too
+        pass
+
+    # Also log whether PyMuPDF is available for PDF extraction
+    try:
+        import fitz  # type: ignore
+        print(json.dumps({
+            "ts": iso_now(),
+            "level": "info",
+            "msg": "pymupdf_present"
+        }))
+    except Exception as e:
+        print(json.dumps({
+            "ts": iso_now(),
+            "level": "warn",
+            "msg": "pymupdf_missing",
+            "error": str(e),
+            "hint": "Install PyMuPDF (pip install pymupdf) in the SAME Python environment running the worker."
+        }))
 
 SKEW_SECONDS = 300  # +/- 5 minutes
 
@@ -128,7 +234,19 @@ def read_local_text(base_dir: Path, relative_path: str) -> Optional[str]:
             # Lightweight local PDF text extraction via PyMuPDF
             try:
                 import fitz  # type: ignore
-            except Exception:
+            except Exception as e:
+                # Instrumentation to surface missing dependency during ingestion
+                try:
+                    print(json.dumps({
+                        "ts": iso_now(),
+                        "level": "error",
+                        "msg": "pdf_extract_fitz_missing",
+                        "path": str(full),
+                        "error": str(e),
+                        "hint": "Install PyMuPDF (pip install pymupdf) in the SAME Python environment running the worker."
+                    }))
+                except Exception:
+                    pass
                 return None
             text_chunks: List[str] = []
             with fitz.open(str(full)) as doc:
@@ -309,6 +427,11 @@ def process_job(job_id: str, base_dir: Path, files: List[Dict[str, Any]], option
                 "correlationId": correlation_id, "path": rel_path
             }))
             continue
+        else:
+            print(json.dumps({
+                "ts": iso_now(), "level": "info", "msg": "file_text_loaded",
+                "correlationId": correlation_id, "path": rel_path, "bytes": len(text.encode("utf-8", errors="ignore"))
+            }))
 
         # Document id: sha256 of raw bytes (deterministic)
         raw = text.encode("utf-8", errors="ignore")
@@ -350,6 +473,25 @@ def process_job(job_id: str, base_dir: Path, files: List[Dict[str, Any]], option
                     section=None,
                     page=None,
                 )
+
+                # Naive entity extraction (Persons) and MENTIONS upsert
+                names = extract_person_names(c["text"])
+                if names:
+                    persons: List[Dict[str, Any]] = []
+                    for nm in names:
+                        pid = _person_id_from_name(nm)
+                        if pid:
+                            persons.append({"id": pid, "name": nm})
+                    if persons:
+                        try:
+                            from .db import upsert_persons_and_mentions  # lazy import to avoid early driver init
+                            upsert_persons_and_mentions(chunk_id, persons)
+                        except Exception as e:
+                            print(json.dumps({
+                                "ts": iso_now(), "level": "error", "msg": "mentions_upsert_failed",
+                                "correlationId": correlation_id, "chunkId": chunk_id, "error": str(e)
+                            }))
+
                 total_chunks += 1
 
         # Mark document ingested
