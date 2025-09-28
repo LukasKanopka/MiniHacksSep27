@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+  </defs>
+  <!-- Pool rim -->
+  <circle cx="128" cy="128" r="92" fill="none" stroke="#0F172A" stroke-width="8" opacity="0.9"/>
+  <!-- Knot: two interwoven waves -->
+  <path d="M24,148 C76,88 180,208 232,148" fill="none" stroke="#06B6D4" stroke-width="12" stroke-linecap="round"/>
+  <path d="M24,108 C76,168 180,48 232,108" fill="none" stroke="#6366F1" stroke-width="12" stroke-linecap="round"/>
+  <!-- Overlap highlights to suggest braid -->
+  <path d="M72,128 C104,96 152,160 184,128" fill="none" stroke="url(#grad)" stroke-width="14" stroke-linecap="round" opacity="0.85"/>
+</svg>
