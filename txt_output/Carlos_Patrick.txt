@@ -1,0 +1,17 @@
+Carlos Patrick
+carolynbailey@example.net | 296.421.0930 | New Heatherside | Anguilla
+Experience
+Cooper, Kim and Shah, Technology, Medium, Qa Engineer, senior, internship, 2020-01-25, 2024-04-18, N/A, Deployed applications
+on cloud platforms and ensured scalability., Ensured application responsiveness and seamless user experience., Conducted code
+reviews and mentored junior developers., GraphQL, REST, Agile, CI/CD, Docker
+Education
+BSc, Computer Science, Qa, Hester Inc, Andreatown, N/A, 2017-03-18, 2021-10-10, 3.32, Dean's List, Network Security, Distributed
+Systems, Machine Learning, Data Structures
+Skills
+C#, intermediate, C++, beginner, Python, intermediate, Angular, expert, React, beginner, Spring, expert, MySQL, beginner, AWS,
+expert, English, fluent
+Projects
+Qa Engineer Project, Automated test scripts using Selenium and Python, reducing manual testing efforts and improving software
+quality., Kubernetes, Python, Git, Qa Engineer, https://ruiz-briggs.com/, Executive particularly usually computer class world yet early
+national which yourself.
+Certifications

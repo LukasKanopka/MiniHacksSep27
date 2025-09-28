@@ -1,0 +1,18 @@
+Brenda Haynes
+brenda40@example.org | +1-217-994-3496x3925 | Perkinsborough | Anguilla
+Experience
+Leach, Hall and Thompson, Technology, Small, Database Administrator, mid, internship, 2019-01-09, 2022-08-05, N/A, Built and
+maintained scalable web applications., Automated deployment processes and continuous integration., Performed software testing
+and resolved bugs efficiently., Optimized application performance and improved user engagement., CI/CD, Kubernetes, Scrum,
+Jenkins, REST, Kubernetes
+Education
+BSc, Computer Science, Database, Cox-Barrett, South Juliatown, N/A, 2017-11-01, 2022-05-08, 3.89, Dean's List, Database
+Systems, Advanced Algorithms
+Skills
+C#, intermediate, SQL, intermediate, Spring, expert, Node.js, intermediate, Vue, expert, MongoDB, expert, Google Cloud, expert,
+English, fluent
+Projects
+Database Administrator Project, Optimized database performance by 40% through query optimization and database tuning, ensuring
+seamless data retrieval and storage., Ruby, C#, JavaScript, Database Administrator, https://www.barrett.com/, Former under one
+poor hard force improve professional.
+Certifications

@@ -1,0 +1,25 @@
+Brandy Melendez
+mcbridejonathan@example.com | 452.451.6803x735 | West Connor | Argentina
+Experience
+Day Inc, Technology, Medium, Python Developer, junior, full-time, 2019-08-20, 2024-03-13, N/A, Optimized system performance and
+reduced latency., Enhanced system security and performed regular audits., Developed and deployed scalable solutions., Integrated
+third-party services into existing systems., Ensured application responsiveness and seamless user experience., Kubernetes, Git,
+Kanban, CI/CD, Mills-Davis, Technology, Medium, Python Developer, mid, full-time, 2018-06-13, 2024-09-24, N/A, Implemented
+security best practices and data protection measures., Ensured application responsiveness and seamless user experience.,
+Conducted system monitoring and performance tuning., Developed and maintained database schemas and queries., Kubernetes,
+Agile, REST, Randolph, Stevenson and Quinn, Technology, Small, Python Developer, senior, contract, 2020-01-07, 2024-11-07,
+N/A, Conducted system monitoring and performance tuning., Performed software testing and resolved bugs efficiently., Integrated
+third-party services into existing systems., Automated data processing pipelines., Docker, Agile, Git, Jenkins
+Education
+MSc, Computer Science, Python, Rose-Hill, South Carolyn, N/A, 2018-02-24, 2020-10-28, 3.4, Magna Cum Laude, Advanced
+Algorithms, Machine Learning
+Skills
+C++, expert, Go, intermediate, Java, beginner, Python, intermediate, Angular, beginner, Flask, beginner, React, beginner, MySQL,
+expert, MongoDB, expert, Google Cloud, beginner, English, fluent
+Projects
+Python Developer Project, Developed a robust RESTful API using Flask and integrated it with cloud services, resulting in improved
+data processing and scalability., REST, GraphQL, C++, Python Developer, https://johnson.biz/, Attorney ok set fly budget statement
+firm who fly close safe find., Python Developer Project, Developed a robust RESTful API using Flask and integrated it with cloud
+services, resulting in improved data processing and scalability., C#, Python, Java, Python Developer, https://www.smith.info/, Share
+evening form next political trouble eye red sell be bit sign stage spring personal difficult.
+Certifications

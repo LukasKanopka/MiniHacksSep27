@@ -1,0 +1,22 @@
+Amy Long
+samuelwright@example.org | 868.970.1466x846 | Sullivanport | New Zealand
+Experience
+Schmidt, Gibson and Scott, Technology, Large, Site Reliability Engineer, senior, full-time, 2020-11-20, 2024-10-22, N/A, Enhanced
+system security and performed regular audits., Built and maintained scalable web applications., Designed and implemented machine
+learning models., Developed and deployed scalable solutions., Git, Kubernetes, Kanban, Git, Gibson-Dennis, Technology, Medium,
+Site Reliability Engineer, mid, contract, 2021-05-27, 2023-10-24, N/A, Deployed applications on cloud platforms and ensured
+scalability., Conducted code reviews and mentored junior developers., Utilized version control effectively in a team environment., Git,
+Kubernetes, CI/CD, Kanban, Docker, Thompson Inc, Technology, Large, Site Reliability Engineer, senior, contract, 2018-04-28,
+2024-07-01, N/A, Utilized version control effectively in a team environment., Optimized system performance and reduced latency.,
+Automated deployment processes and continuous integration., GraphQL, Docker, Agile, GitLab
+Education
+BSc, Computer Science, Site, Dawson-Jackson, Lake Evan, N/A, 2016-12-14, 2020-05-06, 3.76, Dean's List, Distributed Systems,
+Software Engineering, Database Systems
+Skills
+Python, beginner, C#, expert, JavaScript, expert, Spring, intermediate, Redis, expert, MongoDB, expert, AWS, intermediate, English,
+fluent
+Projects
+Site Reliability Engineer Project, Implemented automated monitoring and alerting for a large-scale SaaS application, reducing
+downtime incidents by 70%., Go, JavaScript, Site Reliability Engineer, https://house.info/, Rest provide free provide over church view
+foot past.
+Certifications

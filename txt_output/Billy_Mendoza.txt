@@ -1,0 +1,20 @@
+Billy Mendoza
+cynthia17@example.net | 543-611-8423x403 | South Christopher | Greenland
+Experience
+Davis and Sons, Technology, Medium, Site Reliability Engineer, senior, contract, 2020-10-16, 2023-10-22, N/A, Designed and
+implemented machine learning models., Collaborated with cross-functional teams to design new features., Implemented security best
+practices and data protection measures., Conducted code reviews and mentored junior developers., GraphQL, Agile, Docker, Brown
+and Sons, Technology, Small, Site Reliability Engineer, mid, full-time, 2020-10-28, 2023-12-27, N/A, Ensured application
+responsiveness and seamless user experience., Created user-centric designs and responsive web interfaces., Integrated third-party
+services into existing systems., REST, Agile, Jenkins, REST, Docker
+Education
+MSc, Computer Science, Site, Jones-Maynard, Lake Shawn, N/A, 2016-06-08, 2022-11-02, 2.77, Cum Laude, Advanced Algorithms,
+Database Systems, Machine Learning, BSc, Computer Science, Site, Williams-Pena, West Corey, N/A, 2016-07-25, 2021-11-26,
+3.72, Magna Cum Laude, Data Structures, Machine Learning, Distributed Systems
+Skills
+C#, intermediate, Flask, beginner, Redis, intermediate, Azure, beginner, English, fluent
+Projects
+Site Reliability Engineer Project, Implemented automated monitoring and alerting for a large-scale SaaS application, reducing
+downtime incidents by 70%., Go, JavaScript, Git, Kubernetes, Site Reliability Engineer, http://www.murphy-martinez.com/, Threat
+third final sister staff color better perhaps light sea.
+Certifications

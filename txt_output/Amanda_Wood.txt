@@ -1,0 +1,21 @@
+Amanda Wood
+michaelbeck@example.org | 382-980-2556x4542 | West Patriciamouth | Egypt
+Experience
+Hampton, Figueroa and Lopez, Technology, Small, Data Engineer, senior, full-time, 2020-12-26, 2023-11-23, N/A, Perfected data
+analysis and data visualization using Python and Tableau., Conducted system monitoring and performance tuning., Automated
+deployment processes and continuous integration., Collaborated with cross-functional teams to design new features., Implemented
+RESTful APIs and microservices., Docker, Kubernetes, REST, Agile, Jenkins, Docker, CI/CD
+Education
+BSc, Computer Science, Data, Cortez, Humphrey and Jones, North Erin, N/A, 2016-10-18, 2020-10-20, 3.74, Dean's List, Network
+Security, Data Structures, MSc, Computer Science, Data, Williams, Lewis and Frank, South Anthonyfort, N/A, 2017-02-05,
+2023-01-07, 3.7, Magna Cum Laude, Data Structures, Network Security, Machine Learning
+Skills
+Ruby, intermediate, JavaScript, expert, Python, intermediate, Flask, beginner, Node.js, beginner, Redis, intermediate, AWS,
+beginner, English, fluent
+Projects
+Data Engineer Project, Developed ETL pipelines for data processing and analysis, enabling real-time data insights and improving
+data quality and integrity., C#, Git, REST, Go, Data Engineer, https://moreno.com/, Western again side that woman dog we through
+player message night second large consider., Data Engineer Project, Developed ETL pipelines for data processing and analysis,
+enabling real-time data insights and improving data quality and integrity., Kubernetes, Docker, Java, Data Engineer,
+https://bowman.com/, Attention hand certain various agency product performance.
+Certifications

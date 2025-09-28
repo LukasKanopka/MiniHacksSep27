@@ -1,0 +1,26 @@
+Amber Camacho
+carrilloandre@example.org | 518.895.3572 | Jomouth | Slovakia (Slovak Republic)
+Experience
+Lewis Ltd, Technology, Large, Javascript Developer, junior, contract, 2020-09-05, 2024-06-30, N/A, Designed and implemented
+machine learning models., Conducted code reviews and mentored junior developers., Developed and maintained database schemas
+and queries., Collaborated with cross-functional teams to design new features., Automated data processing pipelines., Git, Scrum,
+GitLab, Git, Ross-Lee, Technology, Large, Javascript Developer, junior, contract, 2021-08-18, 2024-01-31, N/A, Integrated
+third-party services into existing systems., Managed cloud infrastructure and resource allocation., Performed software testing and
+resolved bugs efficiently., Collaborated with cross-functional teams to design new features., Developed and maintained CI/CD
+pipelines., Docker, GraphQL, Scrum, GraphQL, Docker, Stone-Deleon, Technology, Medium, Javascript Developer, junior,
+internship, 2022-02-16, 2024-11-16, N/A, Deployed applications on cloud platforms and ensured scalability., Perfected data analysis
+and data visualization using Python and Tableau., Designed and implemented machine learning models., CI/CD, REST, Git, Kanban,
+Jenkins, CI/CD, Kubernetes
+Education
+MSc, Computer Science, Javascript, Erickson-Smith, Whitneyview, N/A, 2015-03-07, 2021-01-30, 2.71, Cum Laude, Distributed
+Systems, Network Security, Software Engineering, Machine Learning
+Skills
+Java, expert, Python, beginner, Ruby, beginner, JavaScript, intermediate, Vue, beginner, MongoDB, beginner, Azure, intermediate,
+English, fluent
+Projects
+Javascript Developer Project, Created a dynamic single-page application using React that enhanced user engagement and
+streamlined client-side performance., JavaScript, REST, C++, GraphQL, Javascript Developer, http://cunningham-vaughn.biz/, Other
+itself face great white picture natural down moment model thousand price bag beautiful., Javascript Developer Project, Created a
+dynamic single-page application using React that enhanced user engagement and streamlined client-side performance., REST,
+Kubernetes, Go, Javascript Developer, https://ballard-kline.com/, Yard focus fight easy investment charge else different gun.
+Certifications

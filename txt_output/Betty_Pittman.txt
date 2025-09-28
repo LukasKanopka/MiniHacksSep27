@@ -1,0 +1,23 @@
+Betty Pittman
+jlee@example.org | 386-932-6846x9882 | Perkinsmouth | Germany
+Experience
+Marquez-Reese, Technology, Small, Deep Learning Engineer, mid, internship, 2018-11-22, 2024-05-21, N/A, Built and maintained
+scalable web applications., Integrated third-party services into existing systems., Performed software testing and resolved bugs
+efficiently., Git, Docker, GraphQL, Scrum, Kubernetes, GraphQL, GitLab, Johnston-Warner, Technology, Large, Deep Learning
+Engineer, mid, contract, 2020-10-12, 2022-04-21, N/A, Integrated third-party services into existing systems., Deployed applications
+on cloud platforms and ensured scalability., Enhanced system security and performed regular audits., Kubernetes, Docker, Kanban,
+REST, Gould, Rodriguez and Thompson, Technology, Small, Deep Learning Engineer, senior, contract, 2021-10-09, 2024-01-31,
+N/A, Enhanced system security and performed regular audits., Utilized version control effectively in a team environment., Automated
+data processing pipelines., Kubernetes, REST, Docker, Agile, Git, REST, GitLab
+Education
+MSc, Computer Science, Deep, Green and Sons, West Karenshire, N/A, 2017-11-16, 2022-02-04, 2.55, Magna Cum Laude,
+Database Systems, Data Structures, Machine Learning, BSc, Computer Science, Deep, Fox-Black, Jacksonberg, N/A, 2015-12-14,
+2022-09-10, 3.19, Dean's List, Advanced Algorithms, Machine Learning
+Skills
+JavaScript, expert, Python, intermediate, Django, intermediate, Vue, beginner, Angular, beginner, Oracle, expert, Azure,
+intermediate, English, fluent
+Projects
+Deep Learning Engineer Project, Developed deep learning models for image recognition, achieving 95% accuracy and enabling
+real-time object detection in video streams., JavaScript, Git, C#, Java, Deep Learning Engineer, https://garcia-scott.com/, Light body
+partner voice hospital wind discover step direction face score policy meeting.
+Certifications

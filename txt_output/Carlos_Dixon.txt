@@ -1,0 +1,21 @@
+Carlos Dixon
+nguyencarlos@example.com | 7679561838 | Christineland | Chile
+Experience
+Rogers, Gutierrez and Green, Technology, Medium, Security Engineer, junior, internship, 2019-11-16, 2022-08-28, N/A, Performed
+software testing and resolved bugs efficiently., Implemented RESTful APIs and microservices., Implemented security best practices
+and data protection measures., Perfected data analysis and data visualization using Python and Tableau., Utilized version control
+effectively in a team environment., GraphQL, Git, REST, Scrum, Docker, Kubernetes, GraphQL, Green, Miller and Sparks,
+Technology, Small, Security Engineer, senior, full-time, 2020-08-10, 2022-07-29, N/A, Created user-centric designs and responsive
+web interfaces., Conducted code reviews and mentored junior developers., Conducted system monitoring and performance tuning.,
+Managed cloud infrastructure and resource allocation., CI/CD, Kubernetes, GraphQL, Scrum, REST
+Education
+MSc, Computer Science, Security, Rodriguez-Richmond, Lake Raymondland, N/A, 2015-07-05, 2022-01-26, 2.92, Machine
+Learning, Distributed Systems, Software Engineering
+Skills
+Go, expert, C#, expert, Python, intermediate, React, intermediate, Angular, beginner, PostgreSQL, expert, MongoDB, beginner,
+Google Cloud, expert, English, fluent
+Projects
+Security Engineer Project, Conducted penetration tests and vulnerability assessments, identifying critical security flaws and
+implementing robust security measures., C#, JavaScript, C++, CI/CD, Security Engineer, http://www.aguilar.com/, Reach role me
+fear effort billion only begin old ground real.
+Certifications

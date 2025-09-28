@@ -1,0 +1,20 @@
+Aaron Herrera
+jonesstephen@example.net | 870.549.2462 | East Robert | Korea
+Experience
+Martinez-Johnston, Technology, Large, Android Developer, senior, internship, 2018-08-13, 2023-01-19, N/A, Performed software
+testing and resolved bugs efficiently., Automated deployment processes and continuous integration., Enhanced system security and
+performed regular audits., Designed and implemented machine learning models., Built and maintained scalable web applications.,
+Git, Kubernetes, Kanban, GitLab, Kubernetes, CI/CD
+Education
+BSc, Computer Science, Android, Villarreal-Warren, Martinezborough, N/A, 2015-10-26, 2022-06-02, 3.06, Magna Cum Laude,
+Network Security, Distributed Systems, Machine Learning, Database Systems
+Skills
+C++, intermediate, Java, intermediate, Flask, intermediate, React, intermediate, Django, intermediate, Redis, expert, Azure,
+intermediate, English, fluent
+Projects
+Android Developer Project, Developed a high-performance Android app using Kotlin that achieved 1 million downloads on the Google
+Play Store and received positive user reviews., GraphQL, REST, Android Developer, http://www.williams.com/, Beyond truth style
+central whether maybe whatever rate rise., Android Developer Project, Developed a high-performance Android app using Kotlin that
+achieved 1 million downloads on the Google Play Store and received positive user reviews., Git, REST, C#, Android Developer,
+https://www.fisher.com/, Resource protect trip blood know new member beautiful drop whose budget born member her nature.
+Certifications

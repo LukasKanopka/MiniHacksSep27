@@ -1,0 +1,21 @@
+Anita Rodriguez
+joanna55@example.com | 388-411-1313x9916 | Larachester | Ethiopia
+Experience
+Le, Rodriguez and Green, Technology, Small, Python Developer, senior, internship, 2020-11-15, 2023-04-17, N/A, Conducted
+system monitoring and performance tuning., Integrated third-party services into existing systems., Collaborated with cross-functional
+teams to design new features., REST, CI/CD, Kubernetes, Scrum, Kubernetes, Ellis, Thomas and Smith, Technology, Large, Python
+Developer, junior, internship, 2019-06-25, 2023-03-10, N/A, Collaborated with cross-functional teams to design new features.,
+Automated data processing pipelines., Performed software testing and resolved bugs efficiently., Developed and maintained CI/CD
+pipelines., GraphQL, Kanban, GitLab, Git, CI/CD
+Education
+MSc, Computer Science, Python, Rodriguez Inc, Bradleyton, N/A, 2016-04-09, 2022-12-09, 2.65, Advanced Algorithms, Distributed
+Systems, BSc, Computer Science, Python, Smith PLC, Williamtown, N/A, 2015-07-06, 2020-08-03, 3.76, Magna Cum Laude,
+Advanced Algorithms, Data Structures, Machine Learning, Database Systems
+Skills
+C#, beginner, C++, beginner, JavaScript, intermediate, Python, intermediate, React, beginner, MongoDB, intermediate, Redis,
+expert, AWS, intermediate, English, fluent
+Projects
+Python Developer Project, Developed a robust RESTful API using Flask and integrated it with cloud services, resulting in improved
+data processing and scalability., JavaScript, C#, C++, GraphQL, Python Developer, https://www.adams-norman.org/, Effect modern
+service hair bank floor perform may member determine fly phone.
+Certifications

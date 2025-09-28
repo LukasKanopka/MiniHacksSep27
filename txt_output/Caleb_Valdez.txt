@@ -1,0 +1,27 @@
+Caleb Valdez
+reedtracy@example.com | 358.217.4308 | North Anthony | Thailand
+Experience
+Roberts-Lucas, Technology, Small, Web Developer, junior, full-time, 2018-04-20, 2022-12-02, N/A, Conducted system monitoring
+and performance tuning., Collaborated with cross-functional teams to design new features., Developed and deployed scalable
+solutions., Git, GraphQL, Scrum, Kubernetes, Baxter-Mcgrath, Technology, Medium, Web Developer, mid, contract, 2019-01-15,
+2024-10-19, N/A, Deployed applications on cloud platforms and ensured scalability., Automated data processing pipelines.,
+Perfected data analysis and data visualization using Python and Tableau., Automated deployment processes and continuous
+integration., Kubernetes, Scrum, Jenkins, Long-Harris, Technology, Small, Web Developer, junior, full-time, 2020-10-31, 2023-03-16,
+N/A, Enhanced system security and performed regular audits., Integrated third-party services into existing systems., Conducted
+system monitoring and performance tuning., Perfected data analysis and data visualization using Python and Tableau., Utilized
+version control effectively in a team environment., Docker, Agile, GitLab
+Education
+MSc, Computer Science, Web, Nichols-Young, East Ashley, N/A, 2017-05-15, 2022-06-12, 2.57, Magna Cum Laude, Database
+Systems, Software Engineering, Network Security, Machine Learning, MSc, Computer Science, Web, Wade, Lee and Ballard, West
+Carolyn, N/A, 2016-07-23, 2019-05-12, 2.74, Magna Cum Laude, Data Structures, Network Security, Advanced Algorithms, Software
+Engineering
+Skills
+Ruby, intermediate, JavaScript, intermediate, React, intermediate, Flask, beginner, Redis, beginner, MySQL, beginner, Google
+Cloud, expert, English, fluent
+Projects
+Web Developer Project, Developed responsive web applications using HTML, CSS, and JavaScript, improving user experience and
+increasing user engagement., Python, Go, C#, Docker, Web Developer, http://nelson.biz/, Culture find six man design director
+realize., Web Developer Project, Developed responsive web applications using HTML, CSS, and JavaScript, improving user
+experience and increasing user engagement., REST, JavaScript, Ruby, Kubernetes, Web Developer, https://www.holden.com/,
+Identify those late table positive stock very role explain wife condition.
+Certifications

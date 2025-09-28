@@ -1,0 +1,26 @@
+Ana Brooks
+darrell75@example.net | +1-558-304-8556 | Jordanfurt | Antigua and Barbuda
+Experience
+Lopez Inc, Technology, Medium, Computer Vision Engineer, junior, contract, 2019-12-09, 2023-05-07, N/A, Implemented security
+best practices and data protection measures., Ensured application responsiveness and seamless user experience., Optimized
+system performance and reduced latency., Conducted system monitoring and performance tuning., Implemented RESTful APIs and
+microservices., GraphQL, Agile, Git, GraphQL, Cook Inc, Technology, Medium, Computer Vision Engineer, mid, contract,
+2018-12-23, 2024-05-05, N/A, Perfected data analysis and data visualization using Python and Tableau., Optimized system
+performance and reduced latency., Developed and maintained CI/CD pipelines., Docker, Scrum, CI/CD, Docker, Docker, Mcneil Inc,
+Technology, Medium, Computer Vision Engineer, junior, internship, 2019-12-20, 2024-08-03, N/A, Deployed applications on cloud
+platforms and ensured scalability., Utilized version control effectively in a team environment., Perfected data analysis and data
+visualization using Python and Tableau., Ensured application responsiveness and seamless user experience., Git, Scrum, Docker,
+Docker
+Education
+MSc, Computer Science, Computer, Davidson PLC, East John, N/A, 2016-12-02, 2021-03-31, 3.81, Magna Cum Laude, Data
+Structures, Software Engineering, Network Security, Distributed Systems, MSc, Computer Science, Computer, Reynolds-Shaw,
+Brandimouth, N/A, 2018-08-18, 2021-02-17, 3.07, Magna Cum Laude, Distributed Systems, Advanced Algorithms, Data Structures
+Skills
+Python, expert, C#, intermediate, React, intermediate, Redis, expert, AWS, expert, English, fluent
+Projects
+Computer Vision Engineer Project, Implemented computer vision algorithms for video analytics, enabling real-time object tracking
+and enhancing surveillance systems., Python, Ruby, Java, Computer Vision Engineer, https://harris.org/, Left prepare doctor
+economic pay start world example., Computer Vision Engineer Project, Implemented computer vision algorithms for video analytics,
+enabling real-time object tracking and enhancing surveillance systems., Kubernetes, JavaScript, Computer Vision Engineer,
+http://lawrence.com/, Position meeting south set maybe media whole hope who maybe current glass.
+Certifications

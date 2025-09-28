@@ -1,0 +1,24 @@
+Alexis Harris
+andrea07@example.net | +1-349-493-3840x9307 | Rickyton | Korea
+Experience
+Hines-Harrison, Technology, Large, Full Stack Developer, junior, full-time, 2019-08-11, 2024-09-07, N/A, Utilized version control
+effectively in a team environment., Managed cloud infrastructure and resource allocation., Conducted code reviews and mentored
+junior developers., Integrated third-party services into existing systems., Git, CI/CD, REST, Kanban, CI/CD, REST, Evans and Sons,
+Technology, Medium, Full Stack Developer, mid, contract, 2020-03-09, 2022-02-28, N/A, Implemented RESTful APIs and
+microservices., Created user-centric designs and responsive web interfaces., Performed software testing and resolved bugs
+efficiently., Optimized system performance and reduced latency., Developed and maintained CI/CD pipelines., Docker, Kubernetes,
+Scrum, REST, CI/CD, Kubernetes, Davis, Pena and Davis, Technology, Medium, Full Stack Developer, senior, contract, 2020-10-01,
+2022-08-11, N/A, Conducted code reviews and mentored junior developers., Designed and implemented machine learning models.,
+Implemented RESTful APIs and microservices., GraphQL, Git, Scrum, REST, Kubernetes
+Education
+MSc, Computer Science, Full, Elliott-Rose, New Keith, N/A, 2018-02-02, 2022-09-03, 3.38, Magna Cum Laude, Machine Learning,
+Database Systems, Data Structures, Software Engineering, BSc, Computer Science, Full, Nunez, Nelson and Cox, Beasleyfort, N/A,
+2017-11-08, 2022-07-03, 3.66, Magna Cum Laude, Database Systems, Network Security, Data Structures, Machine Learning
+Skills
+Python, intermediate, Go, expert, C++, intermediate, JavaScript, intermediate, Angular, beginner, React, intermediate, PostgreSQL,
+intermediate, MongoDB, intermediate, AWS, expert, English, fluent
+Projects
+Full Stack Developer Project, Developed end-to-end web applications using React and Django, providing seamless user experiences
+and robust backend functionality., Docker, Python, Kubernetes, Full Stack Developer, http://joseph.com/, Sense fight social per
+doctor treat animal your though least happen idea.
+Certifications

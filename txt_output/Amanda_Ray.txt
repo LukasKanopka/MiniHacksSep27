@@ -1,0 +1,27 @@
+Amanda Ray
+sguerrero@example.org | 287.448.2137x8028 | Jennifermouth | Zambia
+Experience
+Potter LLC, Technology, Large, Cybersecurity Engineer, mid, contract, 2019-06-07, 2023-05-22, N/A, Optimized application
+performance and improved user engagement., Deployed applications on cloud platforms and ensured scalability., Developed and
+maintained CI/CD pipelines., Git, GraphQL, Scrum, Git, Kubernetes, Lester, Benjamin and Bishop, Technology, Medium,
+Cybersecurity Engineer, mid, contract, 2019-11-26, 2024-06-30, N/A, Automated data processing pipelines., Conducted system
+monitoring and performance tuning., Implemented RESTful APIs and microservices., Developed and maintained CI/CD pipelines.,
+Perfected data analysis and data visualization using Python and Tableau., Docker, GraphQL, Git, Scrum, Docker, Velasquez,
+Mitchell and King, Technology, Small, Cybersecurity Engineer, junior, full-time, 2019-08-15, 2024-09-22, N/A, Built and maintained
+scalable web applications., Automated deployment processes and continuous integration., Enhanced system security and performed
+regular audits., Optimized application performance and improved user engagement., Docker, GraphQL, Scrum, Docker, CI/CD,
+GitLab
+Education
+MSc, Computer Science, Cybersecurity, Solis and Sons, Phillipsview, N/A, 2015-11-19, 2020-07-05, 3.28, Data Structures, Database
+Systems, Distributed Systems
+Skills
+Java, beginner, C++, beginner, C#, expert, Python, intermediate, Vue, beginner, Spring, beginner, React, expert, Oracle, expert,
+MongoDB, intermediate, Azure, intermediate, English, fluent
+Projects
+Cybersecurity Engineer Project, Conducted security assessments and implemented security controls, reducing security
+vulnerabilities by 60% and enhancing system security., JavaScript, CI/CD, GraphQL, Cybersecurity Engineer,
+http://johnson-reid.com/, Almost miss market special dog force east share how floor door situation three relate., Cybersecurity
+Engineer Project, Conducted security assessments and implemented security controls, reducing security vulnerabilities by 60% and
+enhancing system security., Python, REST, Java, Kubernetes, Cybersecurity Engineer, https://hardy.net/, Ten environment indicate
+month many culture mission law approach service Democrat reflect time wall.
+Certifications

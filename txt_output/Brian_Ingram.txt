@@ -1,0 +1,22 @@
+Brian Ingram
+umartinez@example.com | 375.814.4235x30372 | Leemouth | Burundi
+Experience
+Miller, Graham and Flores, Technology, Small, Backend Developer, senior, internship, 2021-07-09, 2023-03-06, N/A, Optimized
+system performance and reduced latency., Automated data processing pipelines., Implemented security best practices and data
+protection measures., Implemented RESTful APIs and microservices., CI/CD, Kanban, Jenkins, Farrell, Washington and Ferguson,
+Technology, Small, Backend Developer, junior, full-time, 2022-01-13, 2022-08-15, N/A, Collaborated with cross-functional teams to
+design new features., Developed and maintained database schemas and queries., Automated deployment processes and
+continuous integration., Integrated third-party services into existing systems., Optimized system performance and reduced latency.,
+Git, GraphQL, Agile, GraphQL, Docker, Kubernetes
+Education
+BSc, Computer Science, Backend, Morris Inc, Chadtown, N/A, 2017-08-20, 2020-01-21, 3.76, Network Security, Database Systems,
+Machine Learning, Advanced Algorithms, MSc, Computer Science, Backend, Simmons Group, Lake Jessica, N/A, 2015-09-04,
+2019-04-15, 3.48, Magna Cum Laude, Advanced Algorithms, Network Security, Database Systems, Data Structures
+Skills
+Ruby, expert, Python, beginner, Spring, intermediate, Oracle, expert, PostgreSQL, intermediate, Google Cloud, expert, English,
+fluent
+Projects
+Backend Developer Project, Built scalable backend systems using Python and Django, enabling efficient data processing and
+seamless integration with front-end applications., JavaScript, REST, Kubernetes, Backend Developer, https://finley.com/, A
+agreement shake none yourself television practice term three choice.
+Certifications

@@ -1,0 +1,17 @@
+Amanda Bailey
+jessica83@example.org | 431-454-8890x56051 | Lake Juanstad | Ethiopia
+Experience
+Randolph Inc, Technology, Medium, Penetration Tester, mid, internship, 2021-06-04, 2023-01-23, N/A, Developed and deployed
+scalable solutions., Automated deployment processes and continuous integration., Created user-centric designs and responsive web
+interfaces., Utilized version control effectively in a team environment., REST, GraphQL, Docker, Kanban, REST, Kubernetes, Jenkins
+Education
+BSc, Computer Science, Penetration, Knight PLC, Davidton, N/A, 2018-12-24, 2023-01-03, 3.84, Dean's List, Network Security,
+Advanced Algorithms, Database Systems
+Skills
+JavaScript, beginner, Python, intermediate, Vue, beginner, Angular, expert, Node.js, expert, PostgreSQL, intermediate, AWS,
+beginner, English, fluent
+Projects
+Penetration Tester Project, Conducted penetration tests and vulnerability assessments, identifying security weaknesses and
+providing recommendations for improved security measures., C#, CI/CD, Penetration Tester, https://www.torres-brown.com/, Military
+protect ever American Congress fill me product notice vote everybody election stage spring purpose.
+Certifications

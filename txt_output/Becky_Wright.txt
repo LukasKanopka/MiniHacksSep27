@@ -1,0 +1,26 @@
+Becky Wright
+lkelly@example.com | (926)360-8895 | Pattyport | Singapore
+Experience
+Walker LLC, Technology, Medium, Android Developer, senior, full-time, 2019-08-01, 2024-07-01, N/A, Utilized version control
+effectively in a team environment., Conducted system monitoring and performance tuning., Designed and implemented machine
+learning models., Ensured application responsiveness and seamless user experience., Docker, CI/CD, Kanban, Git, Gross-May,
+Technology, Medium, Android Developer, mid, full-time, 2019-09-27, 2024-03-22, N/A, Perfected data analysis and data visualization
+using Python and Tableau., Optimized application performance and improved user engagement., Implemented RESTful APIs and
+microservices., Designed and implemented machine learning models., Git, REST, Scrum, GraphQL, Jenkins, REST, Davis-Curry,
+Technology, Large, Android Developer, mid, full-time, 2019-12-15, 2023-11-11, N/A, Implemented RESTful APIs and microservices.,
+Created user-centric designs and responsive web interfaces., Optimized application performance and improved user engagement.,
+Performed software testing and resolved bugs efficiently., CI/CD, Git, GraphQL, Scrum, REST, GitLab, Git
+Education
+MSc, Computer Science, Android, Hall-Pearson, New Coreytown, N/A, 2016-10-31, 2023-02-11, 2.84, Dean's List, Data Structures,
+Software Engineering, Network Security
+Skills
+C#, beginner, C++, beginner, Java, intermediate, Spring, expert, Flask, intermediate, Django, beginner, PostgreSQL, beginner,
+Oracle, beginner, AWS, beginner, English, fluent
+Projects
+Android Developer Project, Developed a high-performance Android app using Kotlin that achieved 1 million downloads on the Google
+Play Store and received positive user reviews., C++, GraphQL, JavaScript, Android Developer, https://wong.com/, Performance
+discuss improve fast and speak air within sometimes give mention able religious newspaper American decision., Android Developer
+Project, Developed a high-performance Android app using Kotlin that achieved 1 million downloads on the Google Play Store and
+received positive user reviews., JavaScript, Go, Python, Android Developer, https://www.duncan.com/, Air ground couple pick left
+include between artist fine.
+Certifications

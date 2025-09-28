@@ -1,0 +1,25 @@
+Annette Myers
+teresagentry@example.org | (492)255-6849 | West Elizabeth | Colombia
+Experience
+Moore Inc, Technology, Large, Data Engineer, senior, internship, 2020-08-08, 2024-06-11, N/A, Enhanced system security and
+performed regular audits., Integrated third-party services into existing systems., Automated deployment processes and continuous
+integration., Ensured application responsiveness and seamless user experience., Kubernetes, Agile, CI/CD, Docker, Jenkins,
+Smith-Graham, Technology, Small, Data Engineer, mid, contract, 2018-11-18, 2023-01-25, N/A, Collaborated with cross-functional
+teams to design new features., Optimized application performance and improved user engagement., Implemented RESTful APIs and
+microservices., Kubernetes, Docker, CI/CD, Agile, Kubernetes, Docker, Chung Inc, Technology, Medium, Data Engineer, senior,
+internship, 2019-08-21, 2022-07-21, N/A, Designed and implemented machine learning models., Perfected data analysis and data
+visualization using Python and Tableau., Managed cloud infrastructure and resource allocation., Conducted system monitoring and
+performance tuning., GraphQL, REST, Kanban, Kubernetes
+Education
+BSc, Computer Science, Data, Rodriguez-Thomas, New Joel, N/A, 2018-10-30, 2021-02-09, 3.89, Dean's List, Machine Learning,
+Database Systems, Distributed Systems
+Skills
+Go, expert, JavaScript, beginner, Ruby, beginner, Python, intermediate, Node.js, expert, Spring, expert, PostgreSQL, expert, Oracle,
+intermediate, Google Cloud, intermediate, English, fluent
+Projects
+Data Engineer Project, Developed ETL pipelines for data processing and analysis, enabling real-time data insights and improving
+data quality and integrity., GraphQL, Git, C#, Data Engineer, https://www.martin.com/, Visit contain week arrive most adult
+everybody., Data Engineer Project, Developed ETL pipelines for data processing and analysis, enabling real-time data insights and
+improving data quality and integrity., GraphQL, REST, JavaScript, C++, Data Engineer, https://murphy-gutierrez.info/, College the tell
+cover finish stop door where range which boy ahead true phone record according.
+Certifications

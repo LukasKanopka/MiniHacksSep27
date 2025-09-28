@@ -1,0 +1,17 @@
+Brandon Malone
+robertgray@example.org | 526-596-6454x097 | Port Matthewbury | Comoros
+Experience
+Fields-Hill, Technology, Large, Android Developer, senior, contract, 2019-02-28, 2022-12-28, N/A, Designed and implemented
+machine learning models., Integrated third-party services into existing systems., Developed and maintained database schemas and
+queries., Kubernetes, Agile, GitLab, Jenkins, REST
+Education
+MSc, Computer Science, Android, Snow Group, Brownbury, N/A, 2019-02-09, 2022-01-29, 3.79, Dean's List, Data Structures,
+Distributed Systems, Advanced Algorithms, Software Engineering
+Skills
+Ruby, beginner, C#, beginner, Java, intermediate, Node.js, beginner, React, beginner, Vue, expert, Redis, expert, Google Cloud,
+intermediate, English, fluent
+Projects
+Android Developer Project, Developed a high-performance Android app using Kotlin that achieved 1 million downloads on the Google
+Play Store and received positive user reviews., Python, Java, Go, Android Developer, https://banks.com/, American nice dinner stand
+street sport evidence total should soldier official theory see.
+Certifications

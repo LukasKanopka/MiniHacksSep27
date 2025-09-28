@@ -1,0 +1,26 @@
+Ashley Baker
+allisonrivera@example.org | (477)974-5701x3353 | Robinsontown | Croatia
+Experience
+Edwards, Wilson and Anderson, Technology, Small, Data Scientist, junior, internship, 2019-11-28, 2023-04-26, N/A, Implemented
+security best practices and data protection measures., Utilized version control effectively in a team environment., Built and
+maintained scalable web applications., Created user-centric designs and responsive web interfaces., CI/CD, GraphQL, REST,
+Kanban, GraphQL, Git, Smith, York and Johnson, Technology, Large, Data Scientist, junior, internship, 2021-11-13, 2024-11-25,
+N/A, Automated deployment processes and continuous integration., Ensured application responsiveness and seamless user
+experience., Developed and deployed scalable solutions., Developed and maintained CI/CD pipelines., Collaborated with
+cross-functional teams to design new features., REST, Scrum, GraphQL, Lin PLC, Technology, Large, Data Scientist, senior,
+internship, 2020-02-19, 2023-10-31, N/A, Built and maintained scalable web applications., Performed software testing and resolved
+bugs efficiently., Managed cloud infrastructure and resource allocation., Developed and maintained CI/CD pipelines., Enhanced
+system security and performed regular audits., GraphQL, Scrum, Docker
+Education
+BSc, Computer Science, Data, Mason, Holt and Bennett, Richardside, N/A, 2015-05-23, 2022-11-19, 2.56, Magna Cum Laude,
+Software Engineering, Machine Learning
+Skills
+Ruby, intermediate, C#, intermediate, Python, intermediate, Node.js, expert, React, expert, MongoDB, expert, Azure, intermediate,
+English, fluent
+Projects
+Data Scientist Project, Designed and deployed machine learning models that significantly improved predictive accuracy and provided
+actionable insights for business strategy., REST, CI/CD, Kubernetes, Data Scientist, https://cole-lynch.net/, Soldier newspaper there
+but data tell pressure., Data Scientist Project, Designed and deployed machine learning models that significantly improved predictive
+accuracy and provided actionable insights for business strategy., Java, Docker, Data Scientist, http://matthews.org/, Mrs land from
+general culture very phone listen information heart win.
+Certifications

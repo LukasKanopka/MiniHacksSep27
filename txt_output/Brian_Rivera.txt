@@ -1,0 +1,22 @@
+Brian Rivera
+wromero@example.org | 969-936-9671x7806 | New Jonathanchester | Bhutan
+Experience
+Hunter PLC, Technology, Small, Kubernetes Engineer, mid, contract, 2021-09-25, 2023-03-07, N/A, Developed and maintained
+CI/CD pipelines., Created user-centric designs and responsive web interfaces., Built and maintained scalable web applications.,
+REST, CI/CD, Scrum, CI/CD, Kubernetes, Docker, Sutton, Jones and Burnett, Technology, Small, Kubernetes Engineer, junior,
+internship, 2022-01-17, 2024-12-28, N/A, Managed cloud infrastructure and resource allocation., Collaborated with cross-functional
+teams to design new features., Developed and maintained CI/CD pipelines., GraphQL, Docker, Agile, REST
+Education
+BSc, Computer Science, Kubernetes, Heath-Ross, Carterview, N/A, 2017-04-25, 2021-11-14, 3.39, Machine Learning, Software
+Engineering, Network Security, MSc, Computer Science, Kubernetes, Wilson, Holt and Johns, Lake Kyle, N/A, 2018-08-01,
+2021-09-03, 3.59, Distributed Systems, Advanced Algorithms, Network Security
+Skills
+Python, expert, C++, beginner, C#, beginner, React, expert, Spring, beginner, Node.js, intermediate, PostgreSQL, intermediate,
+AWS, expert, English, fluent
+Projects
+Kubernetes Engineer Project, Managed Kubernetes clusters for container orchestration, improving system reliability and enabling
+seamless deployment of microservices., Python, Git, C++, Kubernetes Engineer, http://www.jordan.com/, Learn that sea staff
+marriage imagine wind threat expect speak argue heart keep radio., Kubernetes Engineer Project, Managed Kubernetes clusters for
+container orchestration, improving system reliability and enabling seamless deployment of microservices., Java, Docker, Kubernetes
+Engineer, http://www.hardy.com/, More onto as suddenly husband other reality rate.
+Certifications

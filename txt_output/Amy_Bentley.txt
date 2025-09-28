@@ -1,0 +1,21 @@
+Amy Bentley
+emilymoran@example.net | 001-297-579-1803x53750 | Loribury | Cook Islands
+Experience
+Baker-Sullivan, Technology, Small, Nlp Engineer, senior, internship, 2019-06-26, 2023-10-18, N/A, Built and maintained scalable
+web applications., Managed cloud infrastructure and resource allocation., Conducted code reviews and mentored junior developers.,
+Conducted system monitoring and performance tuning., Enhanced system security and performed regular audits., GraphQL, REST,
+Agile, Docker, Miller-Torres, Technology, Large, Nlp Engineer, junior, internship, 2021-12-16, 2022-08-04, N/A, Perfected data
+analysis and data visualization using Python and Tableau., Deployed applications on cloud platforms and ensured scalability.,
+Optimized system performance and reduced latency., Implemented security best practices and data protection measures.,
+Performed software testing and resolved bugs efficiently., GraphQL, Kubernetes, Kanban, GraphQL, REST, CI/CD
+Education
+BSc, Computer Science, Nlp, Franco-Briggs, East Katherine, N/A, 2015-03-18, 2022-02-11, 3.74, Dean's List, Advanced Algorithms,
+Network Security, Software Engineering, Data Structures, MSc, Computer Science, Nlp, Byrd, Green and Daugherty, North
+Colleenton, N/A, 2015-12-17, 2019-12-12, 2.9, Magna Cum Laude, Database Systems, Machine Learning
+Skills
+Go, expert, Python, intermediate, Spring, expert, MongoDB, expert, AWS, beginner, English, fluent
+Projects
+Nlp Engineer Project, Developed a sentiment analysis model using natural language processing techniques, improving customer
+feedback analysis and sentiment classification accuracy., Ruby, C#, Go, Nlp Engineer, http://www.ross.net/, Trip adult whether out
+scientist inside nor seem same work.
+Certifications

@@ -1,0 +1,21 @@
+Andrew Mitchell
+nicolejones@example.net | (907)543-6191 | Lorrainestad | Chad
+Experience
+Andrade, Guerra and Bartlett, Technology, Medium, Information Security Analyst, mid, full-time, 2019-10-31, 2024-04-30, N/A,
+Utilized version control effectively in a team environment., Implemented RESTful APIs and microservices., Optimized system
+performance and reduced latency., Git, Kubernetes, REST, Kanban, Jenkins, Spencer and Sons, Technology, Medium, Information
+Security Analyst, junior, full-time, 2022-01-08, 2024-06-28, N/A, Integrated third-party services into existing systems., Perfected data
+analysis and data visualization using Python and Tableau., Developed and maintained database schemas and queries., Git, Kanban,
+GitLab, Docker
+Education
+MSc, Computer Science, Information, West, West and Rodriguez, Keithfort, N/A, 2018-02-05, 2019-05-08, 2.63, Dean's List,
+Database Systems, Data Structures, Network Security, MSc, Computer Science, Information, Nguyen-Bowman, Lake Teresachester,
+N/A, 2015-02-22, 2021-08-28, 2.98, Dean's List, Advanced Algorithms, Software Engineering, Data Structures, Machine Learning
+Skills
+Go, expert, Ruby, expert, Python, intermediate, React, expert, Redis, intermediate, MySQL, intermediate, Azure, beginner, English,
+fluent
+Projects
+Information Security Analyst Project, Performed security audits and risk assessments, identifying critical security gaps and
+implementing security measures to protect sensitive data., REST, Docker, Information Security Analyst, http://www.osborne.com/,
+Expect recently pass yet certain water exist laugh fire buy include.
+Certifications

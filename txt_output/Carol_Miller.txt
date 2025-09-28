@@ -1,0 +1,21 @@
+Carol Miller
+sandersadam@example.com | 484-257-0059 | Haleyberg | Macao
+Experience
+Serrano and Sons, Technology, Large, Embedded Systems Engineer, junior, full-time, 2020-01-09, 2024-06-09, N/A, Automated
+data processing pipelines., Designed and implemented machine learning models., Optimized application performance and improved
+user engagement., Integrated third-party services into existing systems., Ensured application responsiveness and seamless user
+experience., Kubernetes, REST, CI/CD, Agile, GitLab, Obrien LLC, Technology, Medium, Embedded Systems Engineer, mid,
+full-time, 2021-05-26, 2022-11-04, N/A, Collaborated with cross-functional teams to design new features., Designed and
+implemented machine learning models., Created user-centric designs and responsive web interfaces., Managed cloud infrastructure
+and resource allocation., Automated deployment processes and continuous integration., Git, GraphQL, Docker, Scrum, REST,
+Docker
+Education
+MSc, Computer Science, Embedded, Hood, Patel and Bridges, Gregoryberg, N/A, 2016-09-04, 2019-11-04, 3.7, Cum Laude,
+Distributed Systems, Advanced Algorithms, Data Structures
+Skills
+JavaScript, expert, C, intermediate, Node.js, expert, MongoDB, beginner, Azure, beginner, English, fluent
+Projects
+Embedded Systems Engineer Project, Developed firmware for IoT devices, enhancing device functionality and enabling real-time
+data processing for smart home applications., JavaScript, C++, Embedded Systems Engineer, https://www.myers.net/, Top analysis
+popular away sell consumer soon up woman mean whatever somebody now.
+Certifications

@@ -1,0 +1,18 @@
+Carl Carter
+eoneill@example.net | 637-898-8325x9107 | East Michaelport | Israel
+Experience
+Thompson, Dunn and Riley, Technology, Medium, Machine Learning Engineer, mid, contract, 2019-03-07, 2023-12-27, N/A,
+Integrated third-party services into existing systems., Managed cloud infrastructure and resource allocation., Developed and
+deployed scalable solutions., REST, Docker, Scrum, GitLab, CI/CD, Kubernetes
+Education
+BSc, Computer Science, Machine, Barron and Sons, Thomaschester, N/A, 2018-01-21, 2019-08-28, 2.79, Magna Cum Laude,
+Database Systems, Distributed Systems, Software Engineering, Data Structures, MSc, Computer Science, Machine, Phillips-Bryant,
+Burtonborough, N/A, 2015-09-04, 2022-05-24, 2.92, Magna Cum Laude, Network Security, Machine Learning
+Skills
+C#, intermediate, Python, intermediate, Django, beginner, Spring, expert, Angular, beginner, PostgreSQL, intermediate, AWS,
+beginner, English, fluent
+Projects
+Machine Learning Engineer Project, Suggest style list summer first set most. Their leave many use point. Radio pattern central
+soldier question data stage. Approach part ask authority here could. Add serious analysis hope., Git, GraphQL, Machine Learning
+Engineer, https://www.lewis.com/, Provide her interest by table fact shake within none.
+Certifications

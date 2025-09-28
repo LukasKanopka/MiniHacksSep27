@@ -1,0 +1,23 @@
+Carol Cochran
+ywheeler@example.com | 523.269.3546 | Cruztown | Swaziland
+Experience
+Johnson-Warren, Technology, Medium, Flutter Developer, senior, full-time, 2019-05-14, 2024-02-04, N/A, Automated data
+processing pipelines., Developed and maintained CI/CD pipelines., Enhanced system security and performed regular audits., CI/CD,
+Agile, Docker, Jenkins, Mcfarland Inc, Technology, Large, Flutter Developer, senior, internship, 2020-04-27, 2025-01-04, N/A,
+Automated deployment processes and continuous integration., Implemented security best practices and data protection measures.,
+Automated data processing pipelines., Collaborated with cross-functional teams to design new features., Kubernetes, Git, CI/CD,
+Scrum, REST, GraphQL, Jenkins
+Education
+MSc, Computer Science, Flutter, Lowery PLC, Lake Jeffreyhaven, N/A, 2018-06-20, 2019-06-22, 3.81, Magna Cum Laude,
+Distributed Systems, Machine Learning, BSc, Computer Science, Flutter, Young, Carroll and Richmond, East Catherinefurt, N/A,
+2016-06-18, 2021-11-24, 3.63, Dean's List, Distributed Systems, Database Systems, Data Structures, Software Engineering
+Skills
+Go, beginner, Java, beginner, Dart, intermediate, Node.js, intermediate, Django, expert, Vue, beginner, MySQL, expert, AWS,
+expert, English, fluent
+Projects
+Flutter Developer Project, Developed a custom mobile app using Flutter that increased user retention by 25% and provided a modern
+and intuitive user interface., C#, GraphQL, Flutter Developer, http://coleman-rocha.net/, Rise service short number point appear
+result., Flutter Developer Project, Developed a custom mobile app using Flutter that increased user retention by 25% and provided a
+modern and intuitive user interface., Java, Git, Python, Flutter Developer, http://schmidt.com/, Rise loss similar check short speech
+crime note employee risk traditional visit ability industry.
+Certifications

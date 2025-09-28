@@ -1,0 +1,19 @@
+Austin Petty
+fsmith@example.net | +1-964-212-0751x856 | North Heatherfurt | New Zealand
+Experience
+Hobbs, Richardson and Clark, Technology, Large, Nlp Engineer, senior, contract, 2021-02-04, 2023-03-14, N/A, Conducted system
+monitoring and performance tuning., Optimized application performance and improved user engagement., Developed and deployed
+scalable solutions., Ensured application responsiveness and seamless user experience., Perfected data analysis and data
+visualization using Python and Tableau., CI/CD, Kanban, Git
+Education
+MSc, Computer Science, Nlp, Mcintyre-Wood, Priscillaton, N/A, 2017-01-11, 2019-05-11, 3.67, Magna Cum Laude, Advanced
+Algorithms, Data Structures, Network Security, Software Engineering
+Skills
+Python, expert, Go, intermediate, C#, beginner, Flask, expert, Oracle, expert, AWS, intermediate, English, fluent
+Projects
+Nlp Engineer Project, Developed a sentiment analysis model using natural language processing techniques, improving customer
+feedback analysis and sentiment classification accuracy., JavaScript, Ruby, GraphQL, Python, Nlp Engineer,
+https://www.williams.biz/, Fish detail rich pattern base yourself board., Nlp Engineer Project, Developed a sentiment analysis model
+using natural language processing techniques, improving customer feedback analysis and sentiment classification accuracy., Go,
+Git, Java, JavaScript, Nlp Engineer, https://www.rice.info/, Notice conference leave thank spring person among career.
+Certifications

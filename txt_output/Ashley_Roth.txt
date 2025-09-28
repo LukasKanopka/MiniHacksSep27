@@ -1,0 +1,25 @@
+Ashley Roth
+berrykendra@example.com | +1-797-508-5085x1659 | Aaronmouth | Seychelles
+Experience
+Day, Mcclain and Novak, Technology, Small, Javascript Developer, mid, internship, 2020-11-22, 2024-05-21, N/A, Collaborated with
+cross-functional teams to design new features., Conducted code reviews and mentored junior developers., Developed and
+maintained database schemas and queries., Enhanced system security and performed regular audits., REST, Scrum, Docker,
+Petersen, Cruz and Vargas, Technology, Small, Javascript Developer, junior, full-time, 2021-03-22, 2024-03-20, N/A, Enhanced
+system security and performed regular audits., Utilized version control effectively in a team environment., Optimized application
+performance and improved user engagement., Developed and maintained database schemas and queries., Integrated third-party
+services into existing systems., CI/CD, Agile, Docker, REST, Booth, Washington and Sanchez, Technology, Large, Javascript
+Developer, junior, internship, 2021-05-16, 2022-11-09, N/A, Developed and deployed scalable solutions., Created user-centric
+designs and responsive web interfaces., Perfected data analysis and data visualization using Python and Tableau., Collaborated with
+cross-functional teams to design new features., Deployed applications on cloud platforms and ensured scalability., GraphQL,
+Kubernetes, Docker, Scrum, Kubernetes
+Education
+BSc, Computer Science, Javascript, Camacho, Duffy and Ruiz, South Michele, N/A, 2018-10-13, 2021-06-03, 3.9, Cum Laude,
+Distributed Systems, Machine Learning
+Skills
+Go, beginner, JavaScript, expert, Ruby, intermediate, Django, expert, React, beginner, PostgreSQL, expert, Azure, expert, English,
+fluent
+Projects
+Javascript Developer Project, Created a dynamic single-page application using React that enhanced user engagement and
+streamlined client-side performance., Kubernetes, Ruby, Javascript Developer, http://www.williams.com/, Good nation particular
+better peace fear too simply full last.
+Certifications

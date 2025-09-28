@@ -1,0 +1,20 @@
+Brendan Davidson
+timothy46@example.net | 485.808.1302 | Christopherberg | Slovenia
+Experience
+Stevenson, Buckley and Contreras, Technology, Large, Qa Engineer, mid, contract, 2020-02-21, 2022-03-07, N/A, Implemented
+security best practices and data protection measures., Managed cloud infrastructure and resource allocation., Automated
+deployment processes and continuous integration., Automated data processing pipelines., Git, Agile, Jenkins, Kubernetes, Bell,
+Davis and Adams, Technology, Small, Qa Engineer, junior, full-time, 2021-12-28, 2023-07-21, N/A, Developed and maintained CI/CD
+pipelines., Optimized application performance and improved user engagement., Integrated third-party services into existing systems.,
+Deployed applications on cloud platforms and ensured scalability., Designed and implemented machine learning models., Docker,
+GraphQL, Git, Kanban, Git, Kubernetes
+Education
+MSc, Computer Science, Qa, Harris-Kelley, Emilyberg, N/A, 2015-12-05, 2022-02-13, 3.25, Magna Cum Laude, Advanced
+Algorithms, Network Security, Database Systems, Software Engineering, MSc, Computer Science, Qa, Becker Ltd, New Sarahland,
+N/A, 2016-08-01, 2021-05-18, 3.51, Dean's List, Data Structures, Distributed Systems, Software Engineering
+Skills
+Python, expert, Django, expert, Redis, intermediate, MySQL, intermediate, Google Cloud, expert, English, fluent
+Projects
+Qa Engineer Project, Automated test scripts using Selenium and Python, reducing manual testing efforts and improving software
+quality., JavaScript, Java, Qa Engineer, https://rivas-rowland.org/, Friend guy save author manager base position popular hot build.
+Certifications

@@ -1,0 +1,23 @@
+Alyssa Gutierrez
+michael08@example.com | 568.496.7440x3912 | North Andrewside | Rwanda
+Experience
+Proctor Ltd, Technology, Medium, Information Security Analyst, mid, internship, 2018-08-13, 2023-05-06, N/A, Perfected data
+analysis and data visualization using Python and Tableau., Developed and deployed scalable solutions., Implemented RESTful APIs
+and microservices., Deployed applications on cloud platforms and ensured scalability., Managed cloud infrastructure and resource
+allocation., Docker, REST, Kanban, GitLab, GraphQL, Docker, Fuller PLC, Technology, Medium, Information Security Analyst,
+senior, full-time, 2021-12-10, 2024-04-12, N/A, Optimized system performance and reduced latency., Built and maintained scalable
+web applications., Automated deployment processes and continuous integration., Automated data processing pipelines., GraphQL,
+Kanban, Git, Kubernetes, Murphy-Hughes, Technology, Medium, Information Security Analyst, senior, full-time, 2019-03-12,
+2022-11-04, N/A, Managed cloud infrastructure and resource allocation., Designed and implemented machine learning models.,
+Deployed applications on cloud platforms and ensured scalability., Conducted code reviews and mentored junior developers., Git,
+Kubernetes, REST, Kanban, Docker
+Education
+MSc, Computer Science, Information, Stewart LLC, West Kimberly, N/A, 2019-02-05, 2019-03-13, 3.08, Cum Laude, Machine
+Learning, Data Structures, Distributed Systems
+Skills
+C++, expert, Python, intermediate, Flask, beginner, Redis, expert, Google Cloud, intermediate, English, fluent
+Projects
+Information Security Analyst Project, Performed security audits and risk assessments, identifying critical security gaps and
+implementing security measures to protect sensitive data., Kubernetes, Git, Docker, Information Security Analyst,
+https://www.cruz.com/, Early between again stock minute give yet city must newspaper enter later subject job single executive.
+Certifications

@@ -1,0 +1,29 @@
+Anthony Conley
+uramirez@example.net | 662-486-0835x612 | New Ronald | New Zealand
+Experience
+Harris-Hayes, Technology, Medium, Infrastructure Engineer, junior, contract, 2021-06-01, 2024-08-25, N/A, Optimized application
+performance and improved user engagement., Integrated third-party services into existing systems., Conducted code reviews and
+mentored junior developers., Automated deployment processes and continuous integration., Implemented security best practices and
+data protection measures., Kubernetes, Git, REST, Agile, GitLab, Taylor, Smith and Alexander, Technology, Medium, Infrastructure
+Engineer, junior, internship, 2019-10-14, 2024-06-16, N/A, Deployed applications on cloud platforms and ensured scalability.,
+Perfected data analysis and data visualization using Python and Tableau., Conducted code reviews and mentored junior developers.,
+Git, Agile, Git, GitLab, Harrell and Sons, Technology, Small, Infrastructure Engineer, mid, contract, 2020-08-03, 2024-10-02, N/A,
+Utilized version control effectively in a team environment., Developed and maintained CI/CD pipelines., Created user-centric designs
+and responsive web interfaces., Collaborated with cross-functional teams to design new features., Perfected data analysis and data
+visualization using Python and Tableau., Kubernetes, Scrum, GitLab, REST, CI/CD
+Education
+MSc, Computer Science, Infrastructure, Mata PLC, Meghanburgh, N/A, 2016-10-22, 2022-07-10, 2.66, Magna Cum Laude, Data
+Structures, Distributed Systems, Network Security, Database Systems, MSc, Computer Science, Infrastructure, Dixon Ltd,
+Clarkshire, N/A, 2015-07-20, 2021-08-23, 2.97, Cum Laude, Advanced Algorithms, Database Systems, Network Security, Machine
+Learning
+Skills
+C++, intermediate, C#, intermediate, Ruby, beginner, Vue, intermediate, MySQL, beginner, PostgreSQL, expert, Azure, expert,
+English, fluent
+Projects
+Infrastructure Engineer Project, Designed and implemented cloud infrastructure using Terraform, reducing deployment time by 50%
+and improving system scalability., Ruby, JavaScript, Docker, Infrastructure Engineer, https://www.knox-gomez.info/, Help television
+probably plant for player building over card somebody thing reach before from up., Infrastructure Engineer Project, Designed and
+implemented cloud infrastructure using Terraform, reducing deployment time by 50% and improving system scalability., GraphQL,
+Docker, C++, Infrastructure Engineer, https://medina-sanchez.com/, Player weight benefit suffer game everyone go industry
+movement rule protect.
+Certifications

@@ -1,0 +1,20 @@
+Amanda Obrien
+millerfrederick@example.net | (556)461-5508x768 | Port Vicki | Western Sahara
+Experience
+Lewis-Mcdonald, Technology, Large, Mobile Developer, mid, contract, 2021-03-11, 2024-09-16, N/A, Optimized application
+performance and improved user engagement., Automated data processing pipelines., Performed software testing and resolved bugs
+efficiently., Collaborated with cross-functional teams to design new features., Managed cloud infrastructure and resource allocation.,
+GraphQL, Kanban, Kubernetes, Jones-Lopez, Technology, Large, Mobile Developer, junior, contract, 2019-08-01, 2023-09-07, N/A,
+Developed and deployed scalable solutions., Conducted system monitoring and performance tuning., Optimized system performance
+and reduced latency., Conducted code reviews and mentored junior developers., REST, Kanban, GraphQL
+Education
+MSc, Computer Science, Mobile, Duke, Johns and Guerrero, Lake Monica, N/A, 2017-08-02, 2019-03-12, 3.62, Magna Cum Laude,
+Network Security, Distributed Systems, Software Engineering, Database Systems
+Skills
+Go, beginner, JavaScript, intermediate, Angular, beginner, Django, expert, Node.js, intermediate, PostgreSQL, beginner, Google
+Cloud, expert, English, fluent
+Projects
+Mobile Developer Project, Developed a cross-platform mobile app using React Native that achieved a 4.8-star rating on app stores
+and increased user retention by 30%., JavaScript, Go, Mobile Developer, http://www.cherry.com/, Nearly management result lay type
+support the black.
+Certifications

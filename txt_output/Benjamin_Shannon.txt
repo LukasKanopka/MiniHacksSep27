@@ -1,0 +1,22 @@
+Benjamin Shannon
+stewartolivia@example.org | 001-567-617-8399x06292 | Port Chadport | Uzbekistan
+Experience
+Roberson-Meadows, Technology, Large, Site Reliability Engineer, mid, contract, 2021-06-05, 2024-05-16, N/A, Automated
+deployment processes and continuous integration., Built and maintained scalable web applications., Developed and deployed
+scalable solutions., Created user-centric designs and responsive web interfaces., Implemented RESTful APIs and microservices.,
+GraphQL, REST, Agile, Git, GraphQL, Docker, Herman and Sons, Technology, Medium, Site Reliability Engineer, mid, internship,
+2019-11-10, 2022-06-24, N/A, Collaborated with cross-functional teams to design new features., Implemented security best practices
+and data protection measures., Implemented RESTful APIs and microservices., Created user-centric designs and responsive web
+interfaces., GraphQL, Agile, GraphQL, CI/CD
+Education
+MSc, Computer Science, Site, Ellis PLC, Gloriashire, N/A, 2018-04-01, 2021-07-05, 2.78, Cum Laude, Network Security, Software
+Engineering, Advanced Algorithms
+Skills
+JavaScript, expert, Java, intermediate, C++, beginner, Flask, intermediate, MongoDB, beginner, Azure, expert, English, fluent
+Projects
+Site Reliability Engineer Project, Implemented automated monitoring and alerting for a large-scale SaaS application, reducing
+downtime incidents by 70%., Python, C++, Site Reliability Engineer, https://fowler-allen.com/, Require right along rule security leave
+always., Site Reliability Engineer Project, Implemented automated monitoring and alerting for a large-scale SaaS application,
+reducing downtime incidents by 70%., Python, JavaScript, Git, CI/CD, Site Reliability Engineer, http://adams.net/, Firm group
+physical out foot individual rich show.
+Certifications

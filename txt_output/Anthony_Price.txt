@@ -1,0 +1,25 @@
+Anthony Price
+brookeburns@example.com | 2519267199 | Madisonburgh | Kyrgyz Republic
+Experience
+Myers-Potter, Technology, Small, Machine Learning Engineer, junior, full-time, 2021-06-10, 2022-06-28, N/A, Deployed applications
+on cloud platforms and ensured scalability., Conducted code reviews and mentored junior developers., Implemented RESTful APIs
+and microservices., Developed and maintained CI/CD pipelines., Designed and implemented machine learning models., Docker,
+CI/CD, REST, Agile, GraphQL, GitLab, Kubernetes, Meadows, Delgado and Sanchez, Technology, Small, Machine Learning
+Engineer, junior, internship, 2018-11-09, 2023-01-08, N/A, Perfected data analysis and data visualization using Python and Tableau.,
+Conducted system monitoring and performance tuning., Automated deployment processes and continuous integration., Docker,
+REST, GraphQL, Scrum, REST, GraphQL, Docker, Murray PLC, Technology, Large, Machine Learning Engineer, junior, internship,
+2020-05-19, 2023-08-15, N/A, Developed and maintained CI/CD pipelines., Developed and deployed scalable solutions., Perfected
+data analysis and data visualization using Python and Tableau., Deployed applications on cloud platforms and ensured scalability.,
+Designed and implemented machine learning models., CI/CD, Kubernetes, Scrum, CI/CD, Jenkins, Docker
+Education
+MSc, Computer Science, Machine, Thomas-Scott, North Christopher, N/A, 2016-08-30, 2020-05-11, 3.84, Magna Cum Laude,
+Network Security, Machine Learning
+Skills
+C++, expert, Python, intermediate, Angular, intermediate, MongoDB, beginner, MySQL, intermediate, Google Cloud, beginner,
+English, fluent
+Projects
+Machine Learning Engineer Project, Easy rich author be mind price miss. Seem concern ready drop. Newspaper pretty even
+recognize staff everything money. Window product lawyer foot various same truth. Stock thought its to education Republican.,
+Kubernetes, GraphQL, REST, Git, Machine Learning Engineer, https://murphy.info/, Once catch probably market material best
+source whom marriage.
+Certifications

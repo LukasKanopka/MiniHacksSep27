@@ -1,0 +1,21 @@
+Carrie Peters
+danieljohn@example.net | +1-348-726-2140x05005 | West Josephburgh | Bahrain
+Experience
+Brown-Lewis, Technology, Medium, Angular Developer, mid, full-time, 2021-09-04, 2024-11-02, N/A, Performed software testing and
+resolved bugs efficiently., Perfected data analysis and data visualization using Python and Tableau., Ensured application
+responsiveness and seamless user experience., Git, REST, Agile, GraphQL, Rogers-Goodman, Technology, Small, Angular
+Developer, mid, internship, 2022-01-18, 2024-06-30, N/A, Developed and deployed scalable solutions., Created user-centric designs
+and responsive web interfaces., Integrated third-party services into existing systems., Developed and maintained database schemas
+and queries., Developed and maintained CI/CD pipelines., Git, Kubernetes, Docker, Agile, Docker
+Education
+BSc, Computer Science, Angular, Snyder PLC, Lake Samantha, N/A, 2015-07-04, 2020-07-04, 3.64, Data Structures, Advanced
+Algorithms, MSc, Computer Science, Angular, Nguyen, Martinez and Johnson, West Michael, N/A, 2018-03-13, 2021-09-04, 3.24,
+Advanced Algorithms, Software Engineering, Network Security, Database Systems
+Skills
+C#, expert, C++, intermediate, Flask, beginner, Angular, intermediate, Oracle, intermediate, PostgreSQL, beginner, Azure,
+intermediate, English, fluent
+Projects
+Angular Developer Project, Big art yes. Charge member race grow stock rock than. How through short have., GraphQL, Java,
+Angular Developer, http://www.weber.com/, Increase rise back how world for clearly join sister system bar detail maintain
+development.
+Certifications

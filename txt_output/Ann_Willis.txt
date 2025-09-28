@@ -1,0 +1,23 @@
+Ann Willis
+bpotter@example.org | +1-360-200-3806x71466 | North Linda | Botswana
+Experience
+Long-Byrd, Technology, Medium, Mlops Engineer, junior, contract, 2021-06-07, 2023-03-17, N/A, Automated data processing
+pipelines., Optimized application performance and improved user engagement., Optimized system performance and reduced
+latency., Developed and maintained CI/CD pipelines., Conducted system monitoring and performance tuning., Docker, CI/CD,
+Scrum, GraphQL, Git, White-Sanchez, Technology, Small, Mlops Engineer, mid, full-time, 2018-12-26, 2023-08-23, N/A, Developed
+and maintained database schemas and queries., Collaborated with cross-functional teams to design new features., Ensured
+application responsiveness and seamless user experience., Git, Scrum, Kubernetes, GraphQL, Lopez and Sons, Technology,
+Medium, Mlops Engineer, junior, internship, 2020-03-12, 2022-11-21, N/A, Conducted code reviews and mentored junior
+developers., Enhanced system security and performed regular audits., Ensured application responsiveness and seamless user
+experience., REST, Git, Agile, Docker
+Education
+MSc, Computer Science, Mlops, Bradford Ltd, Amymouth, N/A, 2018-02-23, 2019-08-24, 3.27, Distributed Systems, Network
+Security, Advanced Algorithms
+Skills
+Go, expert, C++, intermediate, Python, intermediate, Django, beginner, React, intermediate, Node.js, intermediate, MongoDB,
+expert, Redis, beginner, Google Cloud, beginner, English, fluent
+Projects
+Mlops Engineer Project, Integrated machine learning models into production systems using Docker and Kubernetes, automating
+model deployment and monitoring., Go, Docker, CI/CD, Kubernetes, Mlops Engineer, https://www.harris.com/, Name others lead in
+attack much necessary million there.
+Certifications

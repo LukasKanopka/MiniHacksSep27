@@ -1,0 +1,17 @@
+Angela Curtis
+miguelmurillo@example.com | +1-402-844-5843x423 | Mooremouth | Slovakia (Slovak Republic)
+Experience
+Johnson, Michael and Martin, Technology, Small, Web Developer, mid, full-time, 2018-12-13, 2023-06-29, N/A, Integrated third-party
+services into existing systems., Performed software testing and resolved bugs efficiently., Utilized version control effectively in a team
+environment., Automated data processing pipelines., Designed and implemented machine learning models., Git, Agile, CI/CD
+Education
+MSc, Computer Science, Web, Davis Ltd, Leonardhaven, N/A, 2016-04-13, 2022-03-24, 3.89, Cum Laude, Machine Learning,
+Network Security, Distributed Systems
+Skills
+C#, beginner, Java, expert, JavaScript, beginner, Spring, expert, Vue, beginner, MySQL, intermediate, AWS, beginner, English,
+fluent
+Projects
+Web Developer Project, Developed responsive web applications using HTML, CSS, and JavaScript, improving user experience and
+increasing user engagement., JavaScript, GraphQL, Git, Web Developer, http://www.rogers.com/, Remain car history the ten field
+man across establish sea firm.
+Certifications

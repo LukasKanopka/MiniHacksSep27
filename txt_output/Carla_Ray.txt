@@ -1,0 +1,19 @@
+Carla Ray
+stephanie48@example.net | (929)627-2387 | East Brianburgh | Ecuador
+Experience
+Savage, Waters and Day, Technology, Large, Kubernetes Engineer, senior, contract, 2019-06-04, 2022-09-15, N/A, Implemented
+RESTful APIs and microservices., Collaborated with cross-functional teams to design new features., Optimized system performance
+and reduced latency., CI/CD, REST, Agile, GraphQL
+Education
+BSc, Computer Science, Kubernetes, Guerrero, Vargas and Estrada, East Gilbertfurt, N/A, 2016-11-06, 2019-11-09, 2.78, Cum
+Laude, Database Systems, Machine Learning, Distributed Systems, Network Security
+Skills
+C++, beginner, C#, expert, Angular, intermediate, Flask, beginner, Spring, beginner, MongoDB, expert, Oracle, intermediate, AWS,
+intermediate, English, fluent
+Projects
+Kubernetes Engineer Project, Managed Kubernetes clusters for container orchestration, improving system reliability and enabling
+seamless deployment of microservices., Python, REST, Kubernetes Engineer, https://www.turner.biz/, International every check
+party campaign forget happen., Kubernetes Engineer Project, Managed Kubernetes clusters for container orchestration, improving
+system reliability and enabling seamless deployment of microservices., C++, Python, Kubernetes Engineer, https://hill.com/, Such
+hard expect continue responsibility own meeting build rate loss yard dream court dark.
+Certifications

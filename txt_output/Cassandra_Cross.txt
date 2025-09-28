@@ -1,0 +1,24 @@
+Cassandra Cross
+tracy43@example.com | 635.373.8762x4843 | Port Lisa | Croatia
+Experience
+Wade-Young, Technology, Medium, Embedded Systems Engineer, junior, contract, 2018-06-13, 2023-10-11, N/A, Designed and
+implemented machine learning models., Conducted system monitoring and performance tuning., Developed and maintained
+database schemas and queries., Optimized system performance and reduced latency., REST, Scrum, Jenkins, Git, CI/CD, Estes,
+Roberts and Carson, Technology, Large, Embedded Systems Engineer, mid, full-time, 2021-01-30, 2022-04-19, N/A, Ensured
+application responsiveness and seamless user experience., Enhanced system security and performed regular audits., Conducted
+system monitoring and performance tuning., Docker, Kanban, REST, GitLab, Jenkins
+Education
+MSc, Computer Science, Embedded, Ross Group, Smithshire, N/A, 2015-10-09, 2019-02-25, 2.51, Dean's List, Advanced
+Algorithms, Network Security, Machine Learning, Database Systems, MSc, Computer Science, Embedded, Carter-Yoder, East
+Adam, N/A, 2016-10-03, 2021-04-08, 2.96, Cum Laude, Machine Learning, Software Engineering, Data Structures, Distributed
+Systems
+Skills
+JavaScript, intermediate, Go, intermediate, C, intermediate, Node.js, intermediate, Spring, expert, React, expert, Redis, beginner,
+Oracle, intermediate, Azure, beginner, English, fluent
+Projects
+Embedded Systems Engineer Project, Developed firmware for IoT devices, enhancing device functionality and enabling real-time
+data processing for smart home applications., JavaScript, GraphQL, Embedded Systems Engineer, http://gallagher.com/, There
+above style hope Mrs front might production he score such case reach., Embedded Systems Engineer Project, Developed firmware
+for IoT devices, enhancing device functionality and enabling real-time data processing for smart home applications., Kubernetes, Git,
+Ruby, Embedded Systems Engineer, https://www.mccarthy.com/, Entire live four difference fund remain physical reach test bar six.
+Certifications

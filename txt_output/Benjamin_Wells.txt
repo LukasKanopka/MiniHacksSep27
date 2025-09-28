@@ -1,0 +1,24 @@
+Benjamin Wells
+murphycarolyn@example.net | 001-466-695-8617x2058 | East Stephenport | Mayotte
+Experience
+Brooks Inc, Technology, Medium, Infrastructure Engineer, mid, full-time, 2021-11-29, 2022-06-14, N/A, Integrated third-party
+services into existing systems., Performed software testing and resolved bugs efficiently., Implemented RESTful APIs and
+microservices., CI/CD, Agile, GraphQL, Docker, Docker, White-Logan, Technology, Large, Infrastructure Engineer, senior, full-time,
+2021-06-04, 2023-12-17, N/A, Perfected data analysis and data visualization using Python and Tableau., Developed and maintained
+database schemas and queries., Optimized system performance and reduced latency., REST, Git, Scrum, Kubernetes,
+Smith-Larsen, Technology, Medium, Infrastructure Engineer, senior, internship, 2022-02-17, 2024-12-03, N/A, Performed software
+testing and resolved bugs efficiently., Developed and maintained database schemas and queries., Perfected data analysis and data
+visualization using Python and Tableau., Developed and deployed scalable solutions., Implemented RESTful APIs and
+microservices., Docker, Agile, REST, Kubernetes
+Education
+BSc, Computer Science, Infrastructure, Brooks, Hinton and Dawson, East Michael, N/A, 2015-05-19, 2022-10-08, 3.38, Dean's List,
+Software Engineering, Network Security, Database Systems, Distributed Systems, BSc, Computer Science, Infrastructure,
+Hall-Delacruz, South Vincentfurt, N/A, 2016-09-04, 2022-02-09, 3.65, Cum Laude, Distributed Systems, Network Security, Software
+Engineering
+Skills
+Ruby, expert, C++, intermediate, Spring, expert, PostgreSQL, intermediate, Azure, beginner, English, fluent
+Projects
+Infrastructure Engineer Project, Designed and implemented cloud infrastructure using Terraform, reducing deployment time by 50%
+and improving system scalability., C#, Go, JavaScript, Infrastructure Engineer, http://www.burgess.com/, Oil successful marriage
+campaign two each night cause describe various role them on.
+Certifications

@@ -1,0 +1,25 @@
+Andrea Gallagher
+lutzandrea@example.net | 001-759-284-1780x623 | Wilsonborough | Chad
+Experience
+Nelson, Duncan and Nguyen, Technology, Large, Cloud Engineer, senior, full-time, 2018-07-13, 2023-12-06, N/A, Created
+user-centric designs and responsive web interfaces., Automated deployment processes and continuous integration., Performed
+software testing and resolved bugs efficiently., Docker, Agile, GraphQL, Jenkins, Docker, Chavez-Walters, Technology, Medium,
+Cloud Engineer, junior, internship, 2019-04-12, 2024-05-04, N/A, Performed software testing and resolved bugs efficiently., Managed
+cloud infrastructure and resource allocation., Implemented RESTful APIs and microservices., Developed and deployed scalable
+solutions., Conducted code reviews and mentored junior developers., CI/CD, GraphQL, Scrum, Docker, Docker, Adams-Shannon,
+Technology, Small, Cloud Engineer, senior, contract, 2021-03-19, 2024-05-06, N/A, Utilized version control effectively in a team
+environment., Managed cloud infrastructure and resource allocation., Built and maintained scalable web applications., Perfected data
+analysis and data visualization using Python and Tableau., Designed and implemented machine learning models., CI/CD, Docker,
+Kubernetes, Kanban, GitLab
+Education
+BSc, Computer Science, Cloud, Gutierrez-Griffin, Clarencechester, N/A, 2015-11-12, 2021-03-30, 3.17, Cum Laude, Database
+Systems, Network Security, Data Structures, Machine Learning, BSc, Computer Science, Cloud, Garcia, Thompson and Thompson,
+Matthewsberg, N/A, 2017-04-15, 2021-04-01, 2.67, Cum Laude, Network Security, Distributed Systems, Software Engineering
+Skills
+C++, expert, JavaScript, intermediate, Node.js, intermediate, Redis, beginner, Azure, intermediate, AWS, intermediate, English,
+fluent
+Projects
+Cloud Engineer Project, Designed and deployed cloud infrastructure using AWS services, reducing operational costs and improving
+system scalability and reliability., Kubernetes, JavaScript, Cloud Engineer, https://phillips-cruz.org/, Ground event environment unit
+note some security keep teacher same often father investment money.
+Certifications

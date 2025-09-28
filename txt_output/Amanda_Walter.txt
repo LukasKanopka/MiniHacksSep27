@@ -1,0 +1,24 @@
+Amanda Walter
+dustinjordan@example.com | (729)239-1376 | Tylerstad | Chile
+Experience
+Mason-Jones, Technology, Medium, Blockchain Developer, senior, internship, 2020-09-13, 2024-04-14, N/A, Created user-centric
+designs and responsive web interfaces., Designed and implemented machine learning models., Developed and maintained CI/CD
+pipelines., REST, Kanban, Git, Martinez-Boone, Technology, Medium, Blockchain Developer, junior, full-time, 2021-04-07,
+2024-06-11, N/A, Conducted code reviews and mentored junior developers., Managed cloud infrastructure and resource allocation.,
+Implemented RESTful APIs and microservices., Developed and maintained database schemas and queries., Git, Docker, Kanban,
+Docker, Jenkins, Henderson-Underwood, Technology, Small, Blockchain Developer, senior, internship, 2021-03-11, 2022-10-16,
+N/A, Designed and implemented machine learning models., Performed software testing and resolved bugs efficiently., Implemented
+RESTful APIs and microservices., REST, Kanban, REST, Jenkins
+Education
+BSc, Computer Science, Blockchain, Wagner-Hodges, Port Julie, N/A, 2016-09-25, 2021-05-22, 3.48, Cum Laude, Advanced
+Algorithms, Machine Learning, MSc, Computer Science, Blockchain, Moore, Phillips and Manning, Kristineburgh, N/A, 2017-01-03,
+2022-09-14, 3.12, Network Security, Machine Learning, Database Systems, Data Structures
+Skills
+C#, expert, Solidity, intermediate, Spring, expert, Redis, expert, Oracle, beginner, Google Cloud, expert, English, fluent
+Projects
+Blockchain Developer Project, Created smart contracts on the Ethereum blockchain, enabling secure and transparent transactions
+for a decentralized application., C++, Python, Git, JavaScript, Blockchain Developer, https://www.alvarez.com/, Unit tough company
+situation store citizen senior box hold., Blockchain Developer Project, Created smart contracts on the Ethereum blockchain, enabling
+secure and transparent transactions for a decentralized application., JavaScript, REST, Blockchain Developer, https://www.king.org/,
+Sound anything might young cost red middle.
+Certifications

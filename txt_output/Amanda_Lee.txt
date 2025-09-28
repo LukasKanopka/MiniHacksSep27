@@ -1,0 +1,20 @@
+Amanda Lee
+pharris@example.org | (787)273-8896 | Lake Amber | Liberia
+Experience
+Anderson-Ibarra, Technology, Small, Automation Engineer, mid, internship, 2019-11-12, 2023-10-19, N/A, Utilized version control
+effectively in a team environment., Built and maintained scalable web applications., Deployed applications on cloud platforms and
+ensured scalability., Performed software testing and resolved bugs efficiently., Docker, Agile, GitLab, Kubernetes
+Education
+MSc, Computer Science, Automation, Mcdaniel Ltd, Lake Maryhaven, N/A, 2019-02-18, 2022-10-29, 2.51, Cum Laude, Network
+Security, Advanced Algorithms, MSc, Computer Science, Automation, Barnett Group, Joneston, N/A, 2016-12-15, 2019-03-01, 2.56,
+Magna Cum Laude, Database Systems, Network Security, Distributed Systems, Machine Learning
+Skills
+Python, expert, JavaScript, intermediate, C#, expert, Angular, beginner, Spring, intermediate, PostgreSQL, beginner, Oracle,
+intermediate, Google Cloud, beginner, English, fluent
+Projects
+Automation Engineer Project, Automated test scripts and CI/CD pipelines using Python and Jenkins, reducing manual testing efforts
+and improving software quality., REST, Java, JavaScript, Automation Engineer, https://www.harris.info/, Increase all summer story
+family building quality authority happen., Automation Engineer Project, Automated test scripts and CI/CD pipelines using Python and
+Jenkins, reducing manual testing efforts and improving software quality., Java, JavaScript, Automation Engineer, http://walker.com/,
+Fall fall attack fall simple hear hotel information data program.
+Certifications

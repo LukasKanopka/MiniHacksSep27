@@ -1,0 +1,18 @@
+Amanda Brooks
+valeriewheeler@example.org | (382)481-7726 | Port Jennifer | Costa Rica
+Experience
+Long LLC, Technology, Small, Automation Engineer, senior, internship, 2020-05-01, 2023-11-14, N/A, Built and maintained scalable
+web applications., Designed and implemented machine learning models., Automated data processing pipelines., Docker, Kanban,
+Git, GitLab, Docker
+Education
+BSc, Computer Science, Automation, Newman Ltd, West Christian, N/A, 2016-09-29, 2019-05-27, 3.69, Software Engineering, Data
+Structures, Database Systems, Network Security, MSc, Computer Science, Automation, Davis, Brown and Christensen, West Debra,
+N/A, 2015-12-31, 2022-03-28, 3.46, Cum Laude, Machine Learning, Advanced Algorithms
+Skills
+Java, intermediate, C++, beginner, JavaScript, beginner, Python, intermediate, Spring, expert, MongoDB, expert, Redis, beginner,
+Azure, intermediate, English, fluent
+Projects
+Automation Engineer Project, Automated test scripts and CI/CD pipelines using Python and Jenkins, reducing manual testing efforts
+and improving software quality., Docker, JavaScript, Git, Go, Automation Engineer, http://johnson.com/, Mention work certain
+whether return suggest culture bed final according strong ever wall.
+Certifications

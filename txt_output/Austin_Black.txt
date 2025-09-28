@@ -1,0 +1,25 @@
+Austin Black
+bradleydavis@example.com | 537.882.6739x31229 | Matthewport | Angola
+Experience
+Adams, Rosales and Jackson, Technology, Medium, Embedded Systems Engineer, mid, internship, 2019-02-08, 2024-01-31, N/A,
+Performed software testing and resolved bugs efficiently., Collaborated with cross-functional teams to design new features.,
+Deployed applications on cloud platforms and ensured scalability., Created user-centric designs and responsive web interfaces.,
+Implemented RESTful APIs and microservices., CI/CD, Scrum, Git, Duffy LLC, Technology, Large, Embedded Systems Engineer,
+mid, full-time, 2020-02-05, 2022-10-28, N/A, Designed and implemented machine learning models., Collaborated with
+cross-functional teams to design new features., Deployed applications on cloud platforms and ensured scalability., Automated data
+processing pipelines., REST, CI/CD, Scrum, GraphQL, Git, Kubernetes, Kelly, Fisher and Liu, Technology, Small, Embedded
+Systems Engineer, junior, internship, 2019-06-22, 2023-01-02, N/A, Perfected data analysis and data visualization using Python and
+Tableau., Implemented RESTful APIs and microservices., Ensured application responsiveness and seamless user experience., Built
+and maintained scalable web applications., Kubernetes, CI/CD, GraphQL, Kanban, Kubernetes
+Education
+MSc, Computer Science, Embedded, Jenkins Ltd, North Regina, N/A, 2017-04-14, 2019-11-22, 2.53, Distributed Systems, Machine
+Learning, BSc, Computer Science, Embedded, Smith, Barr and Payne, Port George, N/A, 2018-03-07, 2021-03-23, 3.12, Cum
+Laude, Distributed Systems, Advanced Algorithms, Software Engineering, Database Systems
+Skills
+C#, beginner, Go, beginner, C, intermediate, Flask, intermediate, Angular, beginner, React, intermediate, MySQL, beginner, Azure,
+beginner, English, fluent
+Projects
+Embedded Systems Engineer Project, Developed firmware for IoT devices, enhancing device functionality and enabling real-time
+data processing for smart home applications., REST, C#, Embedded Systems Engineer, http://banks.com/, Baby air deep century TV
+tree field assume hard.
+Certifications

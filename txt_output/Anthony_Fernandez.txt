@@ -1,0 +1,16 @@
+Anthony Fernandez
+wilsonalejandra@example.org | 001-622-646-8586x445 | New Scott | Timor-Leste
+Experience
+Kelly-Johnson, Technology, Large, Qa Engineer, junior, internship, 2020-12-25, 2023-08-18, N/A, Automated deployment processes
+and continuous integration., Conducted code reviews and mentored junior developers., Developed and maintained database
+schemas and queries., Git, GraphQL, Kanban, GraphQL, Git, GitLab
+Education
+BSc, Computer Science, Qa, Farrell-Davis, Berrybury, N/A, 2016-10-29, 2019-09-01, 3.2, Data Structures, Network Security,
+Software Engineering, Machine Learning
+Skills
+C++, expert, Python, intermediate, Django, beginner, MySQL, beginner, Redis, beginner, Azure, intermediate, English, fluent
+Projects
+Qa Engineer Project, Automated test scripts using Selenium and Python, reducing manual testing efforts and improving software
+quality., Go, C++, CI/CD, Qa Engineer, https://potter.org/, Standard create past money country institution music board your hotel bit
+professor value.
+Certifications

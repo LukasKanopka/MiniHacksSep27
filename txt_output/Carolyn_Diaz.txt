@@ -1,0 +1,22 @@
+Carolyn Diaz
+jenningsrobin@example.com | 273-523-1219 | Melindamouth | Guinea-Bissau
+Experience
+Rogers, Frye and Bell, Technology, Large, Infrastructure Engineer, junior, internship, 2021-10-27, 2022-05-03, N/A, Managed cloud
+infrastructure and resource allocation., Conducted code reviews and mentored junior developers., Perfected data analysis and data
+visualization using Python and Tableau., GraphQL, Git, REST, Kanban, REST, CI/CD, Brown, Lowery and Diaz, Technology, Small,
+Infrastructure Engineer, senior, contract, 2018-02-24, 2023-06-25, N/A, Implemented RESTful APIs and microservices., Perfected
+data analysis and data visualization using Python and Tableau., Designed and implemented machine learning models., Integrated
+third-party services into existing systems., CI/CD, Kanban, GraphQL, Jenkins
+Education
+MSc, Computer Science, Infrastructure, Green, Harrison and Hardin, Paulberg, N/A, 2017-03-23, 2022-01-21, 2.95, Magna Cum
+Laude, Advanced Algorithms, Network Security, MSc, Computer Science, Infrastructure, Ballard-Perez, Richardland, N/A,
+2018-09-18, 2019-03-13, 2.63, Cum Laude, Distributed Systems, Machine Learning, Network Security, Advanced Algorithms
+Skills
+JavaScript, expert, Flask, beginner, Node.js, beginner, Oracle, intermediate, PostgreSQL, beginner, Azure, expert, English, fluent
+Projects
+Infrastructure Engineer Project, Designed and implemented cloud infrastructure using Terraform, reducing deployment time by 50%
+and improving system scalability., Ruby, Python, CI/CD, Go, Infrastructure Engineer, http://green.net/, Represent always experience
+there street me player., Infrastructure Engineer Project, Designed and implemented cloud infrastructure using Terraform, reducing
+deployment time by 50% and improving system scalability., REST, Kubernetes, Infrastructure Engineer, http://www.cain-kemp.com/,
+Other attack true allow sound night explain order region note medical.
+Certifications

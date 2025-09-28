@@ -1,0 +1,19 @@
+Alicia Bentley
+stephaniecherry@example.net | 727.682.7097 | East Jenniferside | Lesotho
+Experience
+Morris Ltd, Technology, Large, Sql Developer, mid, internship, 2020-12-06, 2024-06-13, N/A, Perfected data analysis and data
+visualization using Python and Tableau., Managed cloud infrastructure and resource allocation., Integrated third-party services into
+existing systems., Docker, Kubernetes, Agile, Jenkins, Lee, Riley and Smith, Technology, Small, Sql Developer, mid, internship,
+2019-02-18, 2022-07-27, N/A, Optimized application performance and improved user engagement., Collaborated with
+cross-functional teams to design new features., Deployed applications on cloud platforms and ensured scalability., CI/CD, Git,
+GraphQL, Scrum, Jenkins, Docker, Docker
+Education
+BSc, Computer Science, Sql, Alexander, Hernandez and Smith, Balltown, N/A, 2018-04-08, 2020-06-08, 3.9, Magna Cum Laude,
+Data Structures, Network Security, Distributed Systems
+Skills
+Go, expert, Python, beginner, Ruby, intermediate, SQL, intermediate, Angular, intermediate, Vue, intermediate, Oracle, expert,
+Azure, expert, English, fluent
+Projects
+Sql Developer Project, Optimized SQL queries for faster data retrieval and improved database performance, reducing query
+execution time by 40%., REST, Go, Java, Sql Developer, https://www.patterson.com/, Cover right quality whose walk must fish.
+Certifications

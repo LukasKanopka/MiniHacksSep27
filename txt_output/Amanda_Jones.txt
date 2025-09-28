@@ -1,0 +1,22 @@
+Amanda Jones
+joseph80@example.net | 5688751765 | Brandonville | Chile
+Experience
+Owens Group, Technology, Small, Cybersecurity Engineer, mid, internship, 2021-07-17, 2023-09-22, N/A, Managed cloud
+infrastructure and resource allocation., Ensured application responsiveness and seamless user experience., Created user-centric
+designs and responsive web interfaces., Docker, Kanban, REST, CI/CD, Docker, Vincent-Sosa, Technology, Large, Cybersecurity
+Engineer, senior, full-time, 2020-04-04, 2022-08-17, N/A, Optimized system performance and reduced latency., Perfected data
+analysis and data visualization using Python and Tableau., Deployed applications on cloud platforms and ensured scalability.,
+Utilized version control effectively in a team environment., Git, Docker, REST, Kanban, CI/CD, Jenkins
+Education
+MSc, Computer Science, Cybersecurity, Williams Inc, Owensbury, N/A, 2016-08-18, 2020-03-16, 3.11, Dean's List, Advanced
+Algorithms, Database Systems, Data Structures
+Skills
+Ruby, expert, Python, intermediate, React, intermediate, MongoDB, expert, AWS, intermediate, English, fluent
+Projects
+Cybersecurity Engineer Project, Conducted security assessments and implemented security controls, reducing security
+vulnerabilities by 60% and enhancing system security., REST, Python, Docker, Cybersecurity Engineer, https://preston.com/, Military
+direction sister perhaps road someone reason big to wonder produce necessary race part son woman., Cybersecurity Engineer
+Project, Conducted security assessments and implemented security controls, reducing security vulnerabilities by 60% and enhancing
+system security., GraphQL, Kubernetes, Cybersecurity Engineer, https://davis-kennedy.com/, Thank raise and notice law plan forget
+really around she way movie read personal.
+Certifications

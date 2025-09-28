@@ -1,0 +1,20 @@
+Ashley Walker
+hartmancharles@example.net | 768-951-5634 | Lake Paul | Fiji
+Experience
+Sanchez and Sons, Technology, Medium, Python Developer, junior, internship, 2020-06-03, 2023-01-30, N/A, Automated
+deployment processes and continuous integration., Developed and deployed scalable solutions., Implemented security best
+practices and data protection measures., Performed software testing and resolved bugs efficiently., GraphQL, Scrum, Docker,
+Robinson Group, Technology, Small, Python Developer, junior, full-time, 2018-07-19, 2024-01-31, N/A, Developed and deployed
+scalable solutions., Optimized application performance and improved user engagement., Created user-centric designs and
+responsive web interfaces., REST, Docker, Agile, Git, GitLab
+Education
+MSc, Computer Science, Python, Craig-Obrien, West Austinside, N/A, 2016-08-20, 2019-07-03, 3.41, Dean's List, Distributed
+Systems, Data Structures
+Skills
+Python, beginner, Java, expert, JavaScript, intermediate, Django, intermediate, Flask, expert, React, intermediate, MongoDB, expert,
+Oracle, intermediate, Azure, expert, English, fluent
+Projects
+Python Developer Project, Developed a robust RESTful API using Flask and integrated it with cloud services, resulting in improved
+data processing and scalability., Git, CI/CD, GraphQL, Python Developer, https://torres.com/, Policy subject color whole success
+event nature people president.
+Certifications

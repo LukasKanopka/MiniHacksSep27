@@ -1,0 +1,28 @@
+Andrew Adams
+eluna@example.com | 998-557-1105 | South Connieburgh | Palestinian Territory
+Experience
+Johnson Ltd, Technology, Medium, Database Administrator, mid, full-time, 2018-05-09, 2024-04-26, N/A, Managed cloud
+infrastructure and resource allocation., Developed and maintained database schemas and queries., Integrated third-party services
+into existing systems., Optimized application performance and improved user engagement., Created user-centric designs and
+responsive web interfaces., Docker, Kanban, Git, Jenkins, Snyder Group, Technology, Medium, Database Administrator, junior,
+internship, 2021-07-03, 2022-05-31, N/A, Managed cloud infrastructure and resource allocation., Designed and implemented
+machine learning models., Deployed applications on cloud platforms and ensured scalability., Developed and maintained CI/CD
+pipelines., Kubernetes, Scrum, Kubernetes, Git, GitLab, Brown-Shelton, Technology, Small, Database Administrator, mid, full-time,
+2022-01-19, 2024-01-16, N/A, Utilized version control effectively in a team environment., Built and maintained scalable web
+applications., Performed software testing and resolved bugs efficiently., Implemented RESTful APIs and microservices., Kubernetes,
+CI/CD, Git, Agile, REST
+Education
+MSc, Computer Science, Database, Thornton, Vega and Bell, Lake Jesushaven, N/A, 2016-09-05, 2020-12-25, 3.54, Dean's List,
+Software Engineering, Database Systems, Network Security, Advanced Algorithms, MSc, Computer Science, Database, Saunders
+PLC, New Matthew, N/A, 2015-07-26, 2019-07-03, 3.91, Software Engineering, Machine Learning, Distributed Systems, Database
+Systems
+Skills
+Python, beginner, Go, beginner, Java, beginner, SQL, intermediate, React, beginner, Flask, beginner, Oracle, beginner, MySQL,
+expert, Google Cloud, expert, English, fluent
+Projects
+Database Administrator Project, Optimized database performance by 40% through query optimization and database tuning, ensuring
+seamless data retrieval and storage., Git, Java, Kubernetes, Database Administrator, http://smith.com/, Nation program their
+common color car enter prepare rich impact determine find., Database Administrator Project, Optimized database performance by
+40% through query optimization and database tuning, ensuring seamless data retrieval and storage., Go, REST, Python, Database
+Administrator, https://www.bentley.biz/, Per personal seven concern along young member ability own.
+Certifications

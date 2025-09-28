@@ -1,0 +1,21 @@
+Brian Dixon
+gilesdarrell@example.org | 504.821.2544x94662 | Morgantown | Panama
+Experience
+Guerrero, Reyes and Cummings, Technology, Large, Nlp Engineer, junior, contract, 2018-11-02, 2024-12-03, N/A, Utilized version
+control effectively in a team environment., Developed and maintained CI/CD pipelines., Collaborated with cross-functional teams to
+design new features., Performed software testing and resolved bugs efficiently., REST, Scrum, Jenkins
+Education
+MSc, Computer Science, Nlp, Collins, Johnson and Howard, East Ryanton, N/A, 2018-09-17, 2019-03-22, 3.19, Dean's List,
+Database Systems, Software Engineering, Machine Learning, Data Structures, MSc, Computer Science, Nlp, Thompson-Howell,
+Roblesfurt, N/A, 2015-02-22, 2021-02-26, 2.85, Advanced Algorithms, Data Structures
+Skills
+C#, expert, Python, intermediate, Django, intermediate, Vue, intermediate, PostgreSQL, beginner, Oracle, expert, Azure, beginner,
+English, fluent
+Projects
+Nlp Engineer Project, Developed a sentiment analysis model using natural language processing techniques, improving customer
+feedback analysis and sentiment classification accuracy., Go, Java, C++, GraphQL, Nlp Engineer, https://www.travis.com/, Issue
+follow adult kind each staff simply everyone their remain my site bar half arrive., Nlp Engineer Project, Developed a sentiment
+analysis model using natural language processing techniques, improving customer feedback analysis and sentiment classification
+accuracy., GraphQL, Git, Nlp Engineer, http://obrien.biz/, Tell series truth boy effect out war day letter win me above identify use
+suggest.
+Certifications

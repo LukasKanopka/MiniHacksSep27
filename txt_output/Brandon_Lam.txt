@@ -1,0 +1,24 @@
+Brandon Lam
+lisaelliott@example.com | +1-693-561-5063x86024 | South Austinport | Sri Lanka
+Experience
+Bowman-Garrett, Technology, Small, Automation Engineer, senior, internship, 2019-01-12, 2024-07-11, N/A, Implemented security
+best practices and data protection measures., Created user-centric designs and responsive web interfaces., Developed and
+maintained database schemas and queries., Developed and deployed scalable solutions., Designed and implemented machine
+learning models., Git, Scrum, CI/CD, Wright Ltd, Technology, Small, Automation Engineer, mid, internship, 2020-10-08, 2024-10-17,
+N/A, Conducted system monitoring and performance tuning., Automated deployment processes and continuous integration.,
+Developed and maintained database schemas and queries., Enhanced system security and performed regular audits., REST,
+Kanban, Docker, CI/CD
+Education
+MSc, Computer Science, Automation, Smith-Dunn, North Sharon, N/A, 2015-11-26, 2019-06-24, 3.3, Magna Cum Laude, Database
+Systems, Machine Learning, BSc, Computer Science, Automation, Mclean LLC, Silvaside, N/A, 2018-06-29, 2020-01-05, 3.27, Cum
+Laude, Database Systems, Network Security
+Skills
+C++, beginner, Ruby, intermediate, Python, intermediate, Flask, beginner, PostgreSQL, beginner, Oracle, expert, AWS, expert,
+English, fluent
+Projects
+Automation Engineer Project, Automated test scripts and CI/CD pipelines using Python and Jenkins, reducing manual testing efforts
+and improving software quality., Java, GraphQL, CI/CD, Automation Engineer, http://jones.com/, Better now cold white along media
+experience institution Mr parent eat citizen experience., Automation Engineer Project, Automated test scripts and CI/CD pipelines
+using Python and Jenkins, reducing manual testing efforts and improving software quality., REST, Go, GraphQL, Git, Automation
+Engineer, https://rodriguez.org/, Exist economy pull garden spend make high order white store trial talk.
+Certifications

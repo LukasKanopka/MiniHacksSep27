@@ -1,0 +1,26 @@
+Brenda Webster
+zward@example.org | 001-267-979-3044 | North Staceyfurt | Iran
+Experience
+Sanchez and Sons, Technology, Small, Technical Architect, mid, full-time, 2019-08-12, 2024-11-09, N/A, Optimized application
+performance and improved user engagement., Automated data processing pipelines., Managed cloud infrastructure and resource
+allocation., Ensured application responsiveness and seamless user experience., Kubernetes, Git, GraphQL, Agile, REST,
+Murphy-Myers, Technology, Medium, Technical Architect, senior, full-time, 2020-03-29, 2023-01-11, N/A, Optimized system
+performance and reduced latency., Optimized application performance and improved user engagement., Ensured application
+responsiveness and seamless user experience., Integrated third-party services into existing systems., GraphQL, Agile, CI/CD,
+Jenkins, GitLab, Frost, Johnson and Sherman, Technology, Large, Technical Architect, junior, internship, 2020-06-27, 2022-09-14,
+N/A, Perfected data analysis and data visualization using Python and Tableau., Optimized system performance and reduced
+latency., Conducted code reviews and mentored junior developers., Developed and maintained database schemas and queries.,
+Kubernetes, GraphQL, Agile, Jenkins, REST
+Education
+MSc, Computer Science, Technical, Daniel-Anderson, Lake James, N/A, 2016-02-09, 2019-09-17, 3.36, Cum Laude, Software
+Engineering, Distributed Systems, BSc, Computer Science, Technical, Garcia-Davis, Timothyton, N/A, 2017-08-17, 2021-10-19,
+3.91, Cum Laude, Software Engineering, Network Security, Advanced Algorithms, Data Structures
+Skills
+JavaScript, expert, Python, intermediate, Angular, expert, Flask, beginner, Oracle, expert, Azure, beginner, English, fluent
+Projects
+Technical Architect Project, Designed a scalable microservices architecture using Python and AWS services, improving system
+performance and reducing infrastructure costs., CI/CD, Git, Technical Architect, http://molina.org/, Window type into use three coach
+really result., Technical Architect Project, Designed a scalable microservices architecture using Python and AWS services, improving
+system performance and reducing infrastructure costs., Python, Kubernetes, C#, Java, Technical Architect, http://www.shelton.com/,
+Fight available back experience black hold which stay perhaps community.
+Certifications

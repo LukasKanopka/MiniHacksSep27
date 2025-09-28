@@ -1,0 +1,19 @@
+Brenda White
+smithjustin@example.net | +1-496-633-6324x31580 | Lisaburgh | Albania
+Experience
+Andrews, Wagner and Brewer, Technology, Small, Systems Engineer, mid, contract, 2020-06-22, 2023-05-03, N/A, Designed and
+implemented machine learning models., Conducted code reviews and mentored junior developers., Built and maintained scalable
+web applications., GraphQL, Git, Kanban, Docker
+Education
+BSc, Computer Science, Systems, Mcdowell-Morris, Jenniferstad, N/A, 2018-08-02, 2022-12-25, 3.34, Magna Cum Laude, Machine
+Learning, Database Systems, Advanced Algorithms, Software Engineering, BSc, Computer Science, Systems, Murillo PLC, East
+Darrylshire, N/A, 2017-10-13, 2019-03-26, 2.65, Magna Cum Laude, Software Engineering, Database Systems, Network Security,
+Machine Learning
+Skills
+Python, intermediate, Java, beginner, JavaScript, beginner, React, intermediate, Node.js, intermediate, Vue, beginner, Redis,
+beginner, MongoDB, beginner, AWS, expert, English, fluent
+Projects
+Systems Engineer Project, Developed a scalable microservices architecture using Python and AWS services, improving system
+performance and reducing infrastructure costs., C++, JavaScript, CI/CD, REST, Systems Engineer, https://www.price.com/, Care
+without argue oil development coach manage keep rock song program a.
+Certifications

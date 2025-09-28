@@ -1,0 +1,22 @@
+Brandi Mcgee
+edwardsluis@example.net | 257.932.6311x6099 | West Jeffery | Zimbabwe
+Experience
+Anderson and Sons, Technology, Small, Python Developer, mid, full-time, 2020-03-30, 2023-02-02, N/A, Implemented security best
+practices and data protection measures., Developed and deployed scalable solutions., Automated deployment processes and
+continuous integration., Kubernetes, Git, REST, Kanban, Git, Docker, REST, Mccarthy, Williams and Diaz, Technology, Small,
+Python Developer, junior, full-time, 2020-07-18, 2022-12-29, N/A, Developed and maintained database schemas and queries.,
+Utilized version control effectively in a team environment., Optimized system performance and reduced latency., Docker, Kubernetes,
+REST, Agile, Docker, Jenkins
+Education
+MSc, Computer Science, Python, Torres, Carney and Williams, Abbottborough, N/A, 2017-04-03, 2021-11-12, 3.06, Cum Laude,
+Distributed Systems, Data Structures, Software Engineering
+Skills
+JavaScript, intermediate, Ruby, beginner, Go, expert, Python, intermediate, React, intermediate, Node.js, beginner, Vue, expert,
+Redis, expert, Oracle, beginner, AWS, beginner, English, fluent
+Projects
+Python Developer Project, Developed a robust RESTful API using Flask and integrated it with cloud services, resulting in improved
+data processing and scalability., C++, Docker, Python Developer, http://morris.net/, So know finally data increase set resource ten.,
+Python Developer Project, Developed a robust RESTful API using Flask and integrated it with cloud services, resulting in improved
+data processing and scalability., GraphQL, Kubernetes, Python Developer, https://gross.biz/, Congress apply structure suffer surface
+sort star somebody whether.
+Certifications

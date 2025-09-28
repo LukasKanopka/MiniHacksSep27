@@ -1,0 +1,24 @@
+Ashley Tyler
+aaron66@example.org | (391)597-9875 | Timothychester | Qatar
+Experience
+Williams-Henderson, Technology, Medium, Nosql Developer, mid, internship, 2020-07-25, 2023-07-21, N/A, Perfected data analysis
+and data visualization using Python and Tableau., Built and maintained scalable web applications., Developed and maintained CI/CD
+pipelines., Automated deployment processes and continuous integration., Kubernetes, Scrum, Git, Kubernetes, Docker, Farley,
+Carey and Mclaughlin, Technology, Large, Nosql Developer, junior, full-time, 2020-04-21, 2022-06-07, N/A, Conducted code reviews
+and mentored junior developers., Developed and maintained CI/CD pipelines., Integrated third-party services into existing systems.,
+Optimized system performance and reduced latency., Kubernetes, REST, Git, Kanban, Jenkins, Martin-Rocha, Technology, Medium,
+Nosql Developer, senior, contract, 2019-10-28, 2022-04-02, N/A, Deployed applications on cloud platforms and ensured scalability.,
+Implemented security best practices and data protection measures., Integrated third-party services into existing systems., Git, Scrum,
+GitLab, Jenkins, Kubernetes
+Education
+BSc, Computer Science, Nosql, Weaver-Richards, Henryberg, N/A, 2017-03-02, 2021-01-13, 3.85, Data Structures, Advanced
+Algorithms, Database Systems, Machine Learning
+Skills
+JavaScript, beginner, NoSQL, intermediate, Django, intermediate, Vue, expert, Redis, beginner, Google Cloud, expert, English, fluent
+Projects
+Nosql Developer Project, Implemented NoSQL databases for scalability and flexibility in handling large data sets, reducing storage
+costs by 25%., Go, JavaScript, C#, Nosql Developer, http://conner-bowman.info/, What appear ago heart administration outside
+improve high., Nosql Developer Project, Implemented NoSQL databases for scalability and flexibility in handling large data sets,
+reducing storage costs by 25%., C++, Go, Git, Nosql Developer, http://morrison.com/, See picture most society anyone me animal
+process practice sign our quite up.
+Certifications

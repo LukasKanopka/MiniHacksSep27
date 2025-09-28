@@ -1,0 +1,19 @@
+Amy Young
+harrisondanny@example.com | (999)258-2352x2051 | Travisberg | Vanuatu
+Experience
+Lee, Brown and Bridges, Technology, Small, Javascript Developer, junior, contract, 2020-03-06, 2023-09-04, N/A, Ensured
+application responsiveness and seamless user experience., Collaborated with cross-functional teams to design new features.,
+Optimized system performance and reduced latency., Managed cloud infrastructure and resource allocation., REST, CI/CD, Git,
+Scrum, CI/CD
+Education
+MSc, Computer Science, Javascript, Allen, Lang and Castillo, Mejiaview, N/A, 2017-04-05, 2020-05-17, 3.48, Cum Laude, Network
+Security, Software Engineering, Machine Learning, Distributed Systems, BSc, Computer Science, Javascript, Brown, Hobbs and
+Deleon, New Christina, N/A, 2017-01-10, 2022-12-05, 3.45, Cum Laude, Advanced Algorithms, Data Structures, Distributed
+Systems, Machine Learning
+Skills
+Go, expert, JavaScript, intermediate, Vue, beginner, Node.js, expert, MySQL, expert, Azure, expert, English, fluent
+Projects
+Javascript Developer Project, Created a dynamic single-page application using React that enhanced user engagement and
+streamlined client-side performance., REST, C++, Docker, Javascript Developer, https://casey.com/, Successful and middle wrong
+live trial director.
+Certifications

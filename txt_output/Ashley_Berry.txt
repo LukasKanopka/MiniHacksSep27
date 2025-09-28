@@ -1,0 +1,19 @@
+Ashley Berry
+burkemary@example.org | (946)903-3702 | South Johnport | Turks and Caicos Islands
+Experience
+Jefferson-Benson, Technology, Small, Nlp Engineer, senior, full-time, 2021-02-27, 2024-09-06, N/A, Created user-centric designs
+and responsive web interfaces., Built and maintained scalable web applications., Collaborated with cross-functional teams to design
+new features., Enhanced system security and performed regular audits., Conducted code reviews and mentored junior developers.,
+REST, Docker, Scrum, GitLab
+Education
+BSc, Computer Science, Nlp, Evans-Horn, Andrewtown, N/A, 2015-07-08, 2022-03-11, 3.93, Cum Laude, Data Structures, Network
+Security, BSc, Computer Science, Nlp, Ramirez, Howard and Taylor, West Taylormouth, N/A, 2016-11-03, 2021-10-28, 3.11, Cum
+Laude, Data Structures, Database Systems
+Skills
+Go, expert, Java, intermediate, Python, intermediate, Vue, beginner, React, expert, Django, intermediate, MongoDB, intermediate,
+MySQL, expert, Google Cloud, expert, English, fluent
+Projects
+Nlp Engineer Project, Developed a sentiment analysis model using natural language processing techniques, improving customer
+feedback analysis and sentiment classification accuracy., Kubernetes, REST, Docker, Java, Nlp Engineer, http://pearson.org/, Throw
+itself along lead identify none visit gas strong kitchen where glass.
+Certifications

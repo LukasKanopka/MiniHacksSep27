@@ -1,0 +1,16 @@
+Amy Harper
+porterrachel@example.org | 001-620-282-6009x43738 | Michaelberg | Trinidad and Tobago
+Experience
+Harrison, Taylor and Townsend, Technology, Medium, Javascript Developer, senior, contract, 2018-08-28, 2022-09-27, N/A,
+Developed and maintained database schemas and queries., Deployed applications on cloud platforms and ensured scalability.,
+Collaborated with cross-functional teams to design new features., REST, GraphQL, Kubernetes, Scrum, REST, Docker, GraphQL
+Education
+MSc, Computer Science, Javascript, Short and Sons, Lake Andrea, N/A, 2016-06-11, 2020-03-02, 2.67, Dean's List, Machine
+Learning, Advanced Algorithms, Software Engineering, Network Security
+Skills
+C++, beginner, JavaScript, intermediate, Django, expert, PostgreSQL, expert, Azure, beginner, English, fluent
+Projects
+Javascript Developer Project, Created a dynamic single-page application using React that enhanced user engagement and
+streamlined client-side performance., REST, C++, Javascript Developer, http://potts.com/, Current expect article account prove baby
+number beautiful say sit staff defense animal number.
+Certifications

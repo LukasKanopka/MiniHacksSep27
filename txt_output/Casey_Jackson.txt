@@ -1,0 +1,18 @@
+Casey Jackson
+gmendez@example.com | 001-924-816-7054x73745 | East Evanfort | Guinea-Bissau
+Experience
+Stokes, Mendoza and Cooper, Technology, Medium, Computer Vision Engineer, senior, internship, 2021-08-18, 2022-05-01, N/A,
+Performed software testing and resolved bugs efficiently., Deployed applications on cloud platforms and ensured scalability.,
+Automated deployment processes and continuous integration., Utilized version control effectively in a team environment., Developed
+and maintained database schemas and queries., Kubernetes, Git, REST, Scrum, Kubernetes, GitLab
+Education
+BSc, Computer Science, Computer, Valenzuela Group, New Amberfurt, N/A, 2017-08-08, 2020-10-10, 2.67, Machine Learning,
+Advanced Algorithms, Software Engineering
+Skills
+C#, expert, C++, beginner, JavaScript, expert, Python, intermediate, Vue, intermediate, React, beginner, PostgreSQL, beginner,
+AWS, expert, English, fluent
+Projects
+Computer Vision Engineer Project, Implemented computer vision algorithms for video analytics, enabling real-time object tracking
+and enhancing surveillance systems., Python, Kubernetes, Computer Vision Engineer, https://www.smith.com/, Onto law none
+clearly process walk down ball mean doctor oil record south which along.
+Certifications

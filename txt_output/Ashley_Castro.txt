@@ -1,0 +1,24 @@
+Ashley Castro
+heather02@example.com | 833.652.5299x6281 | South Mark | Ukraine
+Experience
+Johnson, Hernandez and Greene, Technology, Medium, Systems Engineer, mid, internship, 2020-04-01, 2023-12-01, N/A, Utilized
+version control effectively in a team environment., Performed software testing and resolved bugs efficiently., Implemented RESTful
+APIs and microservices., Deployed applications on cloud platforms and ensured scalability., Implemented security best practices and
+data protection measures., Docker, Agile, GraphQL, Git, Docker, Taylor-Crawford, Technology, Small, Systems Engineer, mid,
+internship, 2019-06-09, 2023-08-31, N/A, Implemented RESTful APIs and microservices., Created user-centric designs and
+responsive web interfaces., Conducted code reviews and mentored junior developers., Deployed applications on cloud platforms and
+ensured scalability., GraphQL, CI/CD, Docker, Scrum, Jenkins, Docker
+Education
+MSc, Computer Science, Systems, Miller-Cummings, Bryanburgh, N/A, 2016-04-20, 2022-08-10, 2.72, Dean's List, Software
+Engineering, Data Structures, Advanced Algorithms, Database Systems
+Skills
+Go, intermediate, JavaScript, expert, Python, intermediate, Flask, beginner, Redis, beginner, MySQL, intermediate, Google Cloud,
+beginner, English, fluent
+Projects
+Systems Engineer Project, Developed a scalable microservices architecture using Python and AWS services, improving system
+performance and reducing infrastructure costs., Go, Docker, Git, Systems Engineer, https://www.curtis-burton.com/, Could final
+recognize current perform choice travel music left environmental from teach buy., Systems Engineer Project, Developed a scalable
+microservices architecture using Python and AWS services, improving system performance and reducing infrastructure costs.,
+GraphQL, CI/CD, C++, Kubernetes, Systems Engineer, http://williams.biz/, Indicate left improve top mouth office memory before
+finally so discuss size establish whatever something again.
+Certifications

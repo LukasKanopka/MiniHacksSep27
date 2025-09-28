@@ -1,0 +1,19 @@
+Brandon Howard
+robertphelps@example.net | (931)545-3433x4889 | Collinsville | Trinidad and Tobago
+Experience
+Flynn Ltd, Technology, Large, Nosql Developer, junior, internship, 2019-07-10, 2023-01-14, N/A, Utilized version control effectively in
+a team environment., Deployed applications on cloud platforms and ensured scalability., Ensured application responsiveness and
+seamless user experience., CI/CD, Docker, Kubernetes, Kanban, Docker, Smith-Morris, Technology, Medium, Nosql Developer, mid,
+contract, 2018-03-10, 2022-09-06, N/A, Built and maintained scalable web applications., Designed and implemented machine
+learning models., Collaborated with cross-functional teams to design new features., Performed software testing and resolved bugs
+efficiently., Conducted system monitoring and performance tuning., Git, GraphQL, Agile, GraphQL, Git
+Education
+MSc, Computer Science, Nosql, Wilson-Walsh, East Robert, N/A, 2015-10-08, 2019-05-30, 3.18, Machine Learning, Advanced
+Algorithms
+Skills
+Ruby, intermediate, NoSQL, intermediate, Angular, beginner, Vue, beginner, Oracle, intermediate, AWS, intermediate, English, fluent
+Projects
+Nosql Developer Project, Implemented NoSQL databases for scalability and flexibility in handling large data sets, reducing storage
+costs by 25%., Go, CI/CD, Nosql Developer, https://www.davis-kelly.com/, Thank sea into boy growth save phone worker air thing
+professor rather character similar development.
+Certifications

@@ -1,0 +1,25 @@
+Alvin Conner
+aaron81@example.org | 001-750-380-3462 | South Paulaburgh | Bermuda
+Experience
+Lewis, Morgan and Stewart, Technology, Large, React Native Developer, junior, internship, 2020-09-01, 2024-11-01, N/A, Utilized
+version control effectively in a team environment., Perfected data analysis and data visualization using Python and Tableau.,
+Optimized system performance and reduced latency., Optimized application performance and improved user engagement.,
+Performed software testing and resolved bugs efficiently., REST, GraphQL, Scrum, GraphQL, Docker, Watkins, Erickson and
+Downs, Technology, Large, React Native Developer, junior, internship, 2020-04-26, 2024-10-08, N/A, Conducted code reviews and
+mentored junior developers., Designed and implemented machine learning models., Built and maintained scalable web applications.,
+Collaborated with cross-functional teams to design new features., Developed and maintained database schemas and queries.,
+GraphQL, REST, Scrum, Docker, Kubernetes
+Education
+BSc, Computer Science, React, Hunt-Foster, Williamstad, N/A, 2016-09-11, 2020-04-17, 2.63, Database Systems, Software
+Engineering, Network Security
+Skills
+Java, intermediate, JavaScript, beginner, Angular, expert, Spring, beginner, Vue, expert, React Native, intermediate, PostgreSQL,
+beginner, Google Cloud, beginner, English, fluent
+Projects
+React Native Developer Project, Created a cross-platform mobile app using React Native that improved user engagement and
+provided a seamless user experience across devices., C++, JavaScript, React Native Developer, http://www.boyd-robertson.com/,
+Pay mean him south professor magazine ok eat dark store culture interest entire near., React Native Developer Project, Created a
+cross-platform mobile app using React Native that improved user engagement and provided a seamless user experience across
+devices., Kubernetes, Ruby, Go, React Native Developer, https://murray.com/, Soldier base company generation small part television
+yes matter.
+Certifications

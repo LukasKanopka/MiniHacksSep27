@@ -1,0 +1,22 @@
+Anne Ford
+masonsteven@example.com | +1-970-791-3415x17533 | Port Toddchester | Saint Lucia
+Experience
+Shah and Sons, Technology, Small, Systems Engineer, junior, internship, 2021-05-30, 2025-02-02, N/A, Ensured application
+responsiveness and seamless user experience., Developed and deployed scalable solutions., Implemented security best practices
+and data protection measures., Created user-centric designs and responsive web interfaces., Implemented RESTful APIs and
+microservices., Docker, CI/CD, GraphQL, Agile, GitLab, Estrada and Sons, Technology, Large, Systems Engineer, mid, internship,
+2021-04-24, 2023-02-27, N/A, Created user-centric designs and responsive web interfaces., Utilized version control effectively in a
+team environment., Performed software testing and resolved bugs efficiently., REST, Agile, Jenkins, Docker, Kubernetes
+Education
+BSc, Computer Science, Systems, Wilcox LLC, South Scottburgh, N/A, 2015-04-27, 2023-01-24, 2.8, Magna Cum Laude, Advanced
+Algorithms, Machine Learning, Data Structures, BSc, Computer Science, Systems, Lee Ltd, Lake Shane, N/A, 2017-12-13,
+2020-12-16, 3.1, Magna Cum Laude, Distributed Systems, Data Structures, Network Security
+Skills
+Java, intermediate, Python, intermediate, React, intermediate, Angular, beginner, MongoDB, beginner, AWS, expert, English, fluent
+Projects
+Systems Engineer Project, Developed a scalable microservices architecture using Python and AWS services, improving system
+performance and reducing infrastructure costs., CI/CD, Python, Systems Engineer, https://www.shea-vasquez.com/, Field may point
+success fast indeed section into., Systems Engineer Project, Developed a scalable microservices architecture using Python and
+AWS services, improving system performance and reducing infrastructure costs., C++, Python, C#, Systems Engineer,
+http://www.stevens.com/, Have market break respond production beautiful international.
+Certifications

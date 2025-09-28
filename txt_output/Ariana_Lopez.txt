@@ -1,0 +1,17 @@
+Ariana Lopez
+imarshall@example.com | +1-708-576-1199x26200 | South Trevorside | France
+Experience
+Santiago, Moss and Wheeler, Technology, Medium, Automation Engineer, senior, full-time, 2020-02-29, 2023-08-09, N/A, Performed
+software testing and resolved bugs efficiently., Conducted system monitoring and performance tuning., Utilized version control
+effectively in a team environment., CI/CD, Kanban, Git, GitLab
+Education
+MSc, Computer Science, Automation, Sherman Group, Amystad, N/A, 2018-06-12, 2021-11-25, 3.14, Magna Cum Laude, Data
+Structures, Software Engineering, Database Systems
+Skills
+Go, expert, Python, intermediate, Spring, beginner, Flask, intermediate, Node.js, intermediate, Redis, intermediate, MongoDB,
+beginner, Google Cloud, intermediate, English, fluent
+Projects
+Automation Engineer Project, Automated test scripts and CI/CD pipelines using Python and Jenkins, reducing manual testing efforts
+and improving software quality., Ruby, GraphQL, Go, Automation Engineer, http://www.smith-martin.com/, Teacher certain green do
+radio prevent fight lay little during scene short.
+Certifications

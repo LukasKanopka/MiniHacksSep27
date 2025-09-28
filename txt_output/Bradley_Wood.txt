@@ -1,0 +1,24 @@
+Bradley Wood
+david48@example.net | (518)437-4061 | Raystad | Samoa
+Experience
+Joyce Inc, Technology, Medium, Full Stack Developer, mid, full-time, 2019-04-05, 2023-03-31, N/A, Enhanced system security and
+performed regular audits., Utilized version control effectively in a team environment., Optimized application performance and
+improved user engagement., Collaborated with cross-functional teams to design new features., Kubernetes, Git, CI/CD, Kanban,
+GraphQL, GitLab, Bailey-Watson, Technology, Large, Full Stack Developer, junior, full-time, 2021-06-22, 2022-09-26, N/A, Built and
+maintained scalable web applications., Automated data processing pipelines., Collaborated with cross-functional teams to design
+new features., Deployed applications on cloud platforms and ensured scalability., Perfected data analysis and data visualization
+using Python and Tableau., CI/CD, Docker, GraphQL, Agile, Jenkins, GitLab, REST, Butler-Hester, Technology, Medium, Full Stack
+Developer, senior, internship, 2021-07-23, 2022-10-31, N/A, Optimized system performance and reduced latency., Ensured
+application responsiveness and seamless user experience., Developed and maintained CI/CD pipelines., GraphQL, REST, Scrum,
+GitLab, Jenkins, Kubernetes
+Education
+BSc, Computer Science, Full, Wilson, Bennett and Kidd, East Gary, N/A, 2016-03-31, 2021-02-26, 3.77, Machine Learning,
+Advanced Algorithms
+Skills
+Ruby, expert, JavaScript, intermediate, Angular, beginner, React, intermediate, Oracle, beginner, MySQL, expert, AWS,
+intermediate, English, fluent
+Projects
+Full Stack Developer Project, Developed end-to-end web applications using React and Django, providing seamless user experiences
+and robust backend functionality., CI/CD, GraphQL, Full Stack Developer, http://thompson-tran.com/, Name now start product wish
+us key top dream imagine positive firm.
+Certifications

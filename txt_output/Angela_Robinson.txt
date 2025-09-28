@@ -1,0 +1,19 @@
+Angela Robinson
+rebekah02@example.com | 833.658.7380 | Gatesborough | New Zealand
+Experience
+Foster-Johnson, Technology, Large, Mlops Engineer, senior, internship, 2020-10-27, 2022-12-31, N/A, Developed and maintained
+CI/CD pipelines., Ensured application responsiveness and seamless user experience., Performed software testing and resolved bugs
+efficiently., Integrated third-party services into existing systems., Automated data processing pipelines., GraphQL, Docker, Kanban,
+REST, Git
+Education
+MSc, Computer Science, Mlops, Robles-Clark, Port Ralphstad, N/A, 2015-06-01, 2022-04-14, 2.83, Dean's List, Software
+Engineering, Machine Learning, Data Structures, MSc, Computer Science, Mlops, Duarte-Howell, Moodybury, N/A, 2017-10-07,
+2020-01-23, 3.8, Magna Cum Laude, Data Structures, Distributed Systems
+Skills
+Python, expert, JavaScript, intermediate, Ruby, beginner, Django, expert, Vue, intermediate, React, beginner, MongoDB,
+intermediate, Azure, expert, English, fluent
+Projects
+Mlops Engineer Project, Integrated machine learning models into production systems using Docker and Kubernetes, automating
+model deployment and monitoring., Python, REST, Mlops Engineer, http://taylor.com/, Ok oil value that about challenge conference
+leave.
+Certifications

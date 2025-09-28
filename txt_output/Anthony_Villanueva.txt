@@ -1,0 +1,22 @@
+Anthony Villanueva
+huynhaaron@example.net | (972)649-7672 | South Eric | Burundi
+Experience
+Baker-Allen, Technology, Large, Platform Engineer, junior, full-time, 2021-09-28, 2024-02-15, N/A, Collaborated with cross-functional
+teams to design new features., Designed and implemented machine learning models., Conducted system monitoring and
+performance tuning., CI/CD, REST, Git, Scrum, Git, CI/CD, Walker, Davis and Nelson, Technology, Medium, Platform Engineer,
+senior, contract, 2021-06-05, 2024-08-10, N/A, Collaborated with cross-functional teams to design new features., Ensured
+application responsiveness and seamless user experience., Automated data processing pipelines., Deployed applications on cloud
+platforms and ensured scalability., CI/CD, Kanban, GraphQL, Castro, Smith and Arroyo, Technology, Medium, Platform Engineer,
+mid, internship, 2019-04-26, 2022-09-14, N/A, Conducted code reviews and mentored junior developers., Optimized system
+performance and reduced latency., Collaborated with cross-functional teams to design new features., GraphQL, Git, Kanban, GitLab
+Education
+MSc, Computer Science, Platform, Murphy, Bennett and Howard, Snyderfort, N/A, 2015-10-11, 2021-07-10, 2.53, Network Security,
+Machine Learning, Software Engineering, MSc, Computer Science, Platform, Miller, Wilson and Lewis, East Danielmouth, N/A,
+2016-10-29, 2022-05-14, 2.69, Network Security, Data Structures
+Skills
+JavaScript, expert, Python, expert, C#, beginner, Angular, beginner, MongoDB, expert, Azure, beginner, English, fluent
+Projects
+Platform Engineer Project, Built a scalable platform for web applications using Docker and Kubernetes, reducing deployment time
+and improving system performance., JavaScript, GraphQL, Platform Engineer, http://thompson-chen.net/, Answer policy rule check
+without perform finish particular call peace crime.
+Certifications

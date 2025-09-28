@@ -1,0 +1,22 @@
+Brenda Lara
+rossjohn@example.net | 279.460.7974x71810 | West Rhonda | Bulgaria
+Experience
+Garcia-Hernandez, Technology, Large, Security Engineer, senior, contract, 2020-12-22, 2024-10-31, N/A, Utilized version control
+effectively in a team environment., Automated deployment processes and continuous integration., Implemented RESTful APIs and
+microservices., Optimized application performance and improved user engagement., Ensured application responsiveness and
+seamless user experience., CI/CD, Scrum, Git, Hayes-Wu, Technology, Large, Security Engineer, senior, full-time, 2020-04-25,
+2022-04-29, N/A, Enhanced system security and performed regular audits., Conducted system monitoring and performance tuning.,
+Optimized system performance and reduced latency., Developed and maintained database schemas and queries., GraphQL,
+Kubernetes, REST, Scrum, Jenkins, CI/CD
+Education
+BSc, Computer Science, Security, Warner-Jimenez, Carrollburgh, N/A, 2016-04-11, 2021-08-05, 3.37, Software Engineering,
+Advanced Algorithms, Machine Learning, MSc, Computer Science, Security, Baird Inc, Karenland, N/A, 2015-06-27, 2021-11-04,
+2.87, Cum Laude, Machine Learning, Network Security, Distributed Systems, Data Structures
+Skills
+C++, intermediate, Ruby, intermediate, Python, intermediate, Node.js, intermediate, Oracle, expert, Google Cloud, intermediate,
+English, fluent
+Projects
+Security Engineer Project, Conducted penetration tests and vulnerability assessments, identifying critical security flaws and
+implementing robust security measures., JavaScript, C#, Security Engineer, https://www.griffith.com/, Trouble space here past
+pressure child line wide news book ready amount end.
+Certifications

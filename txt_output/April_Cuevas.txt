@@ -1,0 +1,27 @@
+April Cuevas
+jonathan37@example.org | (674)260-3269 | Lake James | Portugal
+Experience
+Solis-Martinez, Technology, Large, Computer Vision Engineer, junior, contract, 2018-03-18, 2022-02-23, N/A, Designed and
+implemented machine learning models., Created user-centric designs and responsive web interfaces., Implemented RESTful APIs
+and microservices., Enhanced system security and performed regular audits., CI/CD, Git, Kubernetes, Kanban, Kubernetes, Perez
+Inc, Technology, Small, Computer Vision Engineer, senior, contract, 2018-07-24, 2024-11-01, N/A, Enhanced system security and
+performed regular audits., Deployed applications on cloud platforms and ensured scalability., Developed and maintained database
+schemas and queries., Optimized system performance and reduced latency., Created user-centric designs and responsive web
+interfaces., REST, Agile, Docker, REST, Guerrero LLC, Technology, Small, Computer Vision Engineer, mid, internship, 2020-05-28,
+2023-11-02, N/A, Deployed applications on cloud platforms and ensured scalability., Managed cloud infrastructure and resource
+allocation., Implemented security best practices and data protection measures., Developed and maintained CI/CD pipelines.,
+Ensured application responsiveness and seamless user experience., REST, Docker, Git, Scrum, GitLab, Docker, GraphQL
+Education
+MSc, Computer Science, Computer, Hunter Inc, Diazmouth, N/A, 2018-07-08, 2022-02-06, 2.95, Distributed Systems, Machine
+Learning, Database Systems
+Skills
+JavaScript, expert, Ruby, beginner, C#, intermediate, Python, intermediate, Spring, expert, React, expert, MySQL, beginner, Oracle,
+intermediate, Azure, beginner, English, fluent
+Projects
+Computer Vision Engineer Project, Implemented computer vision algorithms for video analytics, enabling real-time object tracking
+and enhancing surveillance systems., CI/CD, C++, Git, Java, Computer Vision Engineer, http://www.graham.com/, Plan leader born
+front arrive alone season term., Computer Vision Engineer Project, Implemented computer vision algorithms for video analytics,
+enabling real-time object tracking and enhancing surveillance systems., REST, Docker, Python, Java, Computer Vision Engineer,
+http://gonzalez-norman.com/, Opportunity plant citizen certain professional detail manage chance behavior figure charge production
+mean politics any particular.
+Certifications

@@ -1,0 +1,23 @@
+Amy Ross
+smithrhonda@example.com | +1-453-564-8160x768 | East Shawn | Liechtenstein
+Experience
+French PLC, Technology, Medium, Android Developer, senior, contract, 2020-03-31, 2024-09-22, N/A, Optimized application
+performance and improved user engagement., Automated deployment processes and continuous integration., Conducted code
+reviews and mentored junior developers., REST, CI/CD, GraphQL, Kanban, Docker, Kubernetes, Roberts Group, Technology, Small,
+Android Developer, mid, full-time, 2020-01-10, 2023-11-08, N/A, Ensured application responsiveness and seamless user
+experience., Conducted system monitoring and performance tuning., Developed and deployed scalable solutions., Implemented
+security best practices and data protection measures., Kubernetes, Git, Scrum, GraphQL, Barry-Richards, Technology, Medium,
+Android Developer, junior, contract, 2020-01-07, 2023-09-16, N/A, Conducted code reviews and mentored junior developers.,
+Conducted system monitoring and performance tuning., Collaborated with cross-functional teams to design new features., Performed
+software testing and resolved bugs efficiently., REST, CI/CD, Kanban, Docker
+Education
+MSc, Computer Science, Android, Cox-Moran, Lake Dana, N/A, 2017-03-16, 2019-08-23, 3.84, Cum Laude, Software Engineering,
+Machine Learning, Distributed Systems
+Skills
+Java, intermediate, Ruby, expert, C++, expert, Spring, beginner, PostgreSQL, beginner, Redis, expert, Azure, intermediate, English,
+fluent
+Projects
+Android Developer Project, Developed a high-performance Android app using Kotlin that achieved 1 million downloads on the Google
+Play Store and received positive user reviews., Ruby, C++, C#, Android Developer, http://williams.info/, Child although instead at
+partner party agent back mother tend here month prevent role.
+Certifications

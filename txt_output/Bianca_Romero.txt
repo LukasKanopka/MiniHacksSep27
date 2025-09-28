@@ -1,0 +1,26 @@
+Bianca Romero
+paulmichael@example.com | 872.662.5658x586 | Gordonborough | Lebanon
+Experience
+Lang-Martinez, Technology, Large, Java Developer, mid, contract, 2020-07-16, 2024-03-08, N/A, Performed software testing and
+resolved bugs efficiently., Implemented security best practices and data protection measures., Managed cloud infrastructure and
+resource allocation., Conducted code reviews and mentored junior developers., Kubernetes, GraphQL, Git, Agile, REST, Docker,
+Wilson-Smith, Technology, Small, Java Developer, senior, contract, 2021-11-20, 2024-03-19, N/A, Developed and deployed scalable
+solutions., Optimized application performance and improved user engagement., Created user-centric designs and responsive web
+interfaces., Perfected data analysis and data visualization using Python and Tableau., Kubernetes, GraphQL, CI/CD, Scrum,
+Jenkins, Docker, REST, Garcia, Harris and Kelly, Technology, Small, Java Developer, mid, full-time, 2021-03-22, 2023-02-09, N/A,
+Managed cloud infrastructure and resource allocation., Created user-centric designs and responsive web interfaces., Developed and
+maintained CI/CD pipelines., Optimized system performance and reduced latency., Git, REST, Scrum, Kubernetes, REST, GitLab
+Education
+MSc, Computer Science, Java, Morales Group, South Jessica, N/A, 2016-03-25, 2020-11-01, 3.83, Magna Cum Laude, Data
+Structures, Advanced Algorithms, Software Engineering, BSc, Computer Science, Java, Malone, Dixon and Mcmahon, Seanfurt,
+N/A, 2017-01-17, 2020-08-17, 3.14, Magna Cum Laude, Database Systems, Data Structures, Network Security
+Skills
+JavaScript, intermediate, C++, expert, Java, expert, Angular, intermediate, Flask, beginner, Spring, beginner, Redis, expert, Azure,
+beginner, English, fluent
+Projects
+Java Developer Project, Engineered a microservices-based backend using Spring Boot, which increased system efficiency and
+reduced latency in critical applications., Kubernetes, Ruby, Java Developer, https://smith.net/, Whether space cover me fact author
+support central., Java Developer Project, Engineered a microservices-based backend using Spring Boot, which increased system
+efficiency and reduced latency in critical applications., Docker, CI/CD, Python, GraphQL, Java Developer, http://www.bennett.net/,
+Past security need more compare firm us water hold treat claim none executive study class.
+Certifications

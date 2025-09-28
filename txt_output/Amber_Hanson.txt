@@ -1,0 +1,23 @@
+Amber Hanson
+smitherin@example.org | 782.374.3752x2151 | Davidtown | Mayotte
+Experience
+Wilkins, Smith and James, Technology, Small, Infrastructure Engineer, junior, internship, 2020-12-10, 2023-03-30, N/A, Managed
+cloud infrastructure and resource allocation., Utilized version control effectively in a team environment., Implemented security best
+practices and data protection measures., Conducted code reviews and mentored junior developers., Designed and implemented
+machine learning models., REST, GraphQL, Git, Scrum, Docker, Sims-Williamson, Technology, Large, Infrastructure Engineer,
+junior, internship, 2018-09-23, 2022-09-02, N/A, Managed cloud infrastructure and resource allocation., Integrated third-party
+services into existing systems., Designed and implemented machine learning models., GraphQL, Agile, Jenkins
+Education
+MSc, Computer Science, Infrastructure, Goodman-Martinez, Russellside, N/A, 2019-02-04, 2021-03-22, 2.76, Cum Laude, Advanced
+Algorithms, Machine Learning, Database Systems, Software Engineering, BSc, Computer Science, Infrastructure, Wallace Group,
+Devinland, N/A, 2017-08-09, 2022-08-31, 3.7, Magna Cum Laude, Data Structures, Software Engineering, Advanced Algorithms
+Skills
+Ruby, beginner, C++, beginner, JavaScript, intermediate, Django, intermediate, Vue, intermediate, React, expert, Oracle,
+intermediate, MongoDB, intermediate, Azure, expert, English, fluent
+Projects
+Infrastructure Engineer Project, Designed and implemented cloud infrastructure using Terraform, reducing deployment time by 50%
+and improving system scalability., Docker, Java, Infrastructure Engineer, https://taylor.com/, Enjoy safe tax quite whose beyond
+surface determine into college., Infrastructure Engineer Project, Designed and implemented cloud infrastructure using Terraform,
+reducing deployment time by 50% and improving system scalability., REST, Java, Go, C#, Infrastructure Engineer,
+http://www.jones.com/, Bad money leader know history according decision almost.
+Certifications

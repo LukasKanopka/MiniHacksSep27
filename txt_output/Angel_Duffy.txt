@@ -1,0 +1,20 @@
+Angel Duffy
+lholmes@example.org | (725)659-5024x649 | Soniachester | Christmas Island
+Experience
+Valencia, Donaldson and Fleming, Technology, Large, Javascript Developer, mid, contract, 2018-12-31, 2023-05-02, N/A, Built and
+maintained scalable web applications., Automated deployment processes and continuous integration., Developed and maintained
+database schemas and queries., Developed and deployed scalable solutions., Collaborated with cross-functional teams to design
+new features., GraphQL, Scrum, Docker, Miller-King, Technology, Large, Javascript Developer, senior, internship, 2018-06-02,
+2024-03-17, N/A, Deployed applications on cloud platforms and ensured scalability., Enhanced system security and performed
+regular audits., Created user-centric designs and responsive web interfaces., Conducted system monitoring and performance
+tuning., Developed and deployed scalable solutions., REST, Kanban, CI/CD, Git
+Education
+MSc, Computer Science, Javascript, Padilla and Sons, Rubenside, N/A, 2016-02-02, 2020-01-09, 3.99, Cum Laude, Database
+Systems, Advanced Algorithms
+Skills
+Go, beginner, JavaScript, intermediate, Flask, beginner, React, intermediate, Redis, beginner, AWS, expert, English, fluent
+Projects
+Javascript Developer Project, Created a dynamic single-page application using React that enhanced user engagement and
+streamlined client-side performance., JavaScript, Ruby, Javascript Developer, https://king-case.biz/, Ok total education event than
+address skill person computer identify.
+Certifications

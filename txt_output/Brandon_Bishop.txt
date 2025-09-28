@@ -1,0 +1,25 @@
+Brandon Bishop
+howelldennis@example.net | 5439194500 | New Kristaport | Isle of Man
+Experience
+Coleman-Brown, Technology, Small, Deep Learning Engineer, senior, full-time, 2020-10-06, 2024-05-28, N/A, Enhanced system
+security and performed regular audits., Developed and deployed scalable solutions., Implemented security best practices and data
+protection measures., Performed software testing and resolved bugs efficiently., Docker, REST, Git, Agile, Docker, Docker, Git,
+Schneider, Fisher and Sanchez, Technology, Large, Deep Learning Engineer, senior, contract, 2020-04-15, 2024-04-29, N/A,
+Ensured application responsiveness and seamless user experience., Collaborated with cross-functional teams to design new
+features., Perfected data analysis and data visualization using Python and Tableau., Automated deployment processes and
+continuous integration., Developed and maintained database schemas and queries., CI/CD, Scrum, Docker, Jenkins, GraphQL,
+Marshall PLC, Technology, Large, Deep Learning Engineer, junior, contract, 2021-02-07, 2025-01-07, N/A, Built and maintained
+scalable web applications., Optimized system performance and reduced latency., Ensured application responsiveness and seamless
+user experience., Implemented security best practices and data protection measures., Perfected data analysis and data visualization
+using Python and Tableau., REST, Kanban, GitLab, GraphQL
+Education
+BSc, Computer Science, Deep, Cameron, Wilson and Alvarez, Timothyport, N/A, 2016-10-01, 2020-11-07, 3.28, Magna Cum Laude,
+Network Security, Data Structures, Machine Learning, Advanced Algorithms, MSc, Computer Science, Deep, Miller-Hanson, Lake
+Johnborough, N/A, 2018-10-01, 2020-08-22, 3.1, Dean's List, Software Engineering, Advanced Algorithms
+Skills
+JavaScript, expert, Python, intermediate, Node.js, beginner, Spring, expert, Redis, intermediate, Azure, beginner, English, fluent
+Projects
+Deep Learning Engineer Project, Developed deep learning models for image recognition, achieving 95% accuracy and enabling
+real-time object detection in video streams., Ruby, Go, C++, Deep Learning Engineer, https://www.collier-walters.com/, Hit offer
+increase suggest radio common almost close democratic treatment wait specific eat view heavy.
+Certifications

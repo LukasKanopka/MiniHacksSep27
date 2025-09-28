@@ -1,0 +1,24 @@
+Carolyn Allen
+qallen@example.com | +1-215-808-0623x9644 | New Howardburgh | Cameroon
+Experience
+Meyer, Hoffman and Chang, Technology, Large, Site Reliability Engineer, senior, contract, 2019-07-22, 2024-11-23, N/A, Performed
+software testing and resolved bugs efficiently., Developed and deployed scalable solutions., Deployed applications on cloud
+platforms and ensured scalability., GraphQL, Kubernetes, Scrum, Kubernetes, Docker, Boyd Inc, Technology, Large, Site Reliability
+Engineer, junior, internship, 2019-03-18, 2022-07-06, N/A, Deployed applications on cloud platforms and ensured scalability.,
+Developed and maintained CI/CD pipelines., Managed cloud infrastructure and resource allocation., Built and maintained scalable
+web applications., Developed and deployed scalable solutions., Docker, Agile, CI/CD, Lucas, Glass and Cooke, Technology, Large,
+Site Reliability Engineer, junior, internship, 2020-05-17, 2023-02-21, N/A, Deployed applications on cloud platforms and ensured
+scalability., Integrated third-party services into existing systems., Built and maintained scalable web applications., Conducted system
+monitoring and performance tuning., Designed and implemented machine learning models., GraphQL, Agile, Docker, Kubernetes
+Education
+BSc, Computer Science, Site, Hunt-Lopez, Port Ashleymouth, N/A, 2018-10-22, 2019-06-10, 2.62, Magna Cum Laude, Network
+Security, Database Systems
+Skills
+Go, expert, Ruby, intermediate, Python, beginner, Vue, expert, Oracle, expert, Redis, intermediate, Azure, beginner, English, fluent
+Projects
+Site Reliability Engineer Project, Implemented automated monitoring and alerting for a large-scale SaaS application, reducing
+downtime incidents by 70%., Docker, Git, Site Reliability Engineer, http://castillo.com/, Investment center main take try glass second
+teach yet race they collection., Site Reliability Engineer Project, Implemented automated monitoring and alerting for a large-scale
+SaaS application, reducing downtime incidents by 70%., C#, Git, Java, JavaScript, Site Reliability Engineer, http://maldonado.org/,
+Single whom deal that by American analysis be particular suffer act Mr.
+Certifications

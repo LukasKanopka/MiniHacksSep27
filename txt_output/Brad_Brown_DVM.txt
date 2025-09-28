@@ -1,0 +1,20 @@
+Brad Brown DVM
+ybooth@example.org | (530)205-6719x9163 | Lake Joeview | Uzbekistan
+Experience
+Medina-Barnett, Technology, Large, Ios Developer, senior, full-time, 2019-05-18, 2023-12-06, N/A, Automated deployment
+processes and continuous integration., Implemented RESTful APIs and microservices., Enhanced system security and performed
+regular audits., Optimized system performance and reduced latency., Collaborated with cross-functional teams to design new
+features., REST, GraphQL, Scrum, REST, Kubernetes
+Education
+BSc, Computer Science, Ios, Mcgee-Atkinson, North Rachel, N/A, 2017-05-13, 2021-05-28, 3.96, Software Engineering, Network
+Security
+Skills
+C++, beginner, JavaScript, intermediate, Java, expert, Swift, intermediate, Spring, expert, Vue, expert, MySQL, expert, PostgreSQL,
+beginner, Google Cloud, expert, English, fluent
+Projects
+Ios Developer Project, Built a user-friendly iOS app with Swift that received a 4.9-star rating on the App Store and increased user
+engagement by 40%., CI/CD, C#, C++, Ios Developer, http://www.ibarra.info/, Scene left operation throughout interesting bit long full
+social build community his focus travel professional interview., Ios Developer Project, Built a user-friendly iOS app with Swift that
+received a 4.9-star rating on the App Store and increased user engagement by 40%., GraphQL, Docker, Ios Developer,
+https://www.martin-tate.info/, Care yet look but where pick customer can standard.
+Certifications

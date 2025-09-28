@@ -1,0 +1,26 @@
+Amanda Howard
+yflores@example.org | 001-239-734-8851 | New Lori | Kuwait
+Experience
+Ruiz-Schultz, Technology, Medium, Data Scientist, mid, internship, 2021-04-01, 2024-01-10, N/A, Built and maintained scalable web
+applications., Conducted system monitoring and performance tuning., Developed and deployed scalable solutions., Conducted code
+reviews and mentored junior developers., CI/CD, GraphQL, Agile, Jenkins, Campos-Tran, Technology, Small, Data Scientist, junior,
+full-time, 2021-03-31, 2024-07-09, N/A, Enhanced system security and performed regular audits., Developed and maintained
+database schemas and queries., Utilized version control effectively in a team environment., Performed software testing and resolved
+bugs efficiently., Perfected data analysis and data visualization using Python and Tableau., Git, Scrum, Docker, Weaver, Banks and
+Rodriguez, Technology, Large, Data Scientist, mid, contract, 2021-07-14, 2022-08-22, N/A, Developed and maintained database
+schemas and queries., Built and maintained scalable web applications., Perfected data analysis and data visualization using Python
+and Tableau., Designed and implemented machine learning models., Optimized application performance and improved user
+engagement., REST, Scrum, Docker, Jenkins
+Education
+BSc, Computer Science, Data, Robinson-Burton, East Cynthialand, N/A, 2018-08-13, 2020-08-08, 3.19, Data Structures, Machine
+Learning
+Skills
+Ruby, expert, C++, beginner, Go, intermediate, Python, intermediate, Node.js, beginner, Django, intermediate, Vue, beginner,
+MongoDB, intermediate, Google Cloud, intermediate, English, fluent
+Projects
+Data Scientist Project, Designed and deployed machine learning models that significantly improved predictive accuracy and provided
+actionable insights for business strategy., C#, JavaScript, Ruby, GraphQL, Data Scientist, https://www.powell.info/, Effort goal short
+they fear site before hundred according., Data Scientist Project, Designed and deployed machine learning models that significantly
+improved predictive accuracy and provided actionable insights for business strategy., GraphQL, Git, Java, REST, Data Scientist,
+http://brooks.com/, Thought ball start second strong democratic write blood evening most assume.
+Certifications

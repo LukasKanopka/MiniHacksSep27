@@ -1,0 +1,26 @@
+Austin Moore
+vbaxter@example.net | 534.839.9495x7922 | Williemouth | Timor-Leste
+Experience
+Oliver Ltd, Technology, Small, Database Administrator, mid, contract, 2021-08-09, 2024-08-21, N/A, Created user-centric designs
+and responsive web interfaces., Optimized system performance and reduced latency., Integrated third-party services into existing
+systems., Perfected data analysis and data visualization using Python and Tableau., Enhanced system security and performed
+regular audits., Docker, REST, Agile, GraphQL, Jefferson LLC, Technology, Small, Database Administrator, senior, internship,
+2021-07-14, 2023-05-08, N/A, Designed and implemented machine learning models., Developed and maintained CI/CD pipelines.,
+Automated deployment processes and continuous integration., GraphQL, REST, Kanban, REST, Roberts-Young, Technology,
+Large, Database Administrator, junior, internship, 2020-04-20, 2023-09-25, N/A, Designed and implemented machine learning
+models., Optimized application performance and improved user engagement., Conducted system monitoring and performance
+tuning., CI/CD, REST, Docker, Kanban, GraphQL
+Education
+MSc, Computer Science, Database, Williams Ltd, New Phillipstad, N/A, 2016-09-24, 2019-12-22, 2.93, Network Security, Data
+Structures, Distributed Systems, MSc, Computer Science, Database, Carter, Mills and Melendez, Port Richardview, N/A,
+2017-08-20, 2022-04-09, 2.94, Data Structures, Machine Learning, Database Systems, Software Engineering
+Skills
+Java, intermediate, C#, intermediate, JavaScript, beginner, SQL, intermediate, Angular, expert, Flask, intermediate, MongoDB,
+beginner, Google Cloud, intermediate, English, fluent
+Projects
+Database Administrator Project, Optimized database performance by 40% through query optimization and database tuning, ensuring
+seamless data retrieval and storage., Ruby, Git, C#, Database Administrator, http://gilmore.com/, Owner entire hundred firm forget
+kid put first someone year while institution its., Database Administrator Project, Optimized database performance by 40% through
+query optimization and database tuning, ensuring seamless data retrieval and storage., Go, Ruby, Database Administrator,
+http://hill.com/, Mouth try local take central perhaps possible group thought federal stop.
+Certifications

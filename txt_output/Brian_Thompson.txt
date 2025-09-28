@@ -1,0 +1,19 @@
+Brian Thompson
+sotozachary@example.com | 001-254-548-5948x0401 | Birdburgh | Swaziland
+Experience
+Taylor PLC, Technology, Medium, Qa Engineer, mid, contract, 2019-09-19, 2022-04-14, N/A, Developed and maintained CI/CD
+pipelines., Enhanced system security and performed regular audits., Performed software testing and resolved bugs efficiently.,
+Optimized application performance and improved user engagement., Built and maintained scalable web applications., REST, Scrum,
+GraphQL
+Education
+BSc, Computer Science, Qa, Gonzales-Booth, Port Jerry, N/A, 2016-11-09, 2020-05-29, 2.91, Machine Learning, Advanced
+Algorithms
+Skills
+Python, expert, Django, expert, Redis, expert, MongoDB, intermediate, Azure, expert, English, fluent
+Projects
+Qa Engineer Project, Automated test scripts using Selenium and Python, reducing manual testing efforts and improving software
+quality., Ruby, CI/CD, Qa Engineer, http://www.miller-chapman.org/, Fight very after realize list magazine party last everyone garden
+management., Qa Engineer Project, Automated test scripts using Selenium and Python, reducing manual testing efforts and
+improving software quality., Java, C++, Qa Engineer, http://mayo.com/, Boy charge data center charge bill participant respond leave
+reach vote trouble eat.
+Certifications

@@ -1,0 +1,20 @@
+Cassandra Miller
+woodjohnny@example.org | 960.549.3773x79919 | Lake Kyliemouth | French Guiana
+Experience
+Sanchez-Ryan, Technology, Medium, Cybersecurity Engineer, junior, contract, 2018-03-23, 2022-02-24, N/A, Designed and
+implemented machine learning models., Conducted code reviews and mentored junior developers., Developed and deployed
+scalable solutions., GraphQL, Scrum, GraphQL, Docker, Kennedy-Cohen, Technology, Small, Cybersecurity Engineer, junior,
+internship, 2020-07-07, 2022-02-26, N/A, Developed and maintained database schemas and queries., Optimized system
+performance and reduced latency., Enhanced system security and performed regular audits., Designed and implemented machine
+learning models., Implemented RESTful APIs and microservices., REST, Git, Docker, Agile, Kubernetes
+Education
+MSc, Computer Science, Cybersecurity, Schmidt PLC, West Megan, N/A, 2016-08-29, 2021-02-12, 2.95, Cum Laude, Data
+Structures, Advanced Algorithms, Distributed Systems, BSc, Computer Science, Cybersecurity, Scott and Sons, Glennview, N/A,
+2016-10-18, 2021-03-29, 3.2, Cum Laude, Network Security, Advanced Algorithms, Distributed Systems
+Skills
+C#, intermediate, Python, intermediate, Vue, beginner, PostgreSQL, expert, MySQL, expert, Azure, expert, English, fluent
+Projects
+Cybersecurity Engineer Project, Conducted security assessments and implemented security controls, reducing security
+vulnerabilities by 60% and enhancing system security., Java, REST, Docker, Cybersecurity Engineer, https://www.west.com/,
+American space a raise manage sea treat like director assume center.
+Certifications

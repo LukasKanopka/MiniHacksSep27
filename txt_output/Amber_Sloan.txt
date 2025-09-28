@@ -1,0 +1,25 @@
+Amber Sloan
+amandabarnes@example.net | 578.534.4884 | East Tammyborough | Norway
+Experience
+Lynch Group, Technology, Small, Angular Developer, junior, contract, 2019-03-20, 2023-01-23, N/A, Utilized version control
+effectively in a team environment., Developed and maintained CI/CD pipelines., Conducted code reviews and mentored junior
+developers., REST, GraphQL, Kubernetes, Scrum, GitLab, CI/CD, Wells, Kim and Bernard, Technology, Large, Angular Developer,
+senior, internship, 2021-07-19, 2022-09-09, N/A, Developed and maintained database schemas and queries., Collaborated with
+cross-functional teams to design new features., Enhanced system security and performed regular audits., Created user-centric
+designs and responsive web interfaces., Optimized system performance and reduced latency., Kubernetes, Kanban, CI/CD, GitLab,
+Git, Walker Ltd, Technology, Small, Angular Developer, senior, contract, 2018-12-09, 2024-10-01, N/A, Conducted system
+monitoring and performance tuning., Perfected data analysis and data visualization using Python and Tableau., Created user-centric
+designs and responsive web interfaces., Integrated third-party services into existing systems., Performed software testing and
+resolved bugs efficiently., Docker, Kubernetes, Scrum, GitLab, Kubernetes, Docker
+Education
+BSc, Computer Science, Angular, Adams-Perez, Brendanstad, N/A, 2017-07-27, 2021-09-12, 3.88, Magna Cum Laude, Distributed
+Systems, Network Security, BSc, Computer Science, Angular, Yang-Smith, Georgeside, N/A, 2017-11-10, 2022-07-17, 3.6,
+Advanced Algorithms, Database Systems
+Skills
+JavaScript, beginner, Python, beginner, Go, beginner, Spring, intermediate, Node.js, beginner, Angular, intermediate, Oracle,
+intermediate, MySQL, expert, Azure, beginner, English, fluent
+Projects
+Angular Developer Project, Minute series heart data. Heavy budget baby cell music. Wear trial argue war. Red let large point.,
+GraphQL, CI/CD, Angular Developer, https://spears.com/, Treatment remember finally she huge sport many these but training
+station.
+Certifications

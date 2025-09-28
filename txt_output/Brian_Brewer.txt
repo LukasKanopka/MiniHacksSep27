@@ -1,0 +1,24 @@
+Brian Brewer
+jessica80@example.com | 359-849-9149 | Corytown | Antigua and Barbuda
+Experience
+Weaver, Horton and Smith, Technology, Large, Site Reliability Engineer, senior, internship, 2018-04-16, 2023-01-25, N/A, Automated
+deployment processes and continuous integration., Created user-centric designs and responsive web interfaces., Automated data
+processing pipelines., Git, Docker, REST, Kanban, CI/CD, Git, Docker, Mendoza PLC, Technology, Small, Site Reliability Engineer,
+senior, full-time, 2021-05-19, 2022-07-19, N/A, Ensured application responsiveness and seamless user experience., Conducted
+system monitoring and performance tuning., Automated data processing pipelines., GraphQL, Git, Agile, GraphQL, CI/CD, Jenkins,
+Daugherty PLC, Technology, Small, Site Reliability Engineer, mid, internship, 2020-11-26, 2023-05-03, N/A, Automated deployment
+processes and continuous integration., Collaborated with cross-functional teams to design new features., Managed cloud
+infrastructure and resource allocation., Deployed applications on cloud platforms and ensured scalability., Docker, REST, Scrum,
+Docker
+Education
+BSc, Computer Science, Site, Irwin, Huber and James, Davidfurt, N/A, 2016-06-11, 2019-06-28, 4.0, Dean's List, Data Structures,
+Software Engineering, MSc, Computer Science, Site, George-Allen, Carterstad, N/A, 2017-06-07, 2021-02-24, 3.97, Magna Cum
+Laude, Distributed Systems, Network Security
+Skills
+Ruby, beginner, C#, beginner, Go, expert, Angular, beginner, Spring, expert, Redis, intermediate, PostgreSQL, beginner, Google
+Cloud, expert, English, fluent
+Projects
+Site Reliability Engineer Project, Implemented automated monitoring and alerting for a large-scale SaaS application, reducing
+downtime incidents by 70%., Java, Python, Git, Site Reliability Engineer, https://pennington.com/, Upon name attorney language
+economy hand true operation.
+Certifications

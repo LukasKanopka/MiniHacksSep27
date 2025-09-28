@@ -1,0 +1,21 @@
+Benjamin Roberts
+markcrawford@example.net | 734.482.9032x197 | New Erinview | Syrian Arab Republic
+Experience
+Lee Inc, Technology, Small, Penetration Tester, mid, contract, 2019-09-20, 2022-04-09, N/A, Created user-centric designs and
+responsive web interfaces., Conducted code reviews and mentored junior developers., Developed and maintained database
+schemas and queries., Kubernetes, CI/CD, GraphQL, Kanban, Jenkins, Graham-Mitchell, Technology, Small, Penetration Tester,
+junior, contract, 2019-06-14, 2024-05-16, N/A, Enhanced system security and performed regular audits., Automated deployment
+processes and continuous integration., Conducted code reviews and mentored junior developers., Collaborated with cross-functional
+teams to design new features., Created user-centric designs and responsive web interfaces., CI/CD, GraphQL, REST, Kanban,
+GraphQL
+Education
+MSc, Computer Science, Penetration, Thompson and Sons, Patrickfort, N/A, 2017-06-07, 2019-10-05, 3.79, Network Security,
+Distributed Systems, Machine Learning, Software Engineering
+Skills
+Java, beginner, Python, expert, C#, intermediate, React, beginner, Flask, intermediate, Oracle, expert, Google Cloud, beginner,
+English, fluent
+Projects
+Penetration Tester Project, Conducted penetration tests and vulnerability assessments, identifying security weaknesses and
+providing recommendations for improved security measures., Python, Go, Penetration Tester, http://www.aguirre-gonzalez.com/,
+Street argue write perform including miss PM yet officer interview check behind bar buy.
+Certifications

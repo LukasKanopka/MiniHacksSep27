@@ -1,0 +1,24 @@
+Becky Young
+stacey43@example.com | (827)903-3766x11559 | Lake Williamville | Kenya
+Experience
+Farmer-Lang, Technology, Medium, Platform Engineer, senior, contract, 2020-04-04, 2024-10-14, N/A, Developed and maintained
+CI/CD pipelines., Built and maintained scalable web applications., Managed cloud infrastructure and resource allocation., Designed
+and implemented machine learning models., GraphQL, Agile, Jenkins, REST, GraphQL, Lamb-Johnson, Technology, Small,
+Platform Engineer, mid, internship, 2020-09-26, 2024-10-02, N/A, Enhanced system security and performed regular audits.,
+Developed and maintained database schemas and queries., Created user-centric designs and responsive web interfaces.,
+Developed and deployed scalable solutions., Automated data processing pipelines., REST, Git, Scrum, Jenkins, Git, GitLab, Turner,
+Parker and Morris, Technology, Medium, Platform Engineer, mid, internship, 2020-09-05, 2023-01-18, N/A, Developed and deployed
+scalable solutions., Automated data processing pipelines., Managed cloud infrastructure and resource allocation., Kubernetes,
+CI/CD, Scrum, Git, Docker, GraphQL
+Education
+BSc, Computer Science, Platform, Wheeler Ltd, Port Sandra, N/A, 2017-12-04, 2019-07-24, 3.5, Magna Cum Laude, Distributed
+Systems, Advanced Algorithms, Network Security, Database Systems, BSc, Computer Science, Platform, Sullivan-Gray, East
+Michelle, N/A, 2016-06-22, 2022-04-14, 3.91, Magna Cum Laude, Machine Learning, Database Systems
+Skills
+Python, beginner, Go, intermediate, JavaScript, beginner, Node.js, beginner, Flask, beginner, Redis, intermediate, AWS, expert,
+English, fluent
+Projects
+Platform Engineer Project, Built a scalable platform for web applications using Docker and Kubernetes, reducing deployment time
+and improving system performance., Go, REST, CI/CD, Platform Engineer, https://www.caldwell.com/, Then minute game large exist
+billion whole into campaign.
+Certifications

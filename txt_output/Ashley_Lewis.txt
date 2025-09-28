@@ -1,0 +1,19 @@
+Ashley Lewis
+rachel92@example.net | (279)937-3704x4389 | Kristihaven | Barbados
+Experience
+Payne Ltd, Technology, Large, Embedded Systems Engineer, junior, full-time, 2019-07-18, 2024-10-03, N/A, Developed and
+deployed scalable solutions., Designed and implemented machine learning models., Automated deployment processes and
+continuous integration., Conducted system monitoring and performance tuning., REST, Kanban, CI/CD, Docker, Kubernetes
+Education
+MSc, Computer Science, Embedded, Nguyen LLC, Deannaland, N/A, 2018-06-09, 2022-03-15, 3.49, Data Structures, Machine
+Learning
+Skills
+C++, intermediate, Ruby, expert, C, intermediate, Django, intermediate, Redis, expert, Azure, expert, English, fluent
+Projects
+Embedded Systems Engineer Project, Developed firmware for IoT devices, enhancing device functionality and enabling real-time
+data processing for smart home applications., CI/CD, Git, Docker, JavaScript, Embedded Systems Engineer,
+https://www.lewis-sparks.com/, But choice feel any plant fine produce report rise., Embedded Systems Engineer Project, Developed
+firmware for IoT devices, enhancing device functionality and enabling real-time data processing for smart home applications., Ruby,
+REST, Kubernetes, Embedded Systems Engineer, https://simmons.net/, Building such story offer determine blue direction say
+personal miss.
+Certifications

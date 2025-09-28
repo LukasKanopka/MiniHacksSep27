@@ -1,0 +1,23 @@
+Andres Franco
+zgrant@example.net | 225.892.1064 | Lake Christine | Tunisia
+Experience
+Frank, Martinez and Powell, Technology, Medium, React Native Developer, senior, full-time, 2018-07-27, 2025-02-14, N/A,
+Developed and maintained database schemas and queries., Automated data processing pipelines., Developed and deployed
+scalable solutions., Created user-centric designs and responsive web interfaces., Docker, REST, GraphQL, Agile, REST, Neal,
+Griffin and Thompson, Technology, Medium, React Native Developer, junior, contract, 2020-11-19, 2022-06-26, N/A, Deployed
+applications on cloud platforms and ensured scalability., Collaborated with cross-functional teams to design new features.,
+Conducted system monitoring and performance tuning., Kubernetes, Git, Agile, Docker, GitLab, Docker, Thomas, Baker and Davis,
+Technology, Medium, React Native Developer, junior, internship, 2020-01-08, 2024-03-30, N/A, Built and maintained scalable web
+applications., Automated data processing pipelines., Implemented RESTful APIs and microservices., GraphQL, Git, REST, Scrum,
+GitLab
+Education
+MSc, Computer Science, React, Chung-Kim, Stuartland, N/A, 2015-06-03, 2019-12-31, 3.11, Dean's List, Database Systems,
+Software Engineering, Data Structures
+Skills
+C#, beginner, Django, intermediate, React, beginner, Spring, intermediate, React Native, intermediate, MongoDB, beginner, Oracle,
+expert, AWS, beginner, English, fluent
+Projects
+React Native Developer Project, Created a cross-platform mobile app using React Native that improved user engagement and
+provided a seamless user experience across devices., Go, Ruby, React Native Developer, https://barrera.com/, They someone under
+peace human main city nothing federal want drug improve detail together up.
+Certifications

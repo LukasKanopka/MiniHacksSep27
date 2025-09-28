@@ -1,0 +1,23 @@
+Brandon Sheppard
+wfleming@example.org | (238)707-5166x469 | West Keith | Guyana
+Experience
+Sanchez, Gomez and Case, Technology, Medium, Solutions Architect, junior, contract, 2019-01-15, 2023-10-19, N/A, Deployed
+applications on cloud platforms and ensured scalability., Enhanced system security and performed regular audits., Integrated
+third-party services into existing systems., Automated data processing pipelines., Git, GraphQL, REST, Kanban, Kubernetes,
+GraphQL, Gomez, Snyder and Sanchez, Technology, Medium, Solutions Architect, senior, contract, 2019-03-11, 2023-01-14, N/A,
+Created user-centric designs and responsive web interfaces., Built and maintained scalable web applications., Deployed applications
+on cloud platforms and ensured scalability., Developed and maintained CI/CD pipelines., Performed software testing and resolved
+bugs efficiently., Kubernetes, Scrum, Kubernetes, Docker, Sanchez-Pope, Technology, Small, Solutions Architect, senior, internship,
+2019-12-08, 2024-12-10, N/A, Automated data processing pipelines., Automated deployment processes and continuous integration.,
+Developed and maintained database schemas and queries., CI/CD, Git, Agile, Git
+Education
+BSc, Computer Science, Solutions, Gomez Inc, North Lisaborough, N/A, 2015-03-21, 2019-06-14, 3.94, Dean's List, Machine
+Learning, Data Structures, Software Engineering
+Skills
+Ruby, beginner, JavaScript, intermediate, Java, intermediate, Python, intermediate, Angular, beginner, Oracle, expert, MySQL,
+beginner, AWS, intermediate, English, fluent
+Projects
+Solutions Architect Project, Designed and implemented a comprehensive solution architecture for an enterprise system, improving
+system scalability and reliability., Docker, JavaScript, Solutions Architect, https://www.sims.net/, Information grow night past try card
+Mrs audience yet happy.
+Certifications

@@ -1,0 +1,25 @@
+Brandon Schmitt
+heatherhicks@example.net | 498.948.5710x7726 | New Kellyton | Tajikistan
+Experience
+Barnes, Garcia and Mays, Technology, Medium, Android Developer, mid, contract, 2021-07-03, 2023-02-22, N/A, Implemented
+RESTful APIs and microservices., Conducted system monitoring and performance tuning., Developed and deployed scalable
+solutions., Docker, Kanban, REST, Git, GitLab, Mora-Gillespie, Technology, Small, Android Developer, mid, contract, 2021-06-21,
+2024-09-01, N/A, Optimized application performance and improved user engagement., Developed and maintained database
+schemas and queries., Deployed applications on cloud platforms and ensured scalability., Enhanced system security and performed
+regular audits., Implemented RESTful APIs and microservices., CI/CD, Docker, Kubernetes, Agile, GitLab, Peterson-Smith,
+Technology, Medium, Android Developer, senior, full-time, 2018-04-28, 2022-12-17, N/A, Developed and deployed scalable
+solutions., Automated deployment processes and continuous integration., Deployed applications on cloud platforms and ensured
+scalability., Performed software testing and resolved bugs efficiently., GraphQL, Kubernetes, CI/CD, Kanban, REST, CI/CD
+Education
+BSc, Computer Science, Android, Day, Foley and Sellers, Smithside, N/A, 2018-06-26, 2022-06-14, 3.95, Data Structures, Database
+Systems, Distributed Systems, Advanced Algorithms
+Skills
+Java, intermediate, C#, expert, React, intermediate, Flask, beginner, Spring, beginner, Oracle, intermediate, PostgreSQL, expert,
+Azure, expert, English, fluent
+Projects
+Android Developer Project, Developed a high-performance Android app using Kotlin that achieved 1 million downloads on the Google
+Play Store and received positive user reviews., Ruby, Docker, GraphQL, C#, Android Developer, https://miller.com/, Include produce
+anyone for magazine answer trade., Android Developer Project, Developed a high-performance Android app using Kotlin that
+achieved 1 million downloads on the Google Play Store and received positive user reviews., C#, GraphQL, Ruby, Java, Android
+Developer, http://www.perez.biz/, Plant take couple dinner direction senior back machine.
+Certifications

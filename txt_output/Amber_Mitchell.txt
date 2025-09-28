@@ -1,0 +1,24 @@
+Amber Mitchell
+oferguson@example.com | 684.333.6584 | East Johnmouth | Falkland Islands (Malvinas)
+Experience
+Rosales, Stevenson and Bradley, Technology, Small, Technical Architect, junior, internship, 2020-11-04, 2023-10-12, N/A,
+Automated data processing pipelines., Deployed applications on cloud platforms and ensured scalability., Managed cloud
+infrastructure and resource allocation., Git, Kanban, CI/CD, Rodriguez-Phillips, Technology, Small, Technical Architect, mid,
+internship, 2020-02-05, 2023-07-18, N/A, Built and maintained scalable web applications., Conducted code reviews and mentored
+junior developers., Automated data processing pipelines., Integrated third-party services into existing systems., Kubernetes, Docker,
+REST, Scrum, GraphQL, Kubernetes, Johnson-Patterson, Technology, Small, Technical Architect, junior, full-time, 2021-06-12,
+2024-03-16, N/A, Perfected data analysis and data visualization using Python and Tableau., Performed software testing and resolved
+bugs efficiently., Implemented RESTful APIs and microservices., Managed cloud infrastructure and resource allocation., Docker,
+Scrum, Docker, REST, GitLab
+Education
+MSc, Computer Science, Technical, Kelly-Smith, New Craig, N/A, 2016-02-20, 2020-09-11, 3.62, Cum Laude, Software Engineering,
+Network Security, Machine Learning, MSc, Computer Science, Technical, Berg PLC, Ramirezhaven, N/A, 2015-05-10, 2021-02-20,
+3.19, Advanced Algorithms, Data Structures, Distributed Systems, Database Systems
+Skills
+JavaScript, expert, Python, beginner, Go, intermediate, Vue, beginner, React, beginner, Oracle, intermediate, MySQL, beginner,
+Azure, intermediate, English, fluent
+Projects
+Technical Architect Project, Designed a scalable microservices architecture using Python and AWS services, improving system
+performance and reducing infrastructure costs., C++, GraphQL, Technical Architect, http://medina-kirby.com/, Movie how race
+person total report issue trip middle before anyone police.
+Certifications

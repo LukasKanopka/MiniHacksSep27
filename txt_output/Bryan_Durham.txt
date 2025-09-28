@@ -1,0 +1,24 @@
+Bryan Durham
+howardlisa@example.org | 001-302-344-5172 | Michealmouth | Australia
+Experience
+Smith, Herrera and Smith, Technology, Small, Kubernetes Engineer, junior, internship, 2019-10-29, 2023-02-21, N/A, Collaborated
+with cross-functional teams to design new features., Managed cloud infrastructure and resource allocation., Designed and
+implemented machine learning models., Optimized system performance and reduced latency., CI/CD, REST, Git, Kanban, Git,
+Hinton, Pearson and Zimmerman, Technology, Medium, Kubernetes Engineer, senior, contract, 2018-03-21, 2024-02-09, N/A,
+Developed and deployed scalable solutions., Developed and maintained CI/CD pipelines., Built and maintained scalable web
+applications., Perfected data analysis and data visualization using Python and Tableau., Optimized application performance and
+improved user engagement., Git, Kubernetes, REST, Scrum, CI/CD, REST, Gates-Potter, Technology, Large, Kubernetes Engineer,
+senior, contract, 2021-12-17, 2023-06-08, N/A, Perfected data analysis and data visualization using Python and Tableau., Built and
+maintained scalable web applications., Managed cloud infrastructure and resource allocation., Conducted system monitoring and
+performance tuning., Enhanced system security and performed regular audits., GraphQL, Kubernetes, Agile, Kubernetes
+Education
+BSc, Computer Science, Kubernetes, Gonzales Group, Lake Walterview, N/A, 2015-08-22, 2019-06-14, 3.12, Data Structures,
+Software Engineering
+Skills
+Ruby, intermediate, Python, intermediate, Go, beginner, React, expert, MySQL, expert, PostgreSQL, intermediate, AWS,
+intermediate, English, fluent
+Projects
+Kubernetes Engineer Project, Managed Kubernetes clusters for container orchestration, improving system reliability and enabling
+seamless deployment of microservices., Kubernetes, C#, Go, Kubernetes Engineer, http://miller-white.net/, Party force choice
+discover better process sign deep direction between feeling tonight truth receive reach.
+Certifications

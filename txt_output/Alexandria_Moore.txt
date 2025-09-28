@@ -1,0 +1,19 @@
+Alexandria Moore
+deniserogers@example.com | 001-708-868-4734 | Lake Lisabury | South Africa
+Experience
+Owen Inc, Technology, Large, Ai Engineer, senior, full-time, 2018-07-16, 2023-05-14, N/A, Optimized system performance and
+reduced latency., Optimized application performance and improved user engagement., Conducted code reviews and mentored junior
+developers., Kubernetes, Docker, Agile, CI/CD, Bailey-Ibarra, Technology, Medium, Ai Engineer, senior, internship, 2020-07-02,
+2024-05-22, N/A, Implemented RESTful APIs and microservices., Managed cloud infrastructure and resource allocation., Developed
+and deployed scalable solutions., GraphQL, Git, REST, Agile, Git
+Education
+BSc, Computer Science, Ai, Dawson Group, South Dean, N/A, 2018-08-16, 2021-09-01, 3.8, Dean's List, Software Engineering, Data
+Structures
+Skills
+C++, beginner, C#, beginner, Python, intermediate, Spring, beginner, Redis, expert, PostgreSQL, beginner, Azure, beginner,
+English, fluent
+Projects
+Ai Engineer Project, Built AI-powered applications using TensorFlow and Python, improving predictive accuracy and enabling
+data-driven decision-making., CI/CD, Go, Ruby, Ai Engineer, http://miller-wheeler.net/, List nation look effort think issue particularly
+large soon information throughout.
+Certifications

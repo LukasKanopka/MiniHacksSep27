@@ -1,0 +1,25 @@
+Brandon Thomas
+dgreene@example.net | +1-273-982-2300x634 | Nelsonfurt | Romania
+Experience
+Patel Group, Technology, Small, Data Scientist, junior, internship, 2018-07-04, 2022-10-21, N/A, Optimized system performance and
+reduced latency., Utilized version control effectively in a team environment., Perfected data analysis and data visualization using
+Python and Tableau., Performed software testing and resolved bugs efficiently., Designed and implemented machine learning
+models., REST, Kubernetes, Scrum, Kubernetes, CI/CD, GraphQL, Allen PLC, Technology, Small, Data Scientist, senior, internship,
+2020-11-11, 2022-06-17, N/A, Created user-centric designs and responsive web interfaces., Designed and implemented machine
+learning models., Performed software testing and resolved bugs efficiently., Kubernetes, CI/CD, GraphQL, Kanban, Git, Docker,
+CI/CD, Guzman-Spears, Technology, Small, Data Scientist, senior, full-time, 2020-01-26, 2024-07-22, N/A, Conducted system
+monitoring and performance tuning., Built and maintained scalable web applications., Developed and maintained database schemas
+and queries., Developed and deployed scalable solutions., Collaborated with cross-functional teams to design new features.,
+GraphQL, Docker, CI/CD, Kanban, REST, GitLab
+Education
+MSc, Computer Science, Data, Black-Moyer, Cassiefort, N/A, 2018-08-04, 2019-09-14, 3.81, Magna Cum Laude, Distributed
+Systems, Advanced Algorithms, BSc, Computer Science, Data, Carlson, Smith and Perez, Brandonville, N/A, 2018-11-14,
+2022-03-20, 3.29, Magna Cum Laude, Software Engineering, Database Systems, Advanced Algorithms, Machine Learning
+Skills
+C++, expert, Python, intermediate, Flask, intermediate, MongoDB, intermediate, Oracle, expert, Google Cloud, beginner, English,
+fluent
+Projects
+Data Scientist Project, Designed and deployed machine learning models that significantly improved predictive accuracy and provided
+actionable insights for business strategy., Go, Docker, Git, Data Scientist, http://www.webb.com/, Arm shake program more center
+southern research summer over author say measure blood.
+Certifications

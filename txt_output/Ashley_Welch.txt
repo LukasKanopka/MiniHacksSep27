@@ -1,0 +1,22 @@
+Ashley Welch
+colleen54@example.com | (569)210-9411 | Hallland | Puerto Rico
+Experience
+Martin Ltd, Technology, Large, Android Developer, junior, full-time, 2019-10-17, 2023-01-20, N/A, Designed and implemented
+machine learning models., Created user-centric designs and responsive web interfaces., Utilized version control effectively in a team
+environment., Automated deployment processes and continuous integration., REST, GraphQL, Agile, GraphQL, Git, Spears, Miller
+and Harris, Technology, Large, Android Developer, mid, internship, 2018-10-16, 2023-05-12, N/A, Implemented RESTful APIs and
+microservices., Created user-centric designs and responsive web interfaces., Conducted system monitoring and performance
+tuning., Conducted code reviews and mentored junior developers., Performed software testing and resolved bugs efficiently., Git,
+CI/CD, GraphQL, Scrum, GitLab
+Education
+BSc, Computer Science, Android, Morgan PLC, Port Jacobfurt, N/A, 2017-04-04, 2021-12-29, 3.59, Magna Cum Laude, Database
+Systems, Software Engineering, MSc, Computer Science, Android, Melton Group, Maybury, N/A, 2017-02-01, 2019-03-20, 2.76,
+Cum Laude, Advanced Algorithms, Database Systems, Distributed Systems, Data Structures
+Skills
+C#, expert, Java, intermediate, Angular, beginner, Node.js, intermediate, Vue, intermediate, Redis, beginner, PostgreSQL, beginner,
+AWS, expert, English, fluent
+Projects
+Android Developer Project, Developed a high-performance Android app using Kotlin that achieved 1 million downloads on the Google
+Play Store and received positive user reviews., REST, C#, CI/CD, Python, Android Developer, https://jackson.com/, Expert behind
+we listen available miss write provide option.
+Certifications

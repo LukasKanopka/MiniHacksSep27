@@ -1,0 +1,23 @@
+Ashley Chang
+qsanchez@example.com | 431.300.2131 | Wareside | Guyana
+Experience
+Peterson-White, Technology, Small, Ai Engineer, mid, full-time, 2020-08-09, 2024-12-08, N/A, Performed software testing and
+resolved bugs efficiently., Integrated third-party services into existing systems., Managed cloud infrastructure and resource
+allocation., Developed and deployed scalable solutions., CI/CD, GraphQL, Docker, Scrum, Git, GraphQL, Docker, Rowe-Wilson,
+Technology, Large, Ai Engineer, mid, internship, 2020-01-22, 2024-02-20, N/A, Conducted code reviews and mentored junior
+developers., Managed cloud infrastructure and resource allocation., Developed and maintained CI/CD pipelines., Integrated
+third-party services into existing systems., Docker, Git, Kubernetes, Kanban, Docker, Harvey LLC, Technology, Medium, Ai Engineer,
+junior, contract, 2021-07-17, 2025-01-20, N/A, Automated deployment processes and continuous integration., Developed and
+deployed scalable solutions., Enhanced system security and performed regular audits., Performed software testing and resolved
+bugs efficiently., Implemented RESTful APIs and microservices., REST, Git, Scrum, CI/CD, Jenkins, GraphQL
+Education
+MSc, Computer Science, Ai, Romero, Johnson and Moore, Williamsontown, N/A, 2016-08-03, 2022-12-07, 2.5, Dean's List, Software
+Engineering, Network Security, Machine Learning, Data Structures, BSc, Computer Science, Ai, Cook LLC, North Julie, N/A,
+2016-12-04, 2020-01-18, 3.45, Distributed Systems, Data Structures, Software Engineering, Database Systems
+Skills
+Python, beginner, Ruby, beginner, React, intermediate, MySQL, beginner, AWS, intermediate, English, fluent
+Projects
+Ai Engineer Project, Built AI-powered applications using TensorFlow and Python, improving predictive accuracy and enabling
+data-driven decision-making., GraphQL, Git, Kubernetes, Ai Engineer, https://crawford-anderson.com/, Another nation green to
+develop second son lawyer country good year.
+Certifications

@@ -1,0 +1,23 @@
+Benjamin Castro
+htaylor@example.com | 001-530-549-7796 | Smithmouth | Thailand
+Experience
+Wade-Brown, Technology, Small, Platform Engineer, mid, full-time, 2021-02-07, 2022-09-05, N/A, Integrated third-party services into
+existing systems., Perfected data analysis and data visualization using Python and Tableau., Created user-centric designs and
+responsive web interfaces., Automated data processing pipelines., Git, Docker, Kubernetes, Scrum, CI/CD, Jenkins, GraphQL,
+Valencia PLC, Technology, Medium, Platform Engineer, senior, contract, 2019-05-13, 2023-05-01, N/A, Created user-centric designs
+and responsive web interfaces., Automated deployment processes and continuous integration., Developed and maintained CI/CD
+pipelines., Developed and maintained database schemas and queries., CI/CD, Kubernetes, Scrum, Git, CI/CD, Jenkins
+Education
+MSc, Computer Science, Platform, Cooke-Ball, Michaelville, N/A, 2016-07-06, 2019-08-03, 3.92, Magna Cum Laude, Distributed
+Systems, Software Engineering, Data Structures, MSc, Computer Science, Platform, Bennett, Cooper and Harris, West
+Elizabethberg, N/A, 2016-08-11, 2022-04-02, 3.2, Dean's List, Network Security, Data Structures, Advanced Algorithms
+Skills
+C++, intermediate, Django, beginner, Vue, beginner, Node.js, intermediate, MySQL, beginner, PostgreSQL, intermediate, Google
+Cloud, beginner, English, fluent
+Projects
+Platform Engineer Project, Built a scalable platform for web applications using Docker and Kubernetes, reducing deployment time
+and improving system performance., Kubernetes, Ruby, Platform Engineer, http://www.campbell.com/, Radio return how not own
+build positive realize event bar., Platform Engineer Project, Built a scalable platform for web applications using Docker and
+Kubernetes, reducing deployment time and improving system performance., JavaScript, Docker, C#, GraphQL, Platform Engineer,
+https://www.stanley-bennett.biz/, Apply and provide especially writer so car institution state sense should goal.
+Certifications

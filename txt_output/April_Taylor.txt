@@ -1,0 +1,24 @@
+April Taylor
+johnsonjamie@example.com | 886-457-7469 | North Charles | Finland
+Experience
+Hernandez, Clark and Jackson, Technology, Medium, Nosql Developer, senior, contract, 2018-05-13, 2024-01-04, N/A, Ensured
+application responsiveness and seamless user experience., Designed and implemented machine learning models., Implemented
+RESTful APIs and microservices., GraphQL, Scrum, Jenkins, Huffman, Scott and Reid, Technology, Large, Nosql Developer, senior,
+contract, 2021-09-25, 2024-02-01, N/A, Built and maintained scalable web applications., Designed and implemented machine
+learning models., Perfected data analysis and data visualization using Python and Tableau., Enhanced system security and
+performed regular audits., Implemented RESTful APIs and microservices., REST, Kubernetes, GraphQL, Kanban, Jenkins, Git,
+GraphQL
+Education
+BSc, Computer Science, Nosql, Doyle PLC, North Luisbury, N/A, 2018-04-21, 2021-06-29, 2.71, Dean's List, Software Engineering,
+Database Systems, Data Structures, MSc, Computer Science, Nosql, Ellis Inc, Port Julie, N/A, 2016-09-07, 2020-07-13, 3.37, Dean's
+List, Advanced Algorithms, Software Engineering
+Skills
+Go, beginner, C++, expert, Ruby, beginner, NoSQL, intermediate, Angular, expert, PostgreSQL, beginner, Azure, expert, English,
+fluent
+Projects
+Nosql Developer Project, Implemented NoSQL databases for scalability and flexibility in handling large data sets, reducing storage
+costs by 25%., Ruby, C#, Go, CI/CD, Nosql Developer, https://castaneda.com/, Both purpose station discuss since factor lose those
+cup magazine concern dark TV of site after., Nosql Developer Project, Implemented NoSQL databases for scalability and flexibility in
+handling large data sets, reducing storage costs by 25%., C#, JavaScript, Nosql Developer, http://colon.com/, Send level case
+consumer official ahead common often million never east.
+Certifications
