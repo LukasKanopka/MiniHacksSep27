@@ -1,0 +1,23 @@
+Allison Horne
+karen24@example.org | 558.769.6167 | Silvaton | Ecuador
+Experience
+Daniel Inc, Technology, Medium, Nosql Developer, mid, contract, 2020-05-05, 2024-01-10, N/A, Enhanced system security and
+performed regular audits., Automated deployment processes and continuous integration., Perfected data analysis and data
+visualization using Python and Tableau., Performed software testing and resolved bugs efficiently., Git, GraphQL, Kanban, Git,
+GitLab, Kubernetes, Harris LLC, Technology, Large, Nosql Developer, senior, internship, 2020-03-12, 2022-11-13, N/A, Created
+user-centric designs and responsive web interfaces., Developed and maintained CI/CD pipelines., Conducted code reviews and
+mentored junior developers., GraphQL, Agile, CI/CD, GitLab, Harris-Clark, Technology, Large, Nosql Developer, junior, contract,
+2018-12-20, 2024-02-22, N/A, Developed and maintained CI/CD pipelines., Developed and deployed scalable solutions., Conducted
+code reviews and mentored junior developers., Automated data processing pipelines., Kubernetes, REST, Scrum, Jenkins, Git
+Education
+BSc, Computer Science, Nosql, Carroll-Hayes, South Adam, N/A, 2017-12-10, 2022-08-28, 2.85, Software Engineering, Network
+Security, MSc, Computer Science, Nosql, Reed, Harris and Henderson, North Anne, N/A, 2015-09-06, 2020-12-16, 3.52, Cum
+Laude, Network Security, Machine Learning, Database Systems, Data Structures
+Skills
+JavaScript, expert, C#, beginner, Go, beginner, NoSQL, intermediate, Flask, expert, Django, expert, Redis, intermediate, Google
+Cloud, beginner, English, fluent
+Projects
+Nosql Developer Project, Implemented NoSQL databases for scalability and flexibility in handling large data sets, reducing storage
+costs by 25%., C#, Java, Nosql Developer, https://mcclain-williams.com/, Make ability true under wish research community maybe
+discussion field plan provide forget realize.
+Certifications

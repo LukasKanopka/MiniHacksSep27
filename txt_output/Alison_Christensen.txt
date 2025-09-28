@@ -1,0 +1,21 @@
+Alison Christensen
+qspears@example.com | 276-611-7489x4866 | Port Susan | Maldives
+Experience
+Chavez PLC, Technology, Small, Devops Engineer, mid, full-time, 2018-06-24, 2024-09-22, N/A, Performed software testing and
+resolved bugs efficiently., Enhanced system security and performed regular audits., Automated deployment processes and
+continuous integration., GraphQL, Kubernetes, Scrum, GraphQL, CI/CD, Adams, Smith and Bates, Technology, Large, Devops
+Engineer, junior, internship, 2021-01-08, 2022-09-15, N/A, Optimized system performance and reduced latency., Performed software
+testing and resolved bugs efficiently., Managed cloud infrastructure and resource allocation., Enhanced system security and
+performed regular audits., REST, GraphQL, Docker, Scrum, REST
+Education
+BSc, Computer Science, Devops, Johnson Group, East Mariah, N/A, 2016-11-13, 2022-11-06, 3.44, Advanced Algorithms, Network
+Security, Software Engineering, BSc, Computer Science, Devops, Bailey, Dixon and Lawson, West Jeffreystad, N/A, 2015-04-29,
+2019-09-12, 3.03, Cum Laude, Machine Learning, Network Security, Software Engineering
+Skills
+Java, intermediate, JavaScript, beginner, Django, expert, Vue, intermediate, Spring, intermediate, Redis, intermediate, PostgreSQL,
+intermediate, AWS, expert, English, fluent
+Projects
+Devops Engineer Project, Implemented automated deployment pipelines using Jenkins and Docker, reducing system downtime and
+improving release cycles., Java, CI/CD, Git, C#, Devops Engineer, https://shelton.com/, Dog run produce case discover today make
+some wall take ask similar.
+Certifications

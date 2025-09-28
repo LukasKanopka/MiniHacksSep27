@@ -1,0 +1,24 @@
+Alexis Nelson
+rtrujillo@example.org | 001-522-665-7169x8235 | Port Melinda | Ghana
+Experience
+Smith-Dominguez, Technology, Large, Data Engineer, mid, full-time, 2020-02-04, 2025-02-14, N/A, Optimized application
+performance and improved user engagement., Automated data processing pipelines., Implemented RESTful APIs and
+microservices., Built and maintained scalable web applications., Managed cloud infrastructure and resource allocation., REST,
+Kubernetes, Kanban, Git, REST, Kerr-Rangel, Technology, Small, Data Engineer, senior, full-time, 2018-10-15, 2025-01-01, N/A,
+Conducted code reviews and mentored junior developers., Created user-centric designs and responsive web interfaces., Utilized
+version control effectively in a team environment., Developed and deployed scalable solutions., CI/CD, GraphQL, Agile, Git, Docker,
+Docker, Bates Group, Technology, Small, Data Engineer, mid, internship, 2021-05-31, 2024-02-03, N/A, Performed software testing
+and resolved bugs efficiently., Designed and implemented machine learning models., Conducted code reviews and mentored junior
+developers., Utilized version control effectively in a team environment., Developed and maintained CI/CD pipelines., GraphQL,
+CI/CD, Scrum, REST
+Education
+BSc, Computer Science, Data, Kemp and Sons, Lake Geraldchester, N/A, 2018-10-15, 2019-03-06, 3.32, Magna Cum Laude,
+Network Security, Data Structures, Machine Learning
+Skills
+Go, intermediate, Python, intermediate, Spring, intermediate, Node.js, intermediate, Django, beginner, MongoDB, beginner, Azure,
+intermediate, English, fluent
+Projects
+Data Engineer Project, Developed ETL pipelines for data processing and analysis, enabling real-time data insights and improving
+data quality and integrity., Ruby, Go, Data Engineer, http://www.jensen-lawrence.com/, Gas model stop back little alone make home
+continue mission remain exactly law into.
+Certifications

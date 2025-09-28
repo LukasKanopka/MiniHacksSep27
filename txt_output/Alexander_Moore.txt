@@ -1,0 +1,26 @@
+Alexander Moore
+nwoods@example.com | 001-938-671-1856x88748 | Smithview | Czech Republic
+Experience
+Brown, Bass and Irwin, Technology, Small, Cloud Engineer, senior, full-time, 2020-10-09, 2022-10-23, N/A, Utilized version control
+effectively in a team environment., Conducted code reviews and mentored junior developers., Optimized application performance
+and improved user engagement., Performed software testing and resolved bugs efficiently., Integrated third-party services into
+existing systems., Kubernetes, Docker, Agile, CI/CD, Git, Docker, Alexander Group, Technology, Medium, Cloud Engineer, senior,
+internship, 2018-11-13, 2022-07-22, N/A, Conducted code reviews and mentored junior developers., Developed and maintained
+CI/CD pipelines., Built and maintained scalable web applications., Implemented security best practices and data protection
+measures., Docker, Agile, GraphQL, GitLab, Docker, Duncan-Jacobs, Technology, Medium, Cloud Engineer, senior, contract,
+2018-08-07, 2023-05-19, N/A, Implemented RESTful APIs and microservices., Developed and maintained CI/CD pipelines.,
+Performed software testing and resolved bugs efficiently., Integrated third-party services into existing systems., REST, Kanban,
+Jenkins, Kubernetes, Git
+Education
+BSc, Computer Science, Cloud, Chase Inc, Port Whitney, N/A, 2017-01-05, 2020-06-23, 3.31, Data Structures, Machine Learning,
+Distributed Systems, Database Systems
+Skills
+Python, intermediate, C#, beginner, Go, intermediate, Flask, beginner, Node.js, beginner, Vue, expert, Oracle, intermediate, Azure,
+intermediate, AWS, intermediate, English, fluent
+Projects
+Cloud Engineer Project, Designed and deployed cloud infrastructure using AWS services, reducing operational costs and improving
+system scalability and reliability., Python, C#, CI/CD, Cloud Engineer, http://elliott.com/, Service forget detail leave condition realize
+nor student gas., Cloud Engineer Project, Designed and deployed cloud infrastructure using AWS services, reducing operational
+costs and improving system scalability and reliability., REST, Java, CI/CD, Cloud Engineer, http://riddle-stewart.net/, Fund assume
+require sit teacher environment dog.
+Certifications

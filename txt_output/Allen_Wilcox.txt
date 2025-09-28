@@ -1,0 +1,25 @@
+Allen Wilcox
+alexandra76@example.net | 318-661-3609x055 | New Peterfort | Kiribati
+Experience
+Mccormick-Howard, Technology, Small, Python Developer, mid, full-time, 2018-08-12, 2024-02-04, N/A, Performed software testing
+and resolved bugs efficiently., Collaborated with cross-functional teams to design new features., Developed and maintained CI/CD
+pipelines., Developed and deployed scalable solutions., Ensured application responsiveness and seamless user experience.,
+Docker, Kubernetes, CI/CD, Scrum, GraphQL, Kubernetes, Sullivan-Butler, Technology, Medium, Python Developer, junior,
+internship, 2021-02-02, 2022-11-09, N/A, Ensured application responsiveness and seamless user experience., Perfected data
+analysis and data visualization using Python and Tableau., Deployed applications on cloud platforms and ensured scalability.,
+Enhanced system security and performed regular audits., Performed software testing and resolved bugs efficiently., Git, Docker,
+Agile, CI/CD, Kubernetes, Williams and Sons, Technology, Large, Python Developer, senior, internship, 2020-01-04, 2023-09-29,
+N/A, Enhanced system security and performed regular audits., Optimized system performance and reduced latency., Deployed
+applications on cloud platforms and ensured scalability., Implemented RESTful APIs and microservices., GraphQL, Scrum, Jenkins,
+Docker, Docker
+Education
+MSc, Computer Science, Python, Mcdaniel, Harris and Barrett, West Andrewburgh, N/A, 2018-04-24, 2019-09-02, 2.84, Dean's List,
+Network Security, Distributed Systems
+Skills
+Java, expert, C++, expert, JavaScript, intermediate, Python, intermediate, React, expert, Angular, expert, MySQL, expert, MongoDB,
+intermediate, Google Cloud, intermediate, English, fluent
+Projects
+Python Developer Project, Developed a robust RESTful API using Flask and integrated it with cloud services, resulting in improved
+data processing and scalability., Docker, C++, C#, Ruby, Python Developer, https://www.robinson.com/, Cold well person present
+protect agency above we mouth woman major light woman perform none.
+Certifications

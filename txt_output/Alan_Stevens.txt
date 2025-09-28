@@ -1,0 +1,21 @@
+Alan Stevens
+craigrosales@example.com | 001-925-372-6787 | Dixonside | Kyrgyz Republic
+Experience
+Salazar and Sons, Technology, Medium, Sql Developer, senior, contract, 2019-08-08, 2023-07-29, N/A, Integrated third-party
+services into existing systems., Deployed applications on cloud platforms and ensured scalability., Performed software testing and
+resolved bugs efficiently., Implemented security best practices and data protection measures., Enhanced system security and
+performed regular audits., Docker, REST, Scrum, Docker, REST, GraphQL, Smith-Smith, Technology, Small, Sql Developer, junior,
+internship, 2020-06-04, 2023-11-22, N/A, Developed and maintained CI/CD pipelines., Implemented security best practices and data
+protection measures., Managed cloud infrastructure and resource allocation., Designed and implemented machine learning models.,
+CI/CD, Docker, Kanban, REST, GitLab
+Education
+BSc, Computer Science, Sql, Anthony, Mullen and Werner, Hansonborough, N/A, 2016-08-26, 2022-05-13, 2.66, Cum Laude,
+Distributed Systems, Database Systems, BSc, Computer Science, Sql, Palmer-Torres, East Paul, N/A, 2016-01-28, 2022-06-17,
+2.99, Dean's List, Machine Learning, Advanced Algorithms, Software Engineering, Network Security
+Skills
+Java, beginner, SQL, intermediate, Node.js, beginner, MongoDB, beginner, Redis, beginner, Azure, expert, English, fluent
+Projects
+Sql Developer Project, Optimized SQL queries for faster data retrieval and improved database performance, reducing query
+execution time by 40%., Python, Git, Ruby, Sql Developer, https://www.calderon.biz/, Time election or line several rather traditional
+leg between class beyond affect write true house American.
+Certifications

@@ -1,0 +1,24 @@
+Allison Byrd
+ndunn@example.net | 463-320-2514x750 | West Lindamouth | Qatar
+Experience
+Griffin PLC, Technology, Medium, Cloud Engineer, senior, contract, 2020-02-05, 2024-03-15, N/A, Developed and deployed scalable
+solutions., Built and maintained scalable web applications., Created user-centric designs and responsive web interfaces., REST,
+Kanban, Git, Jenkins, Kim-Watkins, Technology, Small, Cloud Engineer, mid, internship, 2021-02-05, 2024-07-30, N/A, Managed
+cloud infrastructure and resource allocation., Automated deployment processes and continuous integration., Designed and
+implemented machine learning models., Deployed applications on cloud platforms and ensured scalability., Collaborated with
+cross-functional teams to design new features., CI/CD, Docker, REST, Agile, REST, Ross-Martin, Technology, Small, Cloud
+Engineer, mid, internship, 2020-01-15, 2024-05-24, N/A, Performed software testing and resolved bugs efficiently., Developed and
+deployed scalable solutions., Automated data processing pipelines., Managed cloud infrastructure and resource allocation.,
+Implemented security best practices and data protection measures., Kubernetes, Scrum, Git
+Education
+BSc, Computer Science, Cloud, Gomez-Flores, East Roger, N/A, 2017-02-19, 2019-07-19, 3.15, Dean's List, Machine Learning,
+Network Security, Data Structures, Database Systems, MSc, Computer Science, Cloud, Adams, Smith and Marshall, Sarabury, N/A,
+2017-12-10, 2020-04-03, 3.88, Magna Cum Laude, Database Systems, Advanced Algorithms, Software Engineering, Machine
+Learning
+Skills
+Go, beginner, Vue, intermediate, Redis, intermediate, Azure, beginner, AWS, intermediate, English, fluent
+Projects
+Cloud Engineer Project, Designed and deployed cloud infrastructure using AWS services, reducing operational costs and improving
+system scalability and reliability., C++, CI/CD, Ruby, Cloud Engineer, https://padilla.info/, Remain policy around marriage public all
+can any space.
+Certifications
