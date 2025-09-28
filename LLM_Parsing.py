@@ -38,11 +38,8 @@ def candidate_resume_parser(filename):
     - under work experience, include the most relevant key achievements on the resume
 
     Resume Text:
-    {content}
-    """
-
+    """ + f"""{content}"""
 
     response = model.generate_content(prompt, generation_config={"response_mime_type": "application/json"})
 
     return response.text
-
