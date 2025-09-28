@@ -2,7 +2,8 @@ from LLM_Parsing import candidate_resume_parser
 from pdf_to_txt import pdf_to_text
 import os
 from neo4j import GraphDatabase
-from .neo4j.src.config import NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD
+from neo4j_app.src.config import NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD
+import json
 
 def main():
     driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
@@ -10,18 +11,24 @@ def main():
     os.system("python pdf_to_txt.py")
 
     abs_dir = os.getcwd()
+    new_path = os.path.join(abs_dir, "txt_output")
 
-    file_names = os.listdir(abs_dir)
+    file_names = os.listdir(new_path)
 
     for i in range(len(file_names)):
         bang = candidate_resume_parser(file_names[i])
 
         with driver.session() as session:
-            for person in bang:
-                session.write_transaction(create_person, person)
+            session.write_transaction(create_person, bang)
+        
+    driver.close()
 
 
-def create_person(tx, person):
+
+def create_person(tx, data):
+    print(data)
+    person = json.loads(data)
+    #print(data)
     name = person.get("Name")
     
     # Merge and connect skills
