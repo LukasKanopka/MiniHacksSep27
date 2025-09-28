@@ -1,0 +1,21 @@
+Carrie Abbott
+barmstrong@example.org | (739)594-8041x71747 | South Brian | Montenegro
+Experience
+Lee-Cardenas, Technology, Large, Site Reliability Engineer, junior, contract, 2019-07-09, 2022-08-19, N/A, Deployed applications on
+cloud platforms and ensured scalability., Ensured application responsiveness and seamless user experience., Implemented RESTful
+APIs and microservices., CI/CD, Git, Kanban, GitLab, Git, Johnson, Chan and Welch, Technology, Small, Site Reliability Engineer,
+mid, contract, 2021-04-02, 2022-04-23, N/A, Developed and maintained CI/CD pipelines., Optimized application performance and
+improved user engagement., Conducted system monitoring and performance tuning., Utilized version control effectively in a team
+environment., Built and maintained scalable web applications., Kubernetes, Git, REST, Agile, Docker
+Education
+MSc, Computer Science, Site, King-Yang, Port Kevin, N/A, 2019-01-13, 2020-10-14, 3.94, Cum Laude, Database Systems, Data
+Structures, Machine Learning
+Skills
+Python, intermediate, Angular, beginner, Django, expert, MongoDB, expert, AWS, intermediate, English, fluent
+Projects
+Site Reliability Engineer Project, Implemented automated monitoring and alerting for a large-scale SaaS application, reducing
+downtime incidents by 70%., C#, Git, Java, GraphQL, Site Reliability Engineer, https://www.clarke-sullivan.biz/, Her firm under me
+test light even least future social one lawyer., Site Reliability Engineer Project, Implemented automated monitoring and alerting for a
+large-scale SaaS application, reducing downtime incidents by 70%., JavaScript, GraphQL, Java, CI/CD, Site Reliability Engineer,
+http://www.king.com/, Personal return indicate entire wear seat act entire five.
+Certifications

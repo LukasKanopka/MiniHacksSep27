@@ -1,0 +1,24 @@
+Brenda Garza
+williamsrichard@example.org | +1-673-916-4381x5640 | Tammystad | Namibia
+Experience
+Smith-Bennett, Technology, Medium, Deep Learning Engineer, junior, full-time, 2020-06-04, 2023-10-31, N/A, Enhanced system
+security and performed regular audits., Designed and implemented machine learning models., Developed and maintained database
+schemas and queries., Conducted system monitoring and performance tuning., GraphQL, Git, Docker, Scrum, GitLab, Kubernetes,
+Griffin-Clark, Technology, Large, Deep Learning Engineer, senior, internship, 2019-08-19, 2023-10-01, N/A, Ensured application
+responsiveness and seamless user experience., Utilized version control effectively in a team environment., Performed software
+testing and resolved bugs efficiently., Integrated third-party services into existing systems., Collaborated with cross-functional teams
+to design new features., CI/CD, Kubernetes, Agile, REST, Jenkins, GraphQL, Walker Inc, Technology, Large, Deep Learning
+Engineer, junior, full-time, 2018-07-14, 2024-10-12, N/A, Developed and maintained database schemas and queries., Created
+user-centric designs and responsive web interfaces., Implemented RESTful APIs and microservices., CI/CD, Git, GraphQL, Agile,
+GraphQL, REST, Docker
+Education
+MSc, Computer Science, Deep, Martin Ltd, Port Crystal, N/A, 2017-08-02, 2020-07-21, 3.17, Magna Cum Laude, Database Systems,
+Distributed Systems
+Skills
+Java, beginner, Ruby, expert, Python, intermediate, Spring, beginner, PostgreSQL, beginner, Oracle, expert, Google Cloud,
+beginner, English, fluent
+Projects
+Deep Learning Engineer Project, Developed deep learning models for image recognition, achieving 95% accuracy and enabling
+real-time object detection in video streams., Kubernetes, Python, C++, Ruby, Deep Learning Engineer,
+https://www.nichols-davis.com/, Also some science notice long time ball.
+Certifications

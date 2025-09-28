@@ -1,0 +1,27 @@
+Carmen Christian
+nicole93@example.net | 765-586-6953 | Rogersfort | Cambodia
+Experience
+Clark-Reilly, Technology, Small, Penetration Tester, junior, internship, 2019-09-30, 2023-11-19, N/A, Optimized application
+performance and improved user engagement., Automated deployment processes and continuous integration., Implemented RESTful
+APIs and microservices., Performed software testing and resolved bugs efficiently., CI/CD, Agile, Docker, CI/CD, Kubernetes,
+Clayton LLC, Technology, Large, Penetration Tester, senior, internship, 2021-12-22, 2024-01-08, N/A, Optimized application
+performance and improved user engagement., Enhanced system security and performed regular audits., Ensured application
+responsiveness and seamless user experience., Developed and maintained database schemas and queries., GraphQL, Git, Docker,
+Scrum, REST, GitLab, Kim, Smith and Villanueva, Technology, Medium, Penetration Tester, junior, contract, 2021-06-04,
+2024-10-26, N/A, Developed and maintained database schemas and queries., Performed software testing and resolved bugs
+efficiently., Conducted code reviews and mentored junior developers., Developed and maintained CI/CD pipelines., Conducted
+system monitoring and performance tuning., Docker, Scrum, GraphQL, Docker
+Education
+MSc, Computer Science, Penetration, Edwards, Cruz and Ponce, Houstonhaven, N/A, 2019-01-15, 2022-04-24, 2.54, Cum Laude,
+Data Structures, Machine Learning, Advanced Algorithms
+Skills
+Java, beginner, Go, intermediate, Python, intermediate, Angular, intermediate, Node.js, expert, Redis, expert, AWS, intermediate,
+English, fluent
+Projects
+Penetration Tester Project, Conducted penetration tests and vulnerability assessments, identifying security weaknesses and
+providing recommendations for improved security measures., REST, Docker, Kubernetes, Ruby, Penetration Tester,
+https://garcia.com/, Sea magazine after anything quality none enjoy no stage some activity across center., Penetration Tester
+Project, Conducted penetration tests and vulnerability assessments, identifying security weaknesses and providing
+recommendations for improved security measures., JavaScript, CI/CD, Kubernetes, Penetration Tester, https://www.carter.org/, Ask
+probably everybody risk decade vote red during guy half then let serious.
+Certifications

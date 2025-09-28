@@ -1,0 +1,24 @@
+Ashley Carroll
+raymondhoward@example.net | 001-416-340-5601x80551 | Michaelburgh | Guatemala
+Experience
+Gutierrez Inc, Technology, Small, Sql Developer, junior, internship, 2021-04-24, 2023-02-05, N/A, Optimized system performance
+and reduced latency., Developed and maintained CI/CD pipelines., Automated deployment processes and continuous integration.,
+Collaborated with cross-functional teams to design new features., Ensured application responsiveness and seamless user
+experience., CI/CD, Docker, Scrum, REST, GitLab, Kubernetes, Randolph, Chapman and Berry, Technology, Large, Sql Developer,
+senior, full-time, 2018-08-09, 2023-02-16, N/A, Implemented RESTful APIs and microservices., Perfected data analysis and data
+visualization using Python and Tableau., Optimized application performance and improved user engagement., GraphQL, CI/CD,
+Kanban, Docker, Git, REST
+Education
+MSc, Computer Science, Sql, Meyer-Cruz, Barnettchester, N/A, 2018-10-12, 2022-09-09, 3.97, Magna Cum Laude, Advanced
+Algorithms, Machine Learning, Distributed Systems, Network Security, MSc, Computer Science, Sql, Ashley-Bell, Joshuamouth, N/A,
+2016-11-20, 2020-09-20, 3.75, Dean's List, Advanced Algorithms, Software Engineering, Database Systems, Network Security
+Skills
+Java, intermediate, C#, intermediate, SQL, intermediate, Flask, beginner, Angular, beginner, React, expert, MySQL, intermediate,
+AWS, expert, English, fluent
+Projects
+Sql Developer Project, Optimized SQL queries for faster data retrieval and improved database performance, reducing query
+execution time by 40%., Java, Ruby, Kubernetes, Sql Developer, https://www.robertson.com/, Value interest program suddenly four
+want some her quite., Sql Developer Project, Optimized SQL queries for faster data retrieval and improved database performance,
+reducing query execution time by 40%., Python, JavaScript, Java, Sql Developer, https://www.campbell-wells.org/, Those find
+present probably event little free back.
+Certifications

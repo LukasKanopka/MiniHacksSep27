@@ -1,0 +1,23 @@
+Brandon Williams
+colleenhuynh@example.com | 478-454-2510 | Francesborough | Syrian Arab Republic
+Experience
+Cox-Bowen, Technology, Small, Computer Vision Engineer, junior, full-time, 2019-05-16, 2024-09-04, N/A, Conducted system
+monitoring and performance tuning., Collaborated with cross-functional teams to design new features., Optimized application
+performance and improved user engagement., Optimized system performance and reduced latency., Managed cloud infrastructure
+and resource allocation., GraphQL, Agile, REST, Kubernetes, Snow-Hall, Technology, Small, Computer Vision Engineer, junior,
+internship, 2019-09-22, 2023-09-12, N/A, Designed and implemented machine learning models., Optimized application performance
+and improved user engagement., Implemented security best practices and data protection measures., Developed and maintained
+database schemas and queries., CI/CD, Scrum, GraphQL, Kubernetes, Jenkins-Wells, Technology, Small, Computer Vision
+Engineer, senior, full-time, 2021-06-19, 2024-08-17, N/A, Performed software testing and resolved bugs efficiently., Optimized
+system performance and reduced latency., Utilized version control effectively in a team environment., Implemented RESTful APIs
+and microservices., Conducted system monitoring and performance tuning., CI/CD, REST, Scrum, Git
+Education
+MSc, Computer Science, Computer, Cook, Kim and Schneider, Morristown, N/A, 2017-03-10, 2020-01-19, 2.8, Dean's List, Machine
+Learning, Distributed Systems, Network Security
+Skills
+Python, beginner, Spring, expert, Redis, beginner, MongoDB, beginner, Google Cloud, beginner, English, fluent
+Projects
+Computer Vision Engineer Project, Implemented computer vision algorithms for video analytics, enabling real-time object tracking
+and enhancing surveillance systems., Python, GraphQL, Computer Vision Engineer, http://www.bautista.info/, Friend certain happen
+hotel imagine report ever this say.
+Certifications

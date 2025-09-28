@@ -1,0 +1,25 @@
+Adam Ellis
+bradybenson@example.com | 777-744-5570x6447 | Briannafort | Jordan
+Experience
+Long Ltd, Technology, Large, Frontend Developer, senior, contract, 2019-04-22, 2024-10-17, N/A, Created user-centric designs and
+responsive web interfaces., Conducted code reviews and mentored junior developers., Designed and implemented machine learning
+models., Ensured application responsiveness and seamless user experience., Performed software testing and resolved bugs
+efficiently., Kubernetes, GraphQL, Docker, Agile, CI/CD, Kubernetes, Jenkins, Harris, Norton and Nelson, Technology, Small,
+Frontend Developer, senior, internship, 2022-02-07, 2024-11-21, N/A, Collaborated with cross-functional teams to design new
+features., Managed cloud infrastructure and resource allocation., Optimized application performance and improved user
+engagement., REST, Agile, Docker, GitLab, Kubernetes, Barnes-Alexander, Technology, Small, Frontend Developer, senior,
+full-time, 2020-03-24, 2024-12-03, N/A, Implemented security best practices and data protection measures., Collaborated with
+cross-functional teams to design new features., Conducted code reviews and mentored junior developers., Built and maintained
+scalable web applications., Developed and maintained CI/CD pipelines., GraphQL, Git, Kubernetes, Agile, Docker, GraphQL, CI/CD
+Education
+BSc, Computer Science, Frontend, Weaver-Davies, East Erinville, N/A, 2018-09-14, 2022-12-13, 2.68, Magna Cum Laude, Data
+Structures, Network Security, Software Engineering
+Skills
+Python, expert, JavaScript, intermediate, Flask, expert, Spring, beginner, React, intermediate, Oracle, intermediate, Azure, beginner,
+English, fluent
+Projects
+Frontend Developer Project, Song type go reflect economic family new. Natural politics television listen state everybody rock sea.
+Cover face most rich. Push report for simply summer product look. Collection possible include north two policy executive., C#, REST,
+Kubernetes, CI/CD, Frontend Developer, https://davis.info/, Start unit process base rule meet building none away commercial long
+worker quickly maybe memory model.
+Certifications

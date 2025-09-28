@@ -1,0 +1,25 @@
+Autumn Cole
+stephanie77@example.org | +1-442-442-1012x578 | Hernandezview | Serbia
+Experience
+Pope-Coffey, Technology, Large, Systems Engineer, junior, internship, 2019-06-26, 2024-11-08, N/A, Managed cloud infrastructure
+and resource allocation., Optimized system performance and reduced latency., Designed and implemented machine learning
+models., Automated deployment processes and continuous integration., Conducted code reviews and mentored junior developers.,
+Git, GraphQL, Docker, Agile, Git, White, Ward and Moreno, Technology, Large, Systems Engineer, mid, internship, 2020-08-01,
+2024-11-03, N/A, Designed and implemented machine learning models., Developed and maintained CI/CD pipelines., Implemented
+security best practices and data protection measures., Enhanced system security and performed regular audits., Managed cloud
+infrastructure and resource allocation., CI/CD, REST, Kanban, Docker
+Education
+MSc, Computer Science, Systems, Griffin-Garcia, Kingtown, N/A, 2018-09-25, 2020-05-26, 2.93, Dean's List, Advanced Algorithms,
+Network Security, Software Engineering, Data Structures, MSc, Computer Science, Systems, Phelps-Powell, Jeremyland, N/A,
+2015-09-02, 2020-05-21, 3.21, Dean's List, Distributed Systems, Data Structures, Software Engineering
+Skills
+Java, expert, Python, intermediate, JavaScript, intermediate, Angular, expert, React, intermediate, Django, intermediate, Redis,
+beginner, Azure, intermediate, English, fluent
+Projects
+Systems Engineer Project, Developed a scalable microservices architecture using Python and AWS services, improving system
+performance and reducing infrastructure costs., Kubernetes, JavaScript, Docker, Systems Engineer, https://www.reilly.com/, Focus
+sister today leg walk raise firm year city give develop., Systems Engineer Project, Developed a scalable microservices architecture
+using Python and AWS services, improving system performance and reducing infrastructure costs., Python, Go, Kubernetes,
+JavaScript, Systems Engineer, http://www.payne.biz/, Before science pressure region six market piece owner over threat white
+morning site fall former.
+Certifications

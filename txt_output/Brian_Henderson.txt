@@ -1,0 +1,23 @@
+Brian Henderson
+matthewpayne@example.com | 871-540-8985x87874 | Port Cassandraborough | Mauritania
+Experience
+Smith-Santiago, Technology, Small, Embedded Systems Engineer, junior, internship, 2021-04-17, 2023-03-29, N/A, Ensured
+application responsiveness and seamless user experience., Automated data processing pipelines., Utilized version control effectively
+in a team environment., Docker, Scrum, REST, Norris, Wilson and Carroll, Technology, Small, Embedded Systems Engineer, senior,
+internship, 2019-09-25, 2023-06-22, N/A, Conducted code reviews and mentored junior developers., Ensured application
+responsiveness and seamless user experience., Perfected data analysis and data visualization using Python and Tableau., CI/CD,
+Kanban, GitLab, Kubernetes, GraphQL
+Education
+MSc, Computer Science, Embedded, Logan LLC, Tylerchester, N/A, 2016-01-21, 2019-06-21, 3.74, Cum Laude, Network Security,
+Distributed Systems, MSc, Computer Science, Embedded, Hancock, Moss and Porter, Joneshaven, N/A, 2015-06-07, 2022-02-01,
+3.19, Cum Laude, Software Engineering, Data Structures
+Skills
+Ruby, expert, C++, beginner, C, intermediate, Node.js, beginner, Redis, expert, AWS, intermediate, English, fluent
+Projects
+Embedded Systems Engineer Project, Developed firmware for IoT devices, enhancing device functionality and enabling real-time
+data processing for smart home applications., Docker, REST, Ruby, C++, Embedded Systems Engineer,
+http://www.morgan-elliott.com/, Fact similar eat officer by left no radio manager want recognize accept expert fear piece., Embedded
+Systems Engineer Project, Developed firmware for IoT devices, enhancing device functionality and enabling real-time data
+processing for smart home applications., Go, Kubernetes, Embedded Systems Engineer, https://white.biz/, Office plan between why
+and identify available choose know police this chance whatever.
+Certifications

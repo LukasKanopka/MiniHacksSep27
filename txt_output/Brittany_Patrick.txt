@@ -1,0 +1,22 @@
+Brittany Patrick
+msmith@example.com | 737.946.2540 | South Matthew | Honduras
+Experience
+Arellano and Sons, Technology, Small, Software Engineer, junior, internship, 2021-12-31, 2023-12-19, N/A, Performed software
+testing and resolved bugs efficiently., Managed cloud infrastructure and resource allocation., Conducted code reviews and mentored
+junior developers., CI/CD, Git, Docker, Scrum, REST, CI/CD, Lambert, Walker and Jones, Technology, Large, Software Engineer,
+senior, contract, 2020-09-03, 2023-07-14, N/A, Optimized system performance and reduced latency., Managed cloud infrastructure
+and resource allocation., Integrated third-party services into existing systems., Performed software testing and resolved bugs
+efficiently., GraphQL, Kubernetes, Docker, Scrum, Docker, GraphQL, King-Norman, Technology, Large, Software Engineer, senior,
+full-time, 2020-01-19, 2023-05-19, N/A, Conducted system monitoring and performance tuning., Performed software testing and
+resolved bugs efficiently., Integrated third-party services into existing systems., Git, Agile, GraphQL
+Education
+BSc, Computer Science, Software, Parker Group, North Tracy, N/A, 2018-06-25, 2020-07-20, 3.44, Data Structures, Database
+Systems
+Skills
+C++, beginner, Go, expert, Java, expert, Python, intermediate, Angular, expert, Redis, intermediate, Google Cloud, beginner,
+English, fluent
+Projects
+Software Engineer Project, New determine worry contain risk specific. High trip threat total interview statement major. Tv blood
+teacher moment. Future site price hit newspaper quite source director., GraphQL, CI/CD, Docker, JavaScript, Software Engineer,
+http://mccann.com/, National issue color message own point toward prove result let see hair network during begin.
+Certifications

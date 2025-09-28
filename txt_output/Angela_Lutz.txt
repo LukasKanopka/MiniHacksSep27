@@ -1,0 +1,24 @@
+Angela Lutz
+shaunrodriguez@example.net | 828-422-4778 | Martinfort | Lesotho
+Experience
+Lloyd, Jenkins and Romero, Technology, Small, Cybersecurity Engineer, mid, internship, 2020-10-18, 2023-01-29, N/A, Conducted
+system monitoring and performance tuning., Conducted code reviews and mentored junior developers., Developed and maintained
+database schemas and queries., Implemented RESTful APIs and microservices., GraphQL, Kanban, Kubernetes,
+Richardson-Whitehead, Technology, Large, Cybersecurity Engineer, junior, internship, 2020-09-14, 2022-04-11, N/A, Managed cloud
+infrastructure and resource allocation., Utilized version control effectively in a team environment., Performed software testing and
+resolved bugs efficiently., Developed and deployed scalable solutions., Kubernetes, Kanban, REST, Kubernetes, Docker
+Education
+MSc, Computer Science, Cybersecurity, Sandoval-Miller, Taraburgh, N/A, 2015-05-11, 2021-02-28, 3.93, Magna Cum Laude,
+Network Security, Distributed Systems, Software Engineering, BSc, Computer Science, Cybersecurity, Bennett and Sons, New
+Rogerside, N/A, 2015-11-15, 2019-04-07, 3.63, Dean's List, Data Structures, Database Systems
+Skills
+Go, intermediate, Python, intermediate, JavaScript, beginner, Spring, expert, Django, intermediate, Node.js, beginner, Oracle,
+intermediate, Google Cloud, intermediate, English, fluent
+Projects
+Cybersecurity Engineer Project, Conducted security assessments and implemented security controls, reducing security
+vulnerabilities by 60% and enhancing system security., Go, Ruby, Cybersecurity Engineer, https://www.mitchell-horne.com/,
+Environmental increase thank standard effort require end reflect notice high almost simple green better affect., Cybersecurity
+Engineer Project, Conducted security assessments and implemented security controls, reducing security vulnerabilities by 60% and
+enhancing system security., Java, Docker, JavaScript, Go, Cybersecurity Engineer, https://www.stone-serrano.com/, Pm ready within
+entire field rate way music middle similar.
+Certifications

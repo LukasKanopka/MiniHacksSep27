@@ -1,0 +1,20 @@
+Brandon Garrett
+qperez@example.net | +1-668-376-7501 | Nathanton | Chile
+Experience
+Brown, Ortiz and Williams, Technology, Small, Penetration Tester, senior, internship, 2022-01-27, 2023-07-10, N/A, Performed
+software testing and resolved bugs efficiently., Conducted code reviews and mentored junior developers., Ensured application
+responsiveness and seamless user experience., Developed and deployed scalable solutions., GraphQL, Docker, Agile, REST, Git,
+Torres LLC, Technology, Medium, Penetration Tester, mid, contract, 2019-05-02, 2025-01-11, N/A, Perfected data analysis and data
+visualization using Python and Tableau., Optimized system performance and reduced latency., Deployed applications on cloud
+platforms and ensured scalability., Conducted system monitoring and performance tuning., Kubernetes, Git, CI/CD, Scrum, GraphQL
+Education
+BSc, Computer Science, Penetration, Huang-Henderson, Lake Amandaberg, N/A, 2018-08-10, 2022-04-09, 2.83, Dean's List,
+Software Engineering, Network Security, Advanced Algorithms, Data Structures
+Skills
+Ruby, beginner, Python, intermediate, Flask, beginner, Node.js, beginner, Angular, intermediate, PostgreSQL, intermediate, Google
+Cloud, intermediate, English, fluent
+Projects
+Penetration Tester Project, Conducted penetration tests and vulnerability assessments, identifying security weaknesses and
+providing recommendations for improved security measures., Docker, REST, C++, Penetration Tester, https://www.potter.org/,
+Discover seven simple deep report manage top parent name boy point understand ten management.
+Certifications

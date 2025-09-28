@@ -1,0 +1,23 @@
+April Stewart
+fewing@example.net | 699-457-0372 | Morrisfurt | Western Sahara
+Experience
+Pierce-Dixon, Technology, Small, Devops Engineer, senior, contract, 2019-08-19, 2024-10-06, N/A, Deployed applications on cloud
+platforms and ensured scalability., Collaborated with cross-functional teams to design new features., Automated deployment
+processes and continuous integration., Implemented RESTful APIs and microservices., GraphQL, Docker, Agile, Kubernetes, REST,
+Docker, Rhodes Inc, Technology, Small, Devops Engineer, mid, full-time, 2021-01-13, 2023-01-22, N/A, Perfected data analysis and
+data visualization using Python and Tableau., Optimized system performance and reduced latency., Automated data processing
+pipelines., Enhanced system security and performed regular audits., Implemented RESTful APIs and microservices., REST, Git,
+Docker, Agile, Docker, Git, Docker
+Education
+BSc, Computer Science, Devops, Jackson, Davis and Anderson, Peterburgh, N/A, 2015-03-26, 2023-02-12, 3.41, Magna Cum
+Laude, Data Structures, Distributed Systems, Network Security, BSc, Computer Science, Devops, Bailey-Chen, Goodmanmouth,
+N/A, 2016-09-29, 2019-04-17, 2.53, Cum Laude, Network Security, Software Engineering
+Skills
+Ruby, expert, C++, beginner, Spring, beginner, MongoDB, expert, Azure, expert, AWS, intermediate, English, fluent
+Projects
+Devops Engineer Project, Implemented automated deployment pipelines using Jenkins and Docker, reducing system downtime and
+improving release cycles., C#, Git, Kubernetes, Devops Engineer, http://diaz-gonzalez.com/, Consumer benefit once into technology
+possible day thousand stop., Devops Engineer Project, Implemented automated deployment pipelines using Jenkins and Docker,
+reducing system downtime and improving release cycles., Docker, Git, Devops Engineer, http://hart.com/, Yard however spring
+personal music life tell yard.
+Certifications

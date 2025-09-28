@@ -1,0 +1,17 @@
+Brian Holmes
+hjohnson@example.org | 998.730.1955x58531 | Moralesbury | Jersey
+Experience
+Pierce Group, Technology, Small, Full Stack Developer, senior, internship, 2020-02-17, 2022-03-01, N/A, Optimized application
+performance and improved user engagement., Built and maintained scalable web applications., Implemented security best practices
+and data protection measures., GraphQL, Scrum, Kubernetes, CI/CD, Git
+Education
+BSc, Computer Science, Full, Clark, Daniels and Rice, Anthonyburgh, N/A, 2015-11-27, 2022-11-15, 2.51, Advanced Algorithms,
+Data Structures, Distributed Systems
+Skills
+C#, expert, JavaScript, intermediate, Django, intermediate, React, intermediate, MongoDB, expert, Oracle, intermediate, AWS,
+expert, English, fluent
+Projects
+Full Stack Developer Project, Developed end-to-end web applications using React and Django, providing seamless user experiences
+and robust backend functionality., GraphQL, Docker, Python, Full Stack Developer, http://www.turner.com/, Let record send wrong
+water prevent indicate.
+Certifications

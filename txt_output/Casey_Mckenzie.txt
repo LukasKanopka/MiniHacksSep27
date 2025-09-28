@@ -1,0 +1,25 @@
+Casey Mckenzie
+christopherperkins@example.net | (916)528-7768 | Jeremyview | Monaco
+Experience
+Williams, Mayo and Morgan, Technology, Small, Python Developer, junior, contract, 2021-06-05, 2024-05-24, N/A, Implemented
+security best practices and data protection measures., Developed and deployed scalable solutions., Deployed applications on cloud
+platforms and ensured scalability., Utilized version control effectively in a team environment., GraphQL, Docker, Git, Agile, Git,
+Docker, Mata-Crawford, Technology, Medium, Python Developer, senior, full-time, 2018-10-06, 2022-05-09, N/A, Managed cloud
+infrastructure and resource allocation., Optimized application performance and improved user engagement., Implemented RESTful
+APIs and microservices., Ensured application responsiveness and seamless user experience., Git, Docker, Scrum, Docker,
+GraphQL, GitLab
+Education
+BSc, Computer Science, Python, Miller, Murray and Marshall, South Martin, N/A, 2016-05-24, 2019-08-26, 3.45, Magna Cum Laude,
+Software Engineering, Network Security, Advanced Algorithms, BSc, Computer Science, Python, Anderson LLC, East Mollyville, N/A,
+2017-01-15, 2022-03-02, 3.89, Magna Cum Laude, Data Structures, Software Engineering, Distributed Systems, Advanced
+Algorithms
+Skills
+Go, beginner, Python, intermediate, React, intermediate, Flask, intermediate, Redis, expert, PostgreSQL, expert, Azure, expert,
+English, fluent
+Projects
+Python Developer Project, Developed a robust RESTful API using Flask and integrated it with cloud services, resulting in improved
+data processing and scalability., JavaScript, Kubernetes, CI/CD, Git, Python Developer, https://ruiz-duncan.com/, End provide event
+site base worker eye north event if test just., Python Developer Project, Developed a robust RESTful API using Flask and integrated
+it with cloud services, resulting in improved data processing and scalability., JavaScript, Go, Docker, Python Developer,
+http://www.hill.info/, Off cup goal movement onto central well fill less.
+Certifications

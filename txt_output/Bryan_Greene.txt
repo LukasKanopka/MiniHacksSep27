@@ -1,0 +1,19 @@
+Bryan Greene
+rvaldez@example.net | (751)366-9015 | Beckmouth | Guadeloupe
+Experience
+Jarvis Ltd, Technology, Small, Ai Engineer, mid, contract, 2019-12-06, 2024-01-22, N/A, Developed and maintained database
+schemas and queries., Perfected data analysis and data visualization using Python and Tableau., Automated deployment processes
+and continuous integration., Implemented security best practices and data protection measures., REST, Git, Agile, GitLab,
+Bradford-Snyder, Technology, Medium, Ai Engineer, mid, full-time, 2019-01-30, 2022-07-13, N/A, Created user-centric designs and
+responsive web interfaces., Performed software testing and resolved bugs efficiently., Perfected data analysis and data visualization
+using Python and Tableau., Git, Kubernetes, GraphQL, Agile, Docker
+Education
+MSc, Computer Science, Ai, Bailey and Sons, North Melissashire, N/A, 2017-07-15, 2020-03-31, 3.26, Advanced Algorithms,
+Machine Learning
+Skills
+C++, intermediate, Ruby, expert, C#, intermediate, Python, intermediate, Node.js, beginner, Flask, beginner, Oracle, intermediate,
+Redis, expert, AWS, expert, English, fluent
+Projects
+Ai Engineer Project, Built AI-powered applications using TensorFlow and Python, improving predictive accuracy and enabling
+data-driven decision-making., GraphQL, Ruby, Ai Engineer, https://www.brennan.biz/, Now support value local fact health here it.
+Certifications

@@ -1,0 +1,23 @@
+Ashley Baird
+jonathan82@example.com | +1-237-346-6470x88398 | Olsontown | Malawi
+Experience
+Nelson Group, Technology, Medium, Full Stack Developer, senior, full-time, 2020-10-15, 2024-01-05, N/A, Developed and
+maintained CI/CD pipelines., Conducted code reviews and mentored junior developers., Optimized application performance and
+improved user engagement., Performed software testing and resolved bugs efficiently., Git, REST, Scrum, Jenkins, Docker, Git,
+Walker, Bailey and Green, Technology, Small, Full Stack Developer, senior, internship, 2019-05-21, 2023-01-15, N/A, Utilized
+version control effectively in a team environment., Ensured application responsiveness and seamless user experience., Collaborated
+with cross-functional teams to design new features., Git, Kubernetes, Scrum, Docker, Git, Hamilton LLC, Technology, Large, Full
+Stack Developer, junior, contract, 2019-12-11, 2024-05-04, N/A, Conducted code reviews and mentored junior developers., Built and
+maintained scalable web applications., Created user-centric designs and responsive web interfaces., Kubernetes, Agile, Jenkins
+Education
+BSc, Computer Science, Full, Mcguire, Vazquez and Martinez, Myersland, N/A, 2016-03-12, 2020-06-18, 3.99, Cum Laude, Machine
+Learning, Distributed Systems, BSc, Computer Science, Full, Carpenter, Gentry and Turner, Mosleyborough, N/A, 2017-08-16,
+2021-08-08, 3.33, Magna Cum Laude, Database Systems, Distributed Systems, Network Security
+Skills
+C#, beginner, JavaScript, intermediate, Angular, expert, Flask, beginner, React, intermediate, MongoDB, beginner, Azure, expert,
+English, fluent
+Projects
+Full Stack Developer Project, Developed end-to-end web applications using React and Django, providing seamless user experiences
+and robust backend functionality., Python, Java, Full Stack Developer, https://www.bennett.info/, Score support month fear myself
+action above keep manage room green throw edge TV sense while.
+Certifications

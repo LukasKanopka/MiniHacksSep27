@@ -1,0 +1,18 @@
+Ann Harris
+wwhite@example.com | 846-504-5916x637 | North Nicholas | Chad
+Experience
+Arias-Shaw, Technology, Small, Cybersecurity Engineer, junior, internship, 2019-07-16, 2022-06-13, N/A, Automated data
+processing pipelines., Created user-centric designs and responsive web interfaces., Optimized application performance and
+improved user engagement., Implemented security best practices and data protection measures., Integrated third-party services into
+existing systems., Git, Agile, Jenkins, REST, Kubernetes
+Education
+MSc, Computer Science, Cybersecurity, Tucker-Cervantes, Bradleyborough, N/A, 2016-05-29, 2022-08-01, 3.82, Magna Cum
+Laude, Network Security, Advanced Algorithms, Machine Learning, MSc, Computer Science, Cybersecurity, Sexton Group,
+Davisberg, N/A, 2018-11-06, 2020-07-29, 3.38, Magna Cum Laude, Machine Learning, Advanced Algorithms
+Skills
+Python, expert, Django, beginner, PostgreSQL, intermediate, Oracle, expert, AWS, intermediate, English, fluent
+Projects
+Cybersecurity Engineer Project, Conducted security assessments and implemented security controls, reducing security
+vulnerabilities by 60% and enhancing system security., GraphQL, C++, Cybersecurity Engineer, http://www.fitzpatrick.com/, Price
+box race many share finish share role senior school something worry national debate myself analysis.
+Certifications

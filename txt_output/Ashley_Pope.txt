@@ -1,0 +1,24 @@
+Ashley Pope
+xhernandez@example.net | 7745837316 | East Jenniferview | Malaysia
+Experience
+Cole, Hughes and Koch, Technology, Small, Ios Developer, junior, internship, 2019-11-30, 2023-02-03, N/A, Utilized version control
+effectively in a team environment., Optimized system performance and reduced latency., Conducted system monitoring and
+performance tuning., Collaborated with cross-functional teams to design new features., Automated data processing pipelines., REST,
+Kubernetes, Docker, Scrum, Docker, Douglas PLC, Technology, Small, Ios Developer, junior, internship, 2019-06-03, 2022-03-27,
+N/A, Optimized application performance and improved user engagement., Conducted system monitoring and performance tuning.,
+Enhanced system security and performed regular audits., CI/CD, Kubernetes, GraphQL, Agile, GitLab, Docker, REST, Oliver Group,
+Technology, Large, Ios Developer, junior, contract, 2018-06-02, 2024-08-15, N/A, Perfected data analysis and data visualization
+using Python and Tableau., Integrated third-party services into existing systems., Optimized system performance and reduced
+latency., Git, GraphQL, CI/CD, Scrum, REST, Docker, CI/CD
+Education
+MSc, Computer Science, Ios, Jackson, Combs and Carter, Markfort, N/A, 2016-11-30, 2020-09-29, 3.61, Magna Cum Laude,
+Network Security, Machine Learning
+Skills
+C++, beginner, Swift, intermediate, Flask, expert, MongoDB, intermediate, AWS, beginner, English, fluent
+Projects
+Ios Developer Project, Built a user-friendly iOS app with Swift that received a 4.9-star rating on the App Store and increased user
+engagement by 40%., Kubernetes, Git, JavaScript, GraphQL, Ios Developer, http://www.cooper-williams.com/, Degree east simple
+level necessary cup her source story young land growth range daughter condition management., Ios Developer Project, Built a
+user-friendly iOS app with Swift that received a 4.9-star rating on the App Store and increased user engagement by 40%., Git,
+Docker, Ios Developer, http://shields.com/, This record low scene heart would act who hit new painting unit individual.
+Certifications

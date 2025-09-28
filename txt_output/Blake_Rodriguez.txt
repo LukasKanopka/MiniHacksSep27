@@ -1,0 +1,27 @@
+Blake Rodriguez
+donnaball@example.net | 9137827601 | Johnstad | Somalia
+Experience
+Perez, Chapman and Wilkins, Technology, Large, Security Engineer, senior, internship, 2018-11-27, 2022-08-20, N/A, Perfected
+data analysis and data visualization using Python and Tableau., Collaborated with cross-functional teams to design new features.,
+Enhanced system security and performed regular audits., Ensured application responsiveness and seamless user experience.,
+Optimized application performance and improved user engagement., GraphQL, Kubernetes, Agile, GitLab, Jenkins, Kubernetes,
+Choi-Rivera, Technology, Medium, Security Engineer, mid, contract, 2021-02-05, 2023-08-09, N/A, Conducted code reviews and
+mentored junior developers., Automated data processing pipelines., Implemented RESTful APIs and microservices., Docker,
+Kubernetes, Git, Agile, Kubernetes, Jones Ltd, Technology, Medium, Security Engineer, senior, contract, 2019-07-30, 2024-07-19,
+N/A, Implemented security best practices and data protection measures., Automated data processing pipelines., Developed and
+deployed scalable solutions., Developed and maintained database schemas and queries., Integrated third-party services into existing
+systems., Docker, Scrum, CI/CD
+Education
+MSc, Computer Science, Security, Brooks Inc, East David, N/A, 2015-07-27, 2019-07-10, 2.58, Dean's List, Data Structures,
+Advanced Algorithms, MSc, Computer Science, Security, Torres, Robinson and Gonzales, New Cody, N/A, 2016-03-10, 2019-03-08,
+3.8, Machine Learning, Database Systems, Data Structures
+Skills
+Ruby, expert, Python, intermediate, Flask, expert, Angular, intermediate, PostgreSQL, beginner, MySQL, beginner, Google Cloud,
+intermediate, English, fluent
+Projects
+Security Engineer Project, Conducted penetration tests and vulnerability assessments, identifying critical security flaws and
+implementing robust security measures., Python, Go, Security Engineer, http://hahn.com/, Agent travel hand night issue general
+knowledge president yard a throughout though., Security Engineer Project, Conducted penetration tests and vulnerability
+assessments, identifying critical security flaws and implementing robust security measures., CI/CD, Python, Security Engineer,
+http://robinson.org/, Mother for movie quickly unit finish sign option.
+Certifications

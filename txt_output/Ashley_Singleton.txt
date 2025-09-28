@@ -1,0 +1,17 @@
+Ashley Singleton
+wsims@example.net | +1-621-378-2953x6893 | Sharonchester | Armenia
+Experience
+Ruiz Group, Technology, Medium, Devops Engineer, mid, internship, 2019-08-19, 2025-02-14, N/A, Automated data processing
+pipelines., Implemented RESTful APIs and microservices., Managed cloud infrastructure and resource allocation., Developed and
+deployed scalable solutions., Docker, CI/CD, Kanban, Git, Kubernetes, GraphQL
+Education
+MSc, Computer Science, Devops, Harris, Hall and Perez, East Williamside, N/A, 2018-05-13, 2023-02-18, 3.01, Cum Laude, Data
+Structures, Network Security, Software Engineering
+Skills
+Ruby, beginner, React, beginner, Flask, intermediate, MySQL, beginner, Redis, intermediate, Google Cloud, expert, AWS,
+intermediate, English, fluent
+Projects
+Devops Engineer Project, Implemented automated deployment pipelines using Jenkins and Docker, reducing system downtime and
+improving release cycles., Docker, Java, C++, Devops Engineer, http://smith.com/, Animal seem safe off foreign fund food break
+society.
+Certifications

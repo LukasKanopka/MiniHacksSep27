@@ -1,0 +1,21 @@
+Angelica Summers
+durancaleb@example.org | 001-409-473-8919x7874 | South Patriciabury | Cyprus
+Experience
+Harris-Henry, Technology, Large, Ios Developer, mid, internship, 2018-06-30, 2022-12-10, N/A, Conducted code reviews and
+mentored junior developers., Implemented security best practices and data protection measures., Designed and implemented
+machine learning models., Optimized system performance and reduced latency., Conducted system monitoring and performance
+tuning., CI/CD, GraphQL, Git, Agile, Jenkins
+Education
+BSc, Computer Science, Ios, Fletcher, Lopez and Roberts, Port Joseph, N/A, 2015-11-12, 2021-09-25, 2.77, Cum Laude, Database
+Systems, Software Engineering, Machine Learning, Advanced Algorithms, BSc, Computer Science, Ios, Olson-Obrien, Lake
+Samanthafurt, N/A, 2017-09-23, 2020-03-19, 2.94, Dean's List, Machine Learning, Software Engineering, Data Structures
+Skills
+Ruby, beginner, Swift, intermediate, Angular, intermediate, Spring, intermediate, React, expert, MySQL, intermediate, AWS,
+intermediate, English, fluent
+Projects
+Ios Developer Project, Built a user-friendly iOS app with Swift that received a 4.9-star rating on the App Store and increased user
+engagement by 40%., Git, Go, REST, Ios Developer, https://www.patterson.com/, Cell about property expect surface factor agree
+professional realize order report land decide., Ios Developer Project, Built a user-friendly iOS app with Swift that received a 4.9-star
+rating on the App Store and increased user engagement by 40%., Kubernetes, Java, Git, Ios Developer, http://thompson-ford.com/,
+Turn media voice man pass song medical up want well good.
+Certifications

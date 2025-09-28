@@ -5,8 +5,6 @@ from schema_setter import resume_schema
 genai.configure(api_key=os.getenv())
 model = genai.GenerativeModel("gemini-2.5-flash")
 
-
-
 def candidate_resume_parser(filename):
     with open("txt_output/"+ filename, 'r', encoding='utf-8') as file:
         content = file.read()

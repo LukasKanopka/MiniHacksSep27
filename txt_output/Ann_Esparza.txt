@@ -1,0 +1,25 @@
+Ann Esparza
+brockdavid@example.net | +1-208-213-8528 | Lake Tony | Marshall Islands
+Experience
+Schneider, Phelps and Glenn, Technology, Medium, Technical Architect, mid, full-time, 2019-05-02, 2024-11-27, N/A, Optimized
+application performance and improved user engagement., Created user-centric designs and responsive web interfaces., Developed
+and maintained database schemas and queries., Automated data processing pipelines., CI/CD, Kanban, GraphQL, Jenkins,
+Brown-Valenzuela, Technology, Medium, Technical Architect, mid, internship, 2021-09-20, 2023-04-20, N/A, Conducted system
+monitoring and performance tuning., Ensured application responsiveness and seamless user experience., Created user-centric
+designs and responsive web interfaces., Git, Kanban, Git, Docker, Ferguson LLC, Technology, Small, Technical Architect, senior,
+internship, 2019-02-21, 2022-11-12, N/A, Ensured application responsiveness and seamless user experience., Implemented
+RESTful APIs and microservices., Developed and maintained CI/CD pipelines., Collaborated with cross-functional teams to design
+new features., Kubernetes, Scrum, Jenkins
+Education
+MSc, Computer Science, Technical, Padilla, Bryant and Martin, Mcgeeborough, N/A, 2015-12-06, 2020-04-26, 2.76, Dean's List,
+Network Security, Advanced Algorithms, Machine Learning, Distributed Systems
+Skills
+Python, beginner, Java, beginner, Vue, beginner, MySQL, beginner, Azure, expert, English, fluent
+Projects
+Technical Architect Project, Designed a scalable microservices architecture using Python and AWS services, improving system
+performance and reducing infrastructure costs., Java, GraphQL, Kubernetes, Technical Architect, https://www.blanchard.com/, Here
+fall appear effort go federal change hour official pass everybody page interest impact., Technical Architect Project, Designed a
+scalable microservices architecture using Python and AWS services, improving system performance and reducing infrastructure
+costs., REST, JavaScript, Kubernetes, Technical Architect, http://chen.com/, Man amount treatment catch music region together
+various tend threat can analysis son common.
+Certifications

@@ -1,0 +1,19 @@
+Andrew Chavez
+kfarmer@example.org | 5242086992 | Fryemouth | Saint Pierre and Miquelon
+Experience
+Castro-Harris, Technology, Small, Blockchain Developer, junior, internship, 2021-02-04, 2025-01-15, N/A, Developed and deployed
+scalable solutions., Automated deployment processes and continuous integration., Optimized application performance and improved
+user engagement., REST, Kanban, CI/CD, Jenkins, Docker
+Education
+BSc, Computer Science, Blockchain, Paul, Cooley and Harris, South Patrickton, N/A, 2018-09-11, 2021-09-24, 3.13, Magna Cum
+Laude, Data Structures, Distributed Systems, Machine Learning, Database Systems
+Skills
+Python, expert, Solidity, intermediate, React, beginner, Angular, intermediate, MongoDB, beginner, Google Cloud, beginner, English,
+fluent
+Projects
+Blockchain Developer Project, Created smart contracts on the Ethereum blockchain, enabling secure and transparent transactions
+for a decentralized application., Java, C++, Git, CI/CD, Blockchain Developer, http://www.scott.com/, Exist today give but whom story
+position place military free young., Blockchain Developer Project, Created smart contracts on the Ethereum blockchain, enabling
+secure and transparent transactions for a decentralized application., GraphQL, Ruby, Blockchain Developer,
+http://www.mercado.com/, Government support together design share top go type.
+Certifications

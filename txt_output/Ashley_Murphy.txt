@@ -1,0 +1,26 @@
+Ashley Murphy
+amber01@example.org | 779-353-6664 | East Stacey | Mauritania
+Experience
+Jones Group, Technology, Small, Android Developer, mid, contract, 2019-08-01, 2023-04-01, N/A, Built and maintained scalable web
+applications., Conducted system monitoring and performance tuning., Optimized application performance and improved user
+engagement., Designed and implemented machine learning models., Docker, Kubernetes, Scrum, GitLab, GraphQL, Git,
+Brown-Savage, Technology, Small, Android Developer, junior, internship, 2018-12-18, 2024-02-26, N/A, Optimized application
+performance and improved user engagement., Conducted code reviews and mentored junior developers., Developed and maintained
+CI/CD pipelines., Utilized version control effectively in a team environment., Collaborated with cross-functional teams to design new
+features., Git, Scrum, CI/CD, Git, Kubernetes, Russell, Hernandez and Morgan, Technology, Medium, Android Developer, junior,
+internship, 2022-01-26, 2024-04-06, N/A, Integrated third-party services into existing systems., Developed and maintained CI/CD
+pipelines., Implemented RESTful APIs and microservices., Conducted system monitoring and performance tuning., Optimized
+application performance and improved user engagement., REST, Git, Scrum, REST, Jenkins, Git
+Education
+MSc, Computer Science, Android, Madden LLC, South Kimberlystad, N/A, 2019-02-04, 2019-04-30, 3.99, Software Engineering,
+Machine Learning
+Skills
+Ruby, intermediate, C++, intermediate, C#, beginner, Java, intermediate, Angular, intermediate, Node.js, intermediate, MySQL,
+beginner, Oracle, expert, Azure, beginner, English, fluent
+Projects
+Android Developer Project, Developed a high-performance Android app using Kotlin that achieved 1 million downloads on the Google
+Play Store and received positive user reviews., Java, Go, JavaScript, Kubernetes, Android Developer, http://ruiz.com/, Understand
+concern admit those people which not process space., Android Developer Project, Developed a high-performance Android app using
+Kotlin that achieved 1 million downloads on the Google Play Store and received positive user reviews., Git, C#, CI/CD, Android
+Developer, http://wheeler.info/, Fish artist prepare threat thank natural mother theory listen bag cultural assume.
+Certifications

@@ -1,0 +1,20 @@
+Brenda Ward
+krystal03@example.com | 720.870.0899x89350 | East Kelly | Guadeloupe
+Experience
+Williams, Smith and Davila, Technology, Small, Nlp Engineer, junior, full-time, 2020-11-17, 2024-03-16, N/A, Implemented RESTful
+APIs and microservices., Optimized application performance and improved user engagement., Designed and implemented machine
+learning models., Docker, Git, Agile, Docker, REST, Docker, Campbell-Gomez, Technology, Large, Nlp Engineer, mid, internship,
+2021-08-05, 2023-11-14, N/A, Optimized application performance and improved user engagement., Developed and maintained
+database schemas and queries., Conducted system monitoring and performance tuning., Integrated third-party services into existing
+systems., Optimized system performance and reduced latency., CI/CD, Agile, GitLab, Jenkins, Git
+Education
+MSc, Computer Science, Nlp, Lopez, Barnett and Mcguire, Franklinton, N/A, 2017-08-16, 2021-07-09, 3.6, Data Structures,
+Advanced Algorithms, Software Engineering, BSc, Computer Science, Nlp, Taylor-Jensen, Gregoryville, N/A, 2018-08-23,
+2020-12-18, 3.72, Dean's List, Data Structures, Distributed Systems, Software Engineering
+Skills
+Ruby, beginner, Python, intermediate, Node.js, expert, MongoDB, beginner, Azure, intermediate, English, fluent
+Projects
+Nlp Engineer Project, Developed a sentiment analysis model using natural language processing techniques, improving customer
+feedback analysis and sentiment classification accuracy., Kubernetes, C++, Ruby, Nlp Engineer, https://ramirez.com/, Know better
+front wall capital while performance forget response leg.
+Certifications

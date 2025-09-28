@@ -1,0 +1,24 @@
+Alec Blake
+michaeljones@example.com | +1-645-970-4500 | Stefanieburgh | Western Sahara
+Experience
+Jones-Cobb, Technology, Small, Android Developer, junior, internship, 2021-05-15, 2024-07-17, N/A, Implemented security best
+practices and data protection measures., Developed and maintained CI/CD pipelines., Designed and implemented machine learning
+models., GraphQL, Kubernetes, Scrum, REST, Docker, Vega-Sanders, Technology, Medium, Android Developer, senior, internship,
+2021-10-17, 2022-05-03, N/A, Automated deployment processes and continuous integration., Managed cloud infrastructure and
+resource allocation., Built and maintained scalable web applications., Developed and deployed scalable solutions., Ensured
+application responsiveness and seamless user experience., GraphQL, Kubernetes, Agile, Docker, Git
+Education
+BSc, Computer Science, Android, Ramos-Horne, Turnerside, N/A, 2015-03-28, 2020-03-25, 3.47, Magna Cum Laude, Advanced
+Algorithms, Distributed Systems, Database Systems, BSc, Computer Science, Android, Hill, Johnson and Fleming, Chaseton, N/A,
+2016-04-19, 2020-02-15, 3.72, Cum Laude, Network Security, Advanced Algorithms
+Skills
+Python, intermediate, C#, intermediate, C++, intermediate, Java, intermediate, Node.js, intermediate, Vue, intermediate,
+PostgreSQL, beginner, Oracle, intermediate, Google Cloud, expert, English, fluent
+Projects
+Android Developer Project, Developed a high-performance Android app using Kotlin that achieved 1 million downloads on the Google
+Play Store and received positive user reviews., GraphQL, Ruby, Git, JavaScript, Android Developer, https://www.barrera.com/, Hair
+simple stop better employee film room have personal choose nor., Android Developer Project, Developed a high-performance
+Android app using Kotlin that achieved 1 million downloads on the Google Play Store and received positive user reviews., Docker,
+C++, Python, REST, Android Developer, https://medina.com/, Fly left significant race show address join in determine person gas
+strong program type whatever develop.
+Certifications

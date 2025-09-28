@@ -1,0 +1,18 @@
+Artem Sliusarenko
+artem.sliusarenko@city.ac.uk | +44 7123456789 | London | United Kingdom
+Experience
+TechStart AI, Artificial Intelligence, 50-200 employees, Machine Learning Engineer Intern, intern, internship, 2023-06-01,
+2023-09-01, 3 months, Developed and deployed ML models for text classification using PyTorch, Implemented data preprocessing
+pipelines using Python and pandas, Optimized model performance resulting in 25% faster inference time, Python, PyTorch, FastAPI,
+Docker, Agile, CI/CD, Git, Jenkins, AWS
+Education
+BSc, Computer Science, Artificial Intelligence, City, University of London, London, UK, QAA, 2020-09, 2024-06, 3.8, Dean's List
+2022-2023, Machine Learning, Natural Language Processing, Advanced Algorithms
+Skills
+Python, expert, JavaScript, intermediate, Java, intermediate, PyTorch, advanced, FastAPI, intermediate, React, intermediate,
+PostgreSQL, intermediate, MongoDB, intermediate, AWS, intermediate, Docker, intermediate, English, fluent, Ukrainian, native
+Projects
+Resume Parser & Job Matcher, Final year project: AI-powered system for matching job seekers with relevant positions using NLP,
+Python, FastAPI, PyTorch, Next.js, Full-stack Developer & ML Engineer, github.com/artemslius/resume-parser-matcher, Achieved
+85% accuracy in job-candidate matching
+Certifications

@@ -1,0 +1,28 @@
+Amy Cunningham
+saravaughan@example.com | (917)570-2910x62507 | South Ianshire | Guatemala
+Experience
+Morris-Crawford, Technology, Small, Systems Engineer, mid, internship, 2021-09-09, 2022-03-01, N/A, Deployed applications on
+cloud platforms and ensured scalability., Conducted code reviews and mentored junior developers., Designed and implemented
+machine learning models., Conducted system monitoring and performance tuning., Automated data processing pipelines.,
+Kubernetes, CI/CD, REST, Scrum, Jenkins, REST, Larson-Robinson, Technology, Small, Systems Engineer, mid, full-time,
+2020-05-23, 2024-09-14, N/A, Implemented RESTful APIs and microservices., Conducted code reviews and mentored junior
+developers., Optimized application performance and improved user engagement., Automated data processing pipelines., Deployed
+applications on cloud platforms and ensured scalability., Docker, Scrum, Docker, Kubernetes, Wade Group, Technology, Large,
+Systems Engineer, mid, full-time, 2020-11-26, 2022-05-29, N/A, Designed and implemented machine learning models., Automated
+data processing pipelines., Ensured application responsiveness and seamless user experience., Created user-centric designs and
+responsive web interfaces., Enhanced system security and performed regular audits., Docker, Kubernetes, REST, Scrum, GitLab
+Education
+MSc, Computer Science, Systems, Mason Group, East Melissa, N/A, 2018-10-03, 2022-08-25, 3.12, Cum Laude, Distributed
+Systems, Advanced Algorithms, Database Systems, MSc, Computer Science, Systems, Ross-Gonzales, Lake Jordan, N/A,
+2018-12-31, 2022-11-30, 2.52, Data Structures, Software Engineering
+Skills
+Ruby, beginner, Java, intermediate, Python, intermediate, Vue, intermediate, Django, intermediate, React, expert, Redis, expert,
+MySQL, intermediate, AWS, expert, English, fluent
+Projects
+Systems Engineer Project, Developed a scalable microservices architecture using Python and AWS services, improving system
+performance and reducing infrastructure costs., GraphQL, CI/CD, Ruby, Systems Engineer, http://www.sims.org/, Get city role
+though picture opportunity collection shoulder who never film pull clear language city under., Systems Engineer Project, Developed a
+scalable microservices architecture using Python and AWS services, improving system performance and reducing infrastructure
+costs., REST, CI/CD, Systems Engineer, https://www.jenkins-miller.com/, Much give so career red generation believe central nature
+appear world among civil process.
+Certifications

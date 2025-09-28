@@ -1,0 +1,22 @@
+Andrea Becker
+carolmcdaniel@example.org | (605)417-1071 | West Markstad | Armenia
+Experience
+Mejia-Wilson, Technology, Large, Ios Developer, mid, internship, 2021-04-23, 2022-03-16, N/A, Developed and maintained database
+schemas and queries., Built and maintained scalable web applications., Perfected data analysis and data visualization using Python
+and Tableau., Developed and maintained CI/CD pipelines., Kubernetes, CI/CD, Kanban, Docker, Kubernetes, Short and Sons,
+Technology, Small, Ios Developer, mid, internship, 2022-01-28, 2023-01-19, N/A, Conducted code reviews and mentored junior
+developers., Implemented RESTful APIs and microservices., Automated data processing pipelines., Git, Agile, CI/CD, Kennedy,
+Oliver and Kirby, Technology, Medium, Ios Developer, junior, contract, 2019-03-31, 2022-11-02, N/A, Optimized system performance
+and reduced latency., Implemented RESTful APIs and microservices., Designed and implemented machine learning models.,
+Automated deployment processes and continuous integration., Conducted system monitoring and performance tuning., REST,
+Scrum, GraphQL, Git
+Education
+MSc, Computer Science, Ios, Brown-Baker, South Carolynberg, N/A, 2015-05-11, 2021-09-18, 3.45, Cum Laude, Distributed
+Systems, Database Systems, Data Structures
+Skills
+Ruby, intermediate, Go, intermediate, Swift, intermediate, React, expert, Redis, expert, AWS, beginner, English, fluent
+Projects
+Ios Developer Project, Built a user-friendly iOS app with Swift that received a 4.9-star rating on the App Store and increased user
+engagement by 40%., C#, C++, Ruby, Python, Ios Developer, https://bryant.com/, Child either machine yard know beyond recognize
+often front ten daughter thus sister first.
+Certifications

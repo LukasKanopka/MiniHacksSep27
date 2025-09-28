@@ -1,0 +1,24 @@
+Barbara Green
+matthew61@example.org | (766)858-2891x034 | Port Tracy | Cambodia
+Experience
+Savage, Becker and Hammond, Technology, Large, Penetration Tester, mid, contract, 2020-08-13, 2024-07-04, N/A, Optimized
+application performance and improved user engagement., Deployed applications on cloud platforms and ensured scalability.,
+Optimized system performance and reduced latency., CI/CD, Git, Docker, Scrum, Jenkins, GitLab, GraphQL, Hickman Group,
+Technology, Small, Penetration Tester, junior, full-time, 2018-05-18, 2024-03-13, N/A, Developed and deployed scalable solutions.,
+Utilized version control effectively in a team environment., Optimized system performance and reduced latency., Kubernetes, REST,
+Docker, Agile, Git, GraphQL, Dennis, Brown and Fisher, Technology, Large, Penetration Tester, mid, full-time, 2021-02-19,
+2024-09-16, N/A, Deployed applications on cloud platforms and ensured scalability., Optimized application performance and
+improved user engagement., Implemented RESTful APIs and microservices., Optimized system performance and reduced latency.,
+CI/CD, Scrum, GitLab
+Education
+BSc, Computer Science, Penetration, Brown Inc, North Charles, N/A, 2019-01-28, 2019-11-27, 2.54, Magna Cum Laude, Software
+Engineering, Network Security, BSc, Computer Science, Penetration, Schmidt-Jacobson, South Anthony, N/A, 2016-01-05,
+2020-02-26, 2.95, Magna Cum Laude, Machine Learning, Software Engineering, Network Security
+Skills
+Java, expert, Python, intermediate, Angular, intermediate, Node.js, expert, MongoDB, intermediate, AWS, beginner, English, fluent
+Projects
+Penetration Tester Project, Conducted penetration tests and vulnerability assessments, identifying security weaknesses and
+providing recommendations for improved security measures., JavaScript, Git, Java, Penetration Tester,
+https://www.johnson-walker.com/, Join responsibility old since plant ball customer light plant course section people ground body
+report respond.
+Certifications

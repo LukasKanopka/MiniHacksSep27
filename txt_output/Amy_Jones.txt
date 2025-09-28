@@ -1,0 +1,20 @@
+Amy Jones
+qbutler@example.com | (531)655-1652 | Glassstad | Egypt
+Experience
+Garcia LLC, Technology, Medium, Python Developer, junior, internship, 2021-07-05, 2023-12-15, N/A, Perfected data analysis and
+data visualization using Python and Tableau., Performed software testing and resolved bugs efficiently., Deployed applications on
+cloud platforms and ensured scalability., Collaborated with cross-functional teams to design new features., Docker, Kubernetes,
+Kanban, Kubernetes, Docker
+Education
+BSc, Computer Science, Python, Fuller Group, New Jamesshire, N/A, 2017-01-01, 2020-11-12, 3.12, Cum Laude, Data Structures,
+Distributed Systems, Machine Learning
+Skills
+Java, intermediate, C#, expert, Ruby, beginner, Python, intermediate, Vue, expert, Flask, expert, MongoDB, expert, MySQL,
+intermediate, AWS, intermediate, English, fluent
+Projects
+Python Developer Project, Developed a robust RESTful API using Flask and integrated it with cloud services, resulting in improved
+data processing and scalability., C#, Go, Python, C++, Python Developer, http://www.lopez.com/, Begin require reality yet
+Republican article win hope future., Python Developer Project, Developed a robust RESTful API using Flask and integrated it with
+cloud services, resulting in improved data processing and scalability., GraphQL, Go, Docker, JavaScript, Python Developer,
+https://www.garrison.com/, Site situation rock various somebody reflect son situation detail but board run.
+Certifications

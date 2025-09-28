@@ -1,0 +1,19 @@
+Benjamin Shepherd
+hartchristine@example.com | 639.519.0510 | Holtland | French Guiana
+Experience
+Mccoy, Peck and King, Technology, Large, Infrastructure Engineer, mid, full-time, 2018-07-29, 2024-11-03, N/A, Enhanced system
+security and performed regular audits., Ensured application responsiveness and seamless user experience., Implemented security
+best practices and data protection measures., Deployed applications on cloud platforms and ensured scalability., Git, Kanban, CI/CD,
+Docker
+Education
+BSc, Computer Science, Infrastructure, Webster PLC, Moralestown, N/A, 2017-07-22, 2021-03-19, 3.46, Magna Cum Laude,
+Distributed Systems, Software Engineering, BSc, Computer Science, Infrastructure, Russell, Collins and Hall, North Lisamouth, N/A,
+2016-09-01, 2022-03-11, 3.37, Cum Laude, Distributed Systems, Network Security, Software Engineering, Data Structures
+Skills
+Python, intermediate, JavaScript, beginner, C++, expert, Django, intermediate, Vue, beginner, Oracle, beginner, AWS, expert,
+English, fluent
+Projects
+Infrastructure Engineer Project, Designed and implemented cloud infrastructure using Terraform, reducing deployment time by 50%
+and improving system scalability., Kubernetes, Ruby, GraphQL, CI/CD, Infrastructure Engineer, https://english.com/, Check law give
+pass else work indicate work but already under both I leave crime.
+Certifications

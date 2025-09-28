@@ -1,0 +1,21 @@
+Ashley Chambers
+vking@example.com | 383.314.1640 | Brandymouth | Anguilla
+Experience
+Roman, Schmidt and Johnson, Technology, Small, Embedded Systems Engineer, junior, full-time, 2020-08-08, 2024-02-19, N/A,
+Developed and deployed scalable solutions., Conducted code reviews and mentored junior developers., Implemented security best
+practices and data protection measures., GraphQL, Docker, Kanban, Docker, Kubernetes, Jenkins, Hernandez, Larsen and Brown,
+Technology, Large, Embedded Systems Engineer, junior, internship, 2021-03-09, 2022-03-09, N/A, Developed and maintained
+CI/CD pipelines., Conducted system monitoring and performance tuning., Deployed applications on cloud platforms and ensured
+scalability., Docker, Kubernetes, GraphQL, Agile, Git
+Education
+MSc, Computer Science, Embedded, Jackson-Brennan, Schroedertown, N/A, 2018-03-03, 2019-08-05, 3.5, Cum Laude, Advanced
+Algorithms, Distributed Systems, BSc, Computer Science, Embedded, Fernandez, Lam and Frey, Hughesbury, N/A, 2017-04-01,
+2019-06-08, 2.66, Database Systems, Machine Learning, Data Structures, Software Engineering
+Skills
+Java, intermediate, C, intermediate, Angular, beginner, Node.js, expert, Django, intermediate, Oracle, expert, Google Cloud, expert,
+English, fluent
+Projects
+Embedded Systems Engineer Project, Developed firmware for IoT devices, enhancing device functionality and enabling real-time
+data processing for smart home applications., Go, Ruby, Embedded Systems Engineer, http://www.roberts.net/, Rule these with
+culture left house guess.
+Certifications

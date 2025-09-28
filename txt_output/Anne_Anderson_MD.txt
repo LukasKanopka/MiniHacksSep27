@@ -1,0 +1,25 @@
+Anne Anderson MD
+davidhernandez@example.net | (249)865-4016x2885 | Jonathanfort | Nauru
+Experience
+Walker Group, Technology, Small, Blockchain Developer, mid, full-time, 2021-10-20, 2024-10-15, N/A, Utilized version control
+effectively in a team environment., Developed and maintained database schemas and queries., Collaborated with cross-functional
+teams to design new features., Perfected data analysis and data visualization using Python and Tableau., Conducted code reviews
+and mentored junior developers., Docker, CI/CD, Kanban, REST, Jenkins, GraphQL, Pope PLC, Technology, Large, Blockchain
+Developer, mid, contract, 2020-02-23, 2023-05-14, N/A, Performed software testing and resolved bugs efficiently., Perfected data
+analysis and data visualization using Python and Tableau., Developed and maintained CI/CD pipelines., Collaborated with
+cross-functional teams to design new features., Designed and implemented machine learning models., CI/CD, GraphQL, Git,
+Kanban, Docker, GitLab, Kubernetes, Gilmore Group, Technology, Small, Blockchain Developer, senior, full-time, 2021-07-11,
+2024-08-01, N/A, Developed and deployed scalable solutions., Utilized version control effectively in a team environment., Developed
+and maintained database schemas and queries., Kubernetes, REST, Scrum, REST
+Education
+BSc, Computer Science, Blockchain, Flores-Smith, Wuburgh, N/A, 2017-11-21, 2022-08-21, 3.05, Dean's List, Distributed Systems,
+Advanced Algorithms, Software Engineering, BSc, Computer Science, Blockchain, Lucas and Sons, West Travis, N/A, 2018-02-25,
+2020-11-02, 3.49, Cum Laude, Advanced Algorithms, Software Engineering
+Skills
+Ruby, beginner, Python, intermediate, Solidity, intermediate, Node.js, intermediate, Spring, beginner, MySQL, beginner, Redis,
+intermediate, Azure, beginner, English, fluent
+Projects
+Blockchain Developer Project, Created smart contracts on the Ethereum blockchain, enabling secure and transparent transactions
+for a decentralized application., Java, Go, CI/CD, Blockchain Developer, https://turner.com/, Itself truth pretty consumer fish several
+better nothing speech couple imagine possible teacher stay enter.
+Certifications

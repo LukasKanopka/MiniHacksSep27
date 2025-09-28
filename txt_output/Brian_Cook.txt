@@ -1,0 +1,28 @@
+Brian Cook
+kelsey79@example.com | (258)613-1161 | West Kennethbury | Mexico
+Experience
+Jordan-Martin, Technology, Small, Penetration Tester, junior, contract, 2020-06-07, 2025-02-07, N/A, Utilized version control
+effectively in a team environment., Implemented RESTful APIs and microservices., Ensured application responsiveness and
+seamless user experience., CI/CD, Scrum, REST, CI/CD, Jenkins, King, Adkins and Duke, Technology, Small, Penetration Tester,
+senior, full-time, 2020-07-24, 2024-12-21, N/A, Automated deployment processes and continuous integration., Enhanced system
+security and performed regular audits., Utilized version control effectively in a team environment., Developed and maintained CI/CD
+pipelines., Performed software testing and resolved bugs efficiently., Git, CI/CD, GraphQL, Scrum, Git, GitLab, Gill-Hernandez,
+Technology, Medium, Penetration Tester, senior, full-time, 2019-05-28, 2022-03-24, N/A, Performed software testing and resolved
+bugs efficiently., Ensured application responsiveness and seamless user experience., Developed and maintained database schemas
+and queries., Implemented RESTful APIs and microservices., Optimized system performance and reduced latency., GraphQL,
+Kanban, GraphQL, Docker, Kubernetes
+Education
+BSc, Computer Science, Penetration, Hughes Inc, Mccoybury, N/A, 2018-09-17, 2019-07-09, 3.66, Dean's List, Data Structures,
+Machine Learning, Software Engineering, Advanced Algorithms, MSc, Computer Science, Penetration, Johnson-Bowman, New
+Patricia, N/A, 2015-05-03, 2020-11-11, 3.88, Machine Learning, Software Engineering
+Skills
+Ruby, intermediate, Python, intermediate, React, beginner, Vue, beginner, Flask, expert, MongoDB, expert, AWS, beginner, English,
+fluent
+Projects
+Penetration Tester Project, Conducted penetration tests and vulnerability assessments, identifying security weaknesses and
+providing recommendations for improved security measures., Git, CI/CD, Penetration Tester, http://www.shah-franco.com/, Attention
+he blood agency approach how happy expert firm decade require., Penetration Tester Project, Conducted penetration tests and
+vulnerability assessments, identifying security weaknesses and providing recommendations for improved security measures., CI/CD,
+GraphQL, Penetration Tester, https://www.mahoney.org/, Onto million person green model middle need maintain population agency
+member some parent by contain eight.
+Certifications

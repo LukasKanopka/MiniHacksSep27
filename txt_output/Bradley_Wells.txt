@@ -1,0 +1,20 @@
+Bradley Wells
+iroberts@example.net | 262.680.4216x80571 | Lake Angela | Philippines
+Experience
+Wright-Lucas, Technology, Large, Javascript Developer, mid, contract, 2021-02-25, 2023-11-22, N/A, Performed software testing
+and resolved bugs efficiently., Deployed applications on cloud platforms and ensured scalability., Collaborated with cross-functional
+teams to design new features., Docker, REST, Git, Agile, GitLab, Jenkins, Docker, Hernandez LLC, Technology, Large, Javascript
+Developer, junior, contract, 2018-09-16, 2022-06-25, N/A, Integrated third-party services into existing systems., Developed and
+maintained CI/CD pipelines., Deployed applications on cloud platforms and ensured scalability., Optimized application performance
+and improved user engagement., GraphQL, REST, Kanban, GitLab, Docker
+Education
+BSc, Computer Science, Javascript, Long, Deleon and Hill, Ashleyburgh, N/A, 2018-01-19, 2020-08-22, 3.42, Distributed Systems,
+Database Systems, Machine Learning
+Skills
+Python, intermediate, Go, beginner, JavaScript, intermediate, Flask, expert, Vue, beginner, React, expert, MongoDB, expert, MySQL,
+beginner, AWS, beginner, English, fluent
+Projects
+Javascript Developer Project, Created a dynamic single-page application using React that enhanced user engagement and
+streamlined client-side performance., CI/CD, Python, Java, Javascript Developer, https://salas-jensen.com/, Clearly seat family
+reality provide weight positive wall be television.
+Certifications

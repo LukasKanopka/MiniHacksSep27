@@ -1,0 +1,22 @@
+Ariel Simmons
+zblair@example.net | 661.811.5661 | Floydmouth | France
+Experience
+Dixon Ltd, Technology, Small, Javascript Developer, junior, full-time, 2021-10-24, 2022-05-23, N/A, Developed and deployed
+scalable solutions., Enhanced system security and performed regular audits., Optimized system performance and reduced latency.,
+Performed software testing and resolved bugs efficiently., Developed and maintained CI/CD pipelines., GraphQL, Scrum, Jenkins,
+Kubernetes, REST, Thompson, Keller and Wright, Technology, Medium, Javascript Developer, senior, contract, 2020-08-29,
+2025-01-17, N/A, Collaborated with cross-functional teams to design new features., Automated deployment processes and
+continuous integration., Ensured application responsiveness and seamless user experience., CI/CD, Git, Agile, Jenkins, GitLab
+Education
+BSc, Computer Science, Javascript, Martin, Robbins and Wyatt, Patriciashire, N/A, 2016-01-26, 2020-12-30, 3.41, Magna Cum
+Laude, Software Engineering, Network Security
+Skills
+Python, intermediate, Ruby, expert, C++, beginner, JavaScript, intermediate, Spring, expert, Django, intermediate, React, expert,
+MongoDB, expert, Google Cloud, beginner, English, fluent
+Projects
+Javascript Developer Project, Created a dynamic single-page application using React that enhanced user engagement and
+streamlined client-side performance., Docker, CI/CD, JavaScript, Javascript Developer, https://lee-ortiz.com/, Chance poor project
+back rock close media east from fly., Javascript Developer Project, Created a dynamic single-page application using React that
+enhanced user engagement and streamlined client-side performance., Docker, C#, JavaScript, Javascript Developer,
+http://www.nguyen.com/, Receive shake decade brother four institution beautiful site.
+Certifications

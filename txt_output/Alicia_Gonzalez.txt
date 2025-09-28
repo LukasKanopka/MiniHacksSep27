@@ -1,0 +1,24 @@
+Alicia Gonzalez
+singhelizabeth@example.org | (811)685-1873x7092 | South Alisonmouth | Marshall Islands
+Experience
+Hayes and Sons, Technology, Medium, Devops Engineer, junior, full-time, 2020-11-25, 2024-06-25, N/A, Implemented security best
+practices and data protection measures., Automated deployment processes and continuous integration., Deployed applications on
+cloud platforms and ensured scalability., Conducted system monitoring and performance tuning., Git, Kubernetes, GraphQL, Agile,
+Kubernetes, Docker, Powell-Scott, Technology, Small, Devops Engineer, senior, contract, 2020-01-01, 2023-02-16, N/A, Created
+user-centric designs and responsive web interfaces., Perfected data analysis and data visualization using Python and Tableau.,
+Conducted code reviews and mentored junior developers., Git, Agile, Docker, Docker, CI/CD, Rice, Jefferson and West, Technology,
+Large, Devops Engineer, senior, contract, 2020-05-25, 2023-10-29, N/A, Designed and implemented machine learning models.,
+Integrated third-party services into existing systems., Managed cloud infrastructure and resource allocation., Created user-centric
+designs and responsive web interfaces., Enhanced system security and performed regular audits., GraphQL, Docker, Kubernetes,
+Kanban, CI/CD, REST
+Education
+BSc, Computer Science, Devops, Mcclain, Davis and Neal, New Jeremyfurt, N/A, 2017-12-06, 2019-08-24, 3.37, Cum Laude,
+Network Security, Distributed Systems, Advanced Algorithms, Data Structures, BSc, Computer Science, Devops, Brown, Taylor and
+Woodward, Port Madisonmouth, N/A, 2017-04-20, 2019-11-22, 3.08, Database Systems, Advanced Algorithms
+Skills
+JavaScript, expert, Go, intermediate, Vue, intermediate, Oracle, intermediate, MySQL, beginner, AWS, beginner, English, fluent
+Projects
+Devops Engineer Project, Implemented automated deployment pipelines using Jenkins and Docker, reducing system downtime and
+improving release cycles., CI/CD, JavaScript, Devops Engineer, http://wood-walker.com/, Project appear interview arm small dream
+piece beyond mention interest cup away economic.
+Certifications

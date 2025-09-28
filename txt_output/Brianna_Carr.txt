@@ -1,0 +1,20 @@
+Brianna Carr
+timothy47@example.org | (959)960-0687x05831 | Hendricksfort | French Polynesia
+Experience
+Pearson and Sons, Technology, Small, Mlops Engineer, junior, internship, 2021-08-29, 2024-11-18, N/A, Optimized application
+performance and improved user engagement., Developed and maintained database schemas and queries., Implemented security
+best practices and data protection measures., Perfected data analysis and data visualization using Python and Tableau., GraphQL,
+Docker, Scrum, Kubernetes, REST, Jenkins, Morris, Burke and Hamilton, Technology, Small, Mlops Engineer, senior, contract,
+2019-03-27, 2022-08-05, N/A, Optimized application performance and improved user engagement., Optimized system performance
+and reduced latency., Implemented security best practices and data protection measures., Collaborated with cross-functional teams
+to design new features., Git, Docker, CI/CD, Scrum, Git, GitLab
+Education
+BSc, Computer Science, Mlops, Nguyen Group, New Brandi, N/A, 2016-11-16, 2021-06-08, 3.39, Cum Laude, Network Security,
+Machine Learning, Software Engineering
+Skills
+Python, beginner, C#, expert, Vue, beginner, Flask, expert, Angular, intermediate, Redis, intermediate, AWS, expert, English, fluent
+Projects
+Mlops Engineer Project, Integrated machine learning models into production systems using Docker and Kubernetes, automating
+model deployment and monitoring., Java, REST, Docker, Python, Mlops Engineer, https://www.stein.net/, Almost institution bit idea
+full but avoid parent.
+Certifications

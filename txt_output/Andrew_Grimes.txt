@@ -1,0 +1,28 @@
+Andrew Grimes
+maureenmendoza@example.com | +1-372-835-9034x177 | North Stacey | Guatemala
+Experience
+Brown, Santiago and Butler, Technology, Medium, Blockchain Developer, senior, contract, 2018-09-19, 2024-07-15, N/A, Designed
+and implemented machine learning models., Perfected data analysis and data visualization using Python and Tableau., Deployed
+applications on cloud platforms and ensured scalability., Developed and maintained CI/CD pipelines., Performed software testing and
+resolved bugs efficiently., GraphQL, Git, Kanban, GitLab, Kubernetes, Robinson Inc, Technology, Small, Blockchain Developer,
+junior, full-time, 2021-06-11, 2024-04-20, N/A, Built and maintained scalable web applications., Performed software testing and
+resolved bugs efficiently., Integrated third-party services into existing systems., Optimized application performance and improved
+user engagement., Docker, REST, Kanban, Git, Walsh-Lyons, Technology, Large, Blockchain Developer, junior, internship,
+2020-06-12, 2024-07-12, N/A, Ensured application responsiveness and seamless user experience., Implemented RESTful APIs and
+microservices., Conducted system monitoring and performance tuning., Developed and deployed scalable solutions., Perfected data
+analysis and data visualization using Python and Tableau., REST, GraphQL, Scrum, GraphQL
+Education
+BSc, Computer Science, Blockchain, Hall-Hardy, Lake Josephchester, N/A, 2017-07-28, 2021-02-04, 3.92, Magna Cum Laude,
+Advanced Algorithms, Network Security, Software Engineering, Database Systems, MSc, Computer Science, Blockchain, Williams
+LLC, Phamside, N/A, 2018-01-24, 2020-10-08, 3.12, Network Security, Advanced Algorithms, Database Systems, Software
+Engineering
+Skills
+Ruby, beginner, Java, expert, Python, beginner, Solidity, intermediate, React, intermediate, Vue, beginner, Redis, expert,
+PostgreSQL, expert, Azure, intermediate, English, fluent
+Projects
+Blockchain Developer Project, Created smart contracts on the Ethereum blockchain, enabling secure and transparent transactions
+for a decentralized application., Kubernetes, C++, Blockchain Developer, https://www.willis.biz/, Stop relate loss sense around
+people its know television condition interest discuss much start town., Blockchain Developer Project, Created smart contracts on the
+Ethereum blockchain, enabling secure and transparent transactions for a decentralized application., CI/CD, Docker, Blockchain
+Developer, http://bray.com/, Style yeah try fact without western finally.
+Certifications

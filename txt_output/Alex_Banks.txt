@@ -1,0 +1,22 @@
+Alex Banks
+lhopkins@example.com | +1-408-718-6956x241 | Port Ryan | Ireland
+Experience
+Williams-Holder, Technology, Large, Full Stack Developer, mid, internship, 2019-07-23, 2022-09-03, N/A, Designed and
+implemented machine learning models., Implemented RESTful APIs and microservices., Performed software testing and resolved
+bugs efficiently., Enhanced system security and performed regular audits., Built and maintained scalable web applications., CI/CD,
+REST, Kubernetes, Kanban, Git, GitLab, Cunningham, Randall and Wilson, Technology, Large, Full Stack Developer, senior,
+internship, 2019-03-12, 2023-04-30, N/A, Implemented RESTful APIs and microservices., Designed and implemented machine
+learning models., Built and maintained scalable web applications., Conducted system monitoring and performance tuning.,
+Automated data processing pipelines., REST, Scrum, REST
+Education
+BSc, Computer Science, Full, Pace-Sparks, Nicoleburgh, N/A, 2017-12-10, 2023-01-20, 3.71, Dean's List, Database Systems, Data
+Structures, BSc, Computer Science, Full, Donovan PLC, Drakebury, N/A, 2018-04-08, 2020-12-22, 2.76, Dean's List, Network
+Security, Software Engineering, Data Structures
+Skills
+Go, intermediate, C++, beginner, Python, expert, JavaScript, intermediate, Vue, intermediate, React, intermediate, Oracle, beginner,
+PostgreSQL, intermediate, AWS, intermediate, English, fluent
+Projects
+Full Stack Developer Project, Developed end-to-end web applications using React and Django, providing seamless user experiences
+and robust backend functionality., JavaScript, CI/CD, Full Stack Developer, https://www.bailey-hernandez.com/, Every sign data
+according give too environmental sea.
+Certifications

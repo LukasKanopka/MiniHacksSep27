@@ -1,0 +1,21 @@
+Ashley Herman
+christopher96@example.org | +1-371-992-7813x146 | Mayoborough | Fiji
+Experience
+Nelson, Clark and Cole, Technology, Small, Full Stack Developer, mid, full-time, 2020-04-18, 2022-04-10, N/A, Collaborated with
+cross-functional teams to design new features., Conducted code reviews and mentored junior developers., Enhanced system
+security and performed regular audits., Optimized application performance and improved user engagement., Built and maintained
+scalable web applications., Kubernetes, Scrum, Kubernetes, Jenkins
+Education
+BSc, Computer Science, Full, Clark-Cross, North Kimberlystad, N/A, 2017-02-27, 2021-11-13, 3.43, Distributed Systems, Network
+Security, Advanced Algorithms, Machine Learning, MSc, Computer Science, Full, Bridges PLC, Lake Ericland, N/A, 2016-06-28,
+2019-12-15, 2.78, Dean's List, Network Security, Distributed Systems, Machine Learning, Advanced Algorithms
+Skills
+Java, expert, C#, beginner, JavaScript, intermediate, Vue, expert, React, intermediate, Spring, expert, MySQL, expert, PostgreSQL,
+expert, Google Cloud, intermediate, English, fluent
+Projects
+Full Stack Developer Project, Developed end-to-end web applications using React and Django, providing seamless user experiences
+and robust backend functionality., GraphQL, C++, CI/CD, Java, Full Stack Developer, http://fitzgerald.com/, Argue just visit must fear
+both door bag current without discuss board let., Full Stack Developer Project, Developed end-to-end web applications using React
+and Django, providing seamless user experiences and robust backend functionality., C#, Go, CI/CD, Full Stack Developer,
+http://www.ward.com/, South resource necessary dark wife choose lay matter finish south heart apply war lay room.
+Certifications

@@ -1,0 +1,24 @@
+Brian Little
+hbecker@example.net | +1-605-964-0624x59366 | Port Alejandra | Serbia
+Experience
+Martin Ltd, Technology, Large, Blockchain Developer, senior, full-time, 2021-11-01, 2022-08-14, N/A, Implemented security best
+practices and data protection measures., Conducted code reviews and mentored junior developers., Automated deployment
+processes and continuous integration., Developed and maintained database schemas and queries., Developed and maintained
+CI/CD pipelines., Kubernetes, Git, Scrum, GitLab, GraphQL, Young-Jackson, Technology, Small, Blockchain Developer, mid,
+full-time, 2019-06-18, 2024-10-12, N/A, Deployed applications on cloud platforms and ensured scalability., Utilized version control
+effectively in a team environment., Built and maintained scalable web applications., Docker, REST, Scrum, GraphQL, Git, Scott and
+Sons, Technology, Small, Blockchain Developer, mid, full-time, 2019-09-26, 2024-12-19, N/A, Developed and maintained database
+schemas and queries., Developed and maintained CI/CD pipelines., Utilized version control effectively in a team environment.,
+Performed software testing and resolved bugs efficiently., Optimized system performance and reduced latency., Docker, CI/CD,
+Agile, REST, Git, Docker
+Education
+BSc, Computer Science, Blockchain, Torres Inc, Frenchhaven, N/A, 2015-08-05, 2019-08-08, 3.6, Database Systems, Data
+Structures
+Skills
+C#, intermediate, Java, expert, Solidity, intermediate, Node.js, beginner, MySQL, expert, MongoDB, expert, AWS, beginner, English,
+fluent
+Projects
+Blockchain Developer Project, Created smart contracts on the Ethereum blockchain, enabling secure and transparent transactions
+for a decentralized application., C++, REST, GraphQL, Blockchain Developer, http://www.wood.net/, Respond accept suffer some
+ahead project improve probably every energy.
+Certifications

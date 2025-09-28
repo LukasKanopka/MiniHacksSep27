@@ -1,0 +1,22 @@
+Andrew Ray
+melissadiaz@example.net | +1-853-569-3957 | Lake Cynthiatown | Malawi
+Experience
+Hicks Inc, Technology, Small, Frontend Developer, mid, full-time, 2018-06-10, 2022-05-19, N/A, Optimized application performance
+and improved user engagement., Implemented RESTful APIs and microservices., Utilized version control effectively in a team
+environment., Automated deployment processes and continuous integration., Performed software testing and resolved bugs
+efficiently., Git, Kanban, Docker, REST, Williamson LLC, Technology, Medium, Frontend Developer, senior, full-time, 2020-01-16,
+2024-05-31, N/A, Enhanced system security and performed regular audits., Optimized system performance and reduced latency.,
+Created user-centric designs and responsive web interfaces., Collaborated with cross-functional teams to design new features.,
+REST, Kanban, Git
+Education
+BSc, Computer Science, Frontend, Thomas-Black, Josefurt, N/A, 2015-06-28, 2022-08-23, 3.65, Distributed Systems, Machine
+Learning, Network Security, Advanced Algorithms, MSc, Computer Science, Frontend, Atkins-Rodgers, Jenkinshaven, N/A,
+2016-05-06, 2022-01-11, 3.54, Magna Cum Laude, Data Structures, Machine Learning
+Skills
+C#, beginner, JavaScript, intermediate, Angular, expert, Spring, beginner, React, intermediate, PostgreSQL, beginner, Redis,
+beginner, Azure, beginner, English, fluent
+Projects
+Frontend Developer Project, Memory admit leave fish poor radio. From well something speech fast red page. Any pick sea form trial
+assume avoid difference. Reduce paper word brother American long. Stop edge according two rich type couple., Docker, C#, C++,
+Java, Frontend Developer, http://www.campbell-king.com/, Deal structure too appear reach staff matter pay feeling major bar.
+Certifications

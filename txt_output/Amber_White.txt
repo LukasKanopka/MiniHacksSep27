@@ -1,0 +1,24 @@
+Amber White
+ktrujillo@example.com | 755-991-6026x1357 | Marissabury | Saint Kitts and Nevis
+Experience
+Torres-Cook, Technology, Small, Android Developer, junior, full-time, 2021-05-01, 2024-05-02, N/A, Deployed applications on cloud
+platforms and ensured scalability., Developed and maintained database schemas and queries., Automated data processing
+pipelines., Kubernetes, Git, Kanban, Kubernetes, CI/CD, Docker, White-Austin, Technology, Medium, Android Developer, mid,
+full-time, 2018-07-05, 2023-09-27, N/A, Conducted code reviews and mentored junior developers., Enhanced system security and
+performed regular audits., Performed software testing and resolved bugs efficiently., REST, Docker, CI/CD, Agile, Kubernetes,
+REST, Tucker-Lambert, Technology, Large, Android Developer, mid, internship, 2018-02-25, 2022-09-05, N/A, Deployed
+applications on cloud platforms and ensured scalability., Automated deployment processes and continuous integration., Managed
+cloud infrastructure and resource allocation., Git, CI/CD, GraphQL, Scrum, Docker, Docker
+Education
+BSc, Computer Science, Android, James-Williams, Randystad, N/A, 2015-05-05, 2022-04-19, 2.68, Dean's List, Advanced
+Algorithms, Data Structures, MSc, Computer Science, Android, Wilson Group, Lake Christopher, N/A, 2015-12-20, 2021-08-13, 2.51,
+Database Systems, Data Structures, Network Security, Software Engineering
+Skills
+C#, expert, Java, intermediate, Vue, intermediate, Flask, expert, Oracle, intermediate, Azure, expert, English, fluent
+Projects
+Android Developer Project, Developed a high-performance Android app using Kotlin that achieved 1 million downloads on the Google
+Play Store and received positive user reviews., JavaScript, Kubernetes, C#, Android Developer, http://www.malone-bryant.com/,
+Agency wind forget anyone fly hear itself from., Android Developer Project, Developed a high-performance Android app using Kotlin
+that achieved 1 million downloads on the Google Play Store and received positive user reviews., Go, CI/CD, Ruby, C++, Android
+Developer, http://www.gomez-hall.com/, Table likely discover community discuss front parent everything air job.
+Certifications

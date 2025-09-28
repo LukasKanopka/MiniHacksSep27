@@ -1,0 +1,24 @@
+Amy Blackwell
+thall@example.net | 2143612884 | West Samantha | Anguilla
+Experience
+Riggs, Gonzales and Brooks, Technology, Large, Solutions Architect, senior, internship, 2020-04-23, 2022-06-05, N/A, Ensured
+application responsiveness and seamless user experience., Conducted system monitoring and performance tuning., Implemented
+RESTful APIs and microservices., Kubernetes, Scrum, Jenkins, Docker, Garrett Inc, Technology, Medium, Solutions Architect, mid,
+contract, 2020-01-23, 2024-10-09, N/A, Managed cloud infrastructure and resource allocation., Created user-centric designs and
+responsive web interfaces., Implemented RESTful APIs and microservices., CI/CD, Kubernetes, Agile, Git, Jenkins, REST, Fischer,
+Finley and Freeman, Technology, Medium, Solutions Architect, mid, internship, 2021-11-12, 2022-06-22, N/A, Managed cloud
+infrastructure and resource allocation., Developed and maintained CI/CD pipelines., Enhanced system security and performed
+regular audits., Ensured application responsiveness and seamless user experience., Kubernetes, Git, Docker, Kanban, Kubernetes,
+Docker
+Education
+BSc, Computer Science, Solutions, Crawford Group, East Leefort, N/A, 2015-05-17, 2019-08-11, 3.06, Data Structures, Network
+Security, Advanced Algorithms, MSc, Computer Science, Solutions, Schmidt Group, New Noah, N/A, 2018-02-26, 2019-04-18, 3.3,
+Advanced Algorithms, Software Engineering
+Skills
+Go, expert, C#, intermediate, Python, intermediate, Vue, beginner, Angular, expert, Django, intermediate, MongoDB, beginner, AWS,
+expert, English, fluent
+Projects
+Solutions Architect Project, Designed and implemented a comprehensive solution architecture for an enterprise system, improving
+system scalability and reliability., Python, REST, JavaScript, Solutions Architect, https://www.fisher.com/, Moment central film real
+heart over onto.
+Certifications

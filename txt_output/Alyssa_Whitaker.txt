@@ -1,0 +1,27 @@
+Alyssa Whitaker
+jacobsonmichael@example.org | 384.262.9854x2745 | Port Todd | France
+Experience
+Carr Group, Technology, Small, Database Administrator, senior, internship, 2018-12-24, 2023-04-24, N/A, Developed and
+maintained CI/CD pipelines., Implemented RESTful APIs and microservices., Built and maintained scalable web applications.,
+Docker, Kubernetes, GraphQL, Agile, CI/CD, GitLab, Wise-Owen, Technology, Large, Database Administrator, mid, contract,
+2018-10-25, 2025-02-16, N/A, Developed and maintained CI/CD pipelines., Created user-centric designs and responsive web
+interfaces., Automated data processing pipelines., CI/CD, Git, Kanban, CI/CD, Docker, Higgins and Sons, Technology, Small,
+Database Administrator, mid, contract, 2018-11-18, 2024-02-20, N/A, Perfected data analysis and data visualization using Python
+and Tableau., Integrated third-party services into existing systems., Utilized version control effectively in a team environment.,
+Optimized application performance and improved user engagement., Optimized system performance and reduced latency., Docker,
+Kanban, Git
+Education
+BSc, Computer Science, Database, Ortega Inc, Andrewchester, N/A, 2017-11-12, 2022-01-29, 3.6, Dean's List, Data Structures,
+Software Engineering, Network Security, Distributed Systems, MSc, Computer Science, Database, Moore-Mitchell, South Matthew,
+N/A, 2018-03-31, 2019-05-31, 3.67, Cum Laude, Advanced Algorithms, Database Systems, Distributed Systems
+Skills
+Python, beginner, C++, intermediate, SQL, intermediate, Django, expert, Spring, intermediate, Oracle, expert, AWS, beginner,
+English, fluent
+Projects
+Database Administrator Project, Optimized database performance by 40% through query optimization and database tuning, ensuring
+seamless data retrieval and storage., Go, Ruby, Database Administrator, http://www.williamson-flores.com/, Piece campaign rich
+better bring little money think if understand since., Database Administrator Project, Optimized database performance by 40% through
+query optimization and database tuning, ensuring seamless data retrieval and storage., Kubernetes, GraphQL, Python, Docker,
+Database Administrator, http://www.campos.com/, Carry high main respond treatment thank himself yes nor increase deep structure
+visit know.
+Certifications

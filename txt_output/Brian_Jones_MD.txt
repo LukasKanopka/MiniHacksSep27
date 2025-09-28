@@ -1,0 +1,23 @@
+Brian Jones MD
+alyssaprice@example.net | 968-756-4847x7687 | Rosstown | Senegal
+Experience
+Rollins Inc, Technology, Medium, Kubernetes Engineer, junior, contract, 2021-03-25, 2024-11-12, N/A, Developed and deployed
+scalable solutions., Collaborated with cross-functional teams to design new features., Designed and implemented machine learning
+models., Performed software testing and resolved bugs efficiently., Docker, GraphQL, REST, Agile, Docker, Kubernetes, Santiago,
+Williamson and Mathis, Technology, Medium, Kubernetes Engineer, senior, full-time, 2018-05-19, 2022-09-09, N/A, Created
+user-centric designs and responsive web interfaces., Performed software testing and resolved bugs efficiently., Implemented security
+best practices and data protection measures., GraphQL, Scrum, REST, Jenkins, Git, Alvarez, Williams and Miller, Technology,
+Small, Kubernetes Engineer, mid, internship, 2019-03-06, 2024-12-20, N/A, Implemented security best practices and data protection
+measures., Designed and implemented machine learning models., Ensured application responsiveness and seamless user
+experience., CI/CD, GraphQL, Agile, Docker, CI/CD, GraphQL
+Education
+MSc, Computer Science, Kubernetes, Taylor-Cantrell, New Dawn, N/A, 2016-02-16, 2020-05-21, 3.44, Magna Cum Laude, Machine
+Learning, Network Security, MSc, Computer Science, Kubernetes, Rojas Ltd, Gabrielfort, N/A, 2018-03-18, 2020-10-05, 3.82, Dean's
+List, Data Structures, Advanced Algorithms, Distributed Systems
+Skills
+C++, beginner, C#, intermediate, Ruby, expert, React, intermediate, MySQL, expert, Google Cloud, expert, English, fluent
+Projects
+Kubernetes Engineer Project, Managed Kubernetes clusters for container orchestration, improving system reliability and enabling
+seamless deployment of microservices., CI/CD, C++, Kubernetes Engineer, http://www.palmer.com/, Grow responsibility way theory
+general say game short argue window partner maintain process box.
+Certifications

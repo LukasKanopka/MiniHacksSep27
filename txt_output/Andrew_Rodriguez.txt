@@ -1,0 +1,24 @@
+Andrew Rodriguez
+pruittjeffery@example.com | +1-761-327-0140x589 | Pageport | Spain
+Experience
+Miller Inc, Technology, Large, Database Administrator, mid, full-time, 2020-07-17, 2024-12-08, N/A, Developed and maintained
+CI/CD pipelines., Created user-centric designs and responsive web interfaces., Automated deployment processes and continuous
+integration., Developed and deployed scalable solutions., Conducted code reviews and mentored junior developers., Kubernetes,
+Agile, Kubernetes, Holloway LLC, Technology, Medium, Database Administrator, junior, internship, 2019-10-07, 2023-07-06, N/A,
+Designed and implemented machine learning models., Developed and maintained CI/CD pipelines., Created user-centric designs
+and responsive web interfaces., Ensured application responsiveness and seamless user experience., GraphQL, Kubernetes, CI/CD,
+Scrum, Kubernetes, GraphQL
+Education
+MSc, Computer Science, Database, White, Martin and Myers, North Samantha, N/A, 2018-03-10, 2019-08-03, 2.95, Cum Laude,
+Database Systems, Network Security
+Skills
+C++, intermediate, Python, expert, SQL, intermediate, Spring, intermediate, Node.js, beginner, MySQL, intermediate, MongoDB,
+expert, AWS, expert, English, fluent
+Projects
+Database Administrator Project, Optimized database performance by 40% through query optimization and database tuning, ensuring
+seamless data retrieval and storage., C#, REST, Database Administrator, https://wise-greer.org/, Mouth blue fact black ability
+morning place population fine simply opportunity responsibility investment establish and spend., Database Administrator Project,
+Optimized database performance by 40% through query optimization and database tuning, ensuring seamless data retrieval and
+storage., C++, GraphQL, Java, Database Administrator, http://www.williams.com/, Read science better hospital conference executive
+letter threat.
+Certifications

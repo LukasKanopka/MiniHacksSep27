@@ -1,0 +1,16 @@
+Benjamin Harris
+rasmussenjeffrey@example.org | (829)336-3894x93930 | South Wendyberg | Bulgaria
+Experience
+Sanders-Turner, Technology, Large, Full Stack Developer, mid, contract, 2020-02-25, 2022-10-21, N/A, Designed and implemented
+machine learning models., Developed and maintained database schemas and queries., Built and maintained scalable web
+applications., Conducted system monitoring and performance tuning., Docker, GraphQL, REST, Scrum, Git
+Education
+MSc, Computer Science, Full, Ball-Cooper, North Holly, N/A, 2018-02-12, 2020-03-26, 3.87, Magna Cum Laude, Distributed
+Systems, Network Security, Software Engineering
+Skills
+Java, expert, JavaScript, beginner, Spring, beginner, React, intermediate, Oracle, beginner, Google Cloud, expert, English, fluent
+Projects
+Full Stack Developer Project, Developed end-to-end web applications using React and Django, providing seamless user experiences
+and robust backend functionality., Git, C#, Full Stack Developer, http://www.schwartz.com/, These somebody game other oil each
+we.
+Certifications

@@ -1,0 +1,20 @@
+Anthony Mcdonald
+vmoore@example.net | (314)957-0377 | Pattersonshire | Bulgaria
+Experience
+Buck-Clark, Technology, Large, Qa Engineer, mid, internship, 2019-09-14, 2025-02-10, N/A, Developed and maintained CI/CD
+pipelines., Deployed applications on cloud platforms and ensured scalability., Collaborated with cross-functional teams to design new
+features., Built and maintained scalable web applications., GraphQL, REST, Kanban, Git, Docker, Logan-Davis, Technology, Small,
+Qa Engineer, mid, full-time, 2020-01-12, 2022-06-11, N/A, Developed and maintained CI/CD pipelines., Automated data processing
+pipelines., Performed software testing and resolved bugs efficiently., Built and maintained scalable web applications., Developed and
+maintained database schemas and queries., Docker, Git, REST, Kanban, CI/CD
+Education
+BSc, Computer Science, Qa, Horton, Jefferson and Porter, New Jason, N/A, 2016-02-22, 2020-01-01, 3.8, Cum Laude, Network
+Security, Database Systems, Distributed Systems, Data Structures
+Skills
+Java, beginner, Python, beginner, Vue, expert, PostgreSQL, expert, Azure, expert, English, fluent
+Projects
+Qa Engineer Project, Automated test scripts using Selenium and Python, reducing manual testing efforts and improving software
+quality., Go, C#, Java, Git, Qa Engineer, http://www.walsh.org/, Five audience power instead apply live return beat., Qa Engineer
+Project, Automated test scripts using Selenium and Python, reducing manual testing efforts and improving software quality., CI/CD,
+C#, Qa Engineer, https://www.moore-bryan.com/, Protect full heavy sport number newspaper as never about.
+Certifications

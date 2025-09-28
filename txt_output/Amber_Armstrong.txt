@@ -1,0 +1,28 @@
+Amber Armstrong
+hatfielddaniel@example.com | 971.865.2878 | Stevenmouth | Barbados
+Experience
+Bennett Inc, Technology, Small, Android Developer, junior, contract, 2018-04-18, 2022-08-17, N/A, Deployed applications on cloud
+platforms and ensured scalability., Optimized system performance and reduced latency., Created user-centric designs and
+responsive web interfaces., Implemented security best practices and data protection measures., Managed cloud infrastructure and
+resource allocation., GraphQL, Kubernetes, Kanban, Jenkins, Docker, GraphQL, Bass, Conley and Wilson, Technology, Large,
+Android Developer, junior, contract, 2018-05-18, 2024-02-27, N/A, Utilized version control effectively in a team environment.,
+Collaborated with cross-functional teams to design new features., Designed and implemented machine learning models.,
+Implemented RESTful APIs and microservices., Conducted code reviews and mentored junior developers., Docker, REST, Kanban,
+Kubernetes, Pearson Ltd, Technology, Small, Android Developer, senior, contract, 2019-09-03, 2022-10-13, N/A, Ensured
+application responsiveness and seamless user experience., Conducted system monitoring and performance tuning., Optimized
+application performance and improved user engagement., Conducted code reviews and mentored junior developers., Git, Agile,
+Docker, Jenkins
+Education
+MSc, Computer Science, Android, Jensen, Brown and Murray, South Amanda, N/A, 2016-01-13, 2021-03-06, 3.49, Software
+Engineering, Data Structures, Database Systems, MSc, Computer Science, Android, Hart LLC, Brianfurt, N/A, 2018-07-28,
+2020-05-09, 3.12, Advanced Algorithms, Data Structures
+Skills
+Go, beginner, C#, beginner, Java, expert, Flask, intermediate, Oracle, beginner, PostgreSQL, intermediate, AWS, expert, English,
+fluent
+Projects
+Android Developer Project, Developed a high-performance Android app using Kotlin that achieved 1 million downloads on the Google
+Play Store and received positive user reviews., C#, Git, Android Developer, http://www.gonzalez.com/, Right herself produce perform
+modern really put ask rise including., Android Developer Project, Developed a high-performance Android app using Kotlin that
+achieved 1 million downloads on the Google Play Store and received positive user reviews., GraphQL, Java, Android Developer,
+http://www.shaffer.com/, Increase media discussion last kind dream win order assume the.
+Certifications

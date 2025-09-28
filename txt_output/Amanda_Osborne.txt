@@ -1,0 +1,21 @@
+Amanda Osborne
+kingram@example.com | 736.739.8959x77593 | Lambertfort | Iceland
+Experience
+Zimmerman Group, Technology, Small, Penetration Tester, senior, contract, 2021-01-31, 2022-05-24, N/A, Built and maintained
+scalable web applications., Performed software testing and resolved bugs efficiently., Automated deployment processes and
+continuous integration., Kubernetes, Docker, Agile, Git
+Education
+MSc, Computer Science, Penetration, Martin-Santiago, East Christopher, N/A, 2015-08-29, 2019-04-21, 3.0, Data Structures,
+Database Systems, Distributed Systems, BSc, Computer Science, Penetration, Harrison, Walter and Gutierrez, North Jeffery, N/A,
+2015-10-21, 2021-09-06, 3.84, Cum Laude, Network Security, Data Structures, Machine Learning, Database Systems
+Skills
+Ruby, expert, Go, expert, Python, intermediate, Vue, expert, React, intermediate, Flask, intermediate, MySQL, intermediate, AWS,
+intermediate, English, fluent
+Projects
+Penetration Tester Project, Conducted penetration tests and vulnerability assessments, identifying security weaknesses and
+providing recommendations for improved security measures., GraphQL, CI/CD, C++, Penetration Tester,
+https://www.brennan-graham.info/, Property usually section pay rich success pass single central., Penetration Tester Project,
+Conducted penetration tests and vulnerability assessments, identifying security weaknesses and providing recommendations for
+improved security measures., Python, C++, C#, Git, Penetration Tester, https://www.torres-davis.com/, How music add team hotel
+visit sing song better reveal quite financial blood PM.
+Certifications

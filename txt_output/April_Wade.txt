@@ -1,0 +1,26 @@
+April Wade
+hmcdaniel@example.org | 261-845-1799 | Morrowberg | Samoa
+Experience
+Young-Moss, Technology, Large, Penetration Tester, mid, full-time, 2021-08-06, 2025-02-13, N/A, Automated data processing
+pipelines., Developed and deployed scalable solutions., Utilized version control effectively in a team environment., Developed and
+maintained CI/CD pipelines., GraphQL, Kubernetes, CI/CD, Scrum, CI/CD, Docker, Kubernetes, Leonard and Sons, Technology,
+Large, Penetration Tester, mid, internship, 2018-11-10, 2024-06-15, N/A, Managed cloud infrastructure and resource allocation.,
+Developed and maintained CI/CD pipelines., Integrated third-party services into existing systems., Performed software testing and
+resolved bugs efficiently., Developed and maintained database schemas and queries., Kubernetes, Scrum, GraphQL, Docker,
+Huffman, Stephens and Reed, Technology, Large, Penetration Tester, senior, full-time, 2019-09-08, 2023-02-17, N/A, Managed
+cloud infrastructure and resource allocation., Developed and maintained database schemas and queries., Deployed applications on
+cloud platforms and ensured scalability., Enhanced system security and performed regular audits., Perfected data analysis and data
+visualization using Python and Tableau., Git, Docker, REST, Agile, Docker, Docker
+Education
+MSc, Computer Science, Penetration, Richardson Group, Lake Andrealand, N/A, 2017-05-18, 2021-03-29, 2.56, Cum Laude,
+Software Engineering, Database Systems, Distributed Systems, Machine Learning, MSc, Computer Science, Penetration, Cowan,
+Rodriguez and Munoz, South Anthonyside, N/A, 2015-07-05, 2022-07-24, 3.18, Dean's List, Distributed Systems, Advanced
+Algorithms, Network Security, Machine Learning
+Skills
+Ruby, beginner, C++, intermediate, C#, beginner, Python, intermediate, Flask, intermediate, MySQL, intermediate, Google Cloud,
+beginner, English, fluent
+Projects
+Penetration Tester Project, Conducted penetration tests and vulnerability assessments, identifying security weaknesses and
+providing recommendations for improved security measures., Java, Python, JavaScript, Penetration Tester, https://key.com/, Few
+sound meeting week mean travel available apply six near find.
+Certifications

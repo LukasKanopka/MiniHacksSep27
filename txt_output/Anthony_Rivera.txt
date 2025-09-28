@@ -1,0 +1,24 @@
+Anthony Rivera
+boyderic@example.net | 400-779-0054x37163 | Amandastad | Sweden
+Experience
+Washington-Russell, Technology, Medium, Deep Learning Engineer, junior, contract, 2021-05-24, 2024-11-07, N/A, Perfected data
+analysis and data visualization using Python and Tableau., Performed software testing and resolved bugs efficiently., Built and
+maintained scalable web applications., Ensured application responsiveness and seamless user experience., Developed and
+maintained CI/CD pipelines., CI/CD, Kanban, Docker, Bennett PLC, Technology, Large, Deep Learning Engineer, mid, internship,
+2019-04-20, 2025-02-14, N/A, Optimized application performance and improved user engagement., Automated data processing
+pipelines., Ensured application responsiveness and seamless user experience., Deployed applications on cloud platforms and
+ensured scalability., Performed software testing and resolved bugs efficiently., GraphQL, Kanban, Git, CI/CD, Docker
+Education
+BSc, Computer Science, Deep, Jacobs-Henry, Morganborough, N/A, 2015-03-28, 2019-06-02, 2.97, Magna Cum Laude, Network
+Security, Software Engineering, Data Structures, Machine Learning, BSc, Computer Science, Deep, Ward-Cooper, New Crystal, N/A,
+2016-10-02, 2020-05-26, 2.64, Dean's List, Advanced Algorithms, Software Engineering, Machine Learning
+Skills
+Java, beginner, Python, intermediate, Django, expert, Angular, beginner, Vue, expert, Redis, beginner, PostgreSQL, intermediate,
+Azure, intermediate, English, fluent
+Projects
+Deep Learning Engineer Project, Developed deep learning models for image recognition, achieving 95% accuracy and enabling
+real-time object detection in video streams., C#, Go, Deep Learning Engineer, http://www.dennis.com/, Service table receive push
+own management trouble nearly road raise consumer., Deep Learning Engineer Project, Developed deep learning models for image
+recognition, achieving 95% accuracy and enabling real-time object detection in video streams., Git, GraphQL, Deep Learning
+Engineer, https://rogers.com/, Lead plant doctor inside answer all teacher peace trial these national government.
+Certifications

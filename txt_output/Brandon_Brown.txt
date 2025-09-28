@@ -1,0 +1,24 @@
+Brandon Brown
+michellebenitez@example.org | 585.434.7811 | New Anne | Belize
+Experience
+Brooks Group, Technology, Medium, Nosql Developer, senior, full-time, 2020-08-31, 2024-07-08, N/A, Implemented RESTful APIs
+and microservices., Ensured application responsiveness and seamless user experience., Conducted code reviews and mentored
+junior developers., Perfected data analysis and data visualization using Python and Tableau., Optimized application performance and
+improved user engagement., Git, Kanban, CI/CD, REST, GitLab, Long Group, Technology, Large, Nosql Developer, mid, full-time,
+2021-02-21, 2023-12-29, N/A, Built and maintained scalable web applications., Collaborated with cross-functional teams to design
+new features., Created user-centric designs and responsive web interfaces., Automated deployment processes and continuous
+integration., Implemented security best practices and data protection measures., Kubernetes, Git, CI/CD, Scrum, Git, GitLab, REST,
+May-Luna, Technology, Medium, Nosql Developer, senior, contract, 2021-07-29, 2023-05-26, N/A, Conducted code reviews and
+mentored junior developers., Created user-centric designs and responsive web interfaces., Designed and implemented machine
+learning models., GraphQL, Git, Scrum, Docker
+Education
+BSc, Computer Science, Nosql, Gonzalez, Mercer and Smith, South Julia, N/A, 2015-10-29, 2019-03-03, 2.95, Network Security,
+Data Structures, MSc, Computer Science, Nosql, Carter, Jones and Olsen, Port Janetburgh, N/A, 2018-01-27, 2022-07-14, 3.75,
+Dean's List, Advanced Algorithms, Distributed Systems, Software Engineering
+Skills
+Python, expert, NoSQL, intermediate, Angular, beginner, Vue, expert, Redis, beginner, Google Cloud, beginner, English, fluent
+Projects
+Nosql Developer Project, Implemented NoSQL databases for scalability and flexibility in handling large data sets, reducing storage
+costs by 25%., REST, Docker, Kubernetes, Git, Nosql Developer, http://www.strong-sandoval.com/, Line lay pull any strategy arrive
+husband along seek commercial tonight dog employee game third.
+Certifications

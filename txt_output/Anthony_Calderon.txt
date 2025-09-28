@@ -1,0 +1,18 @@
+Anthony Calderon
+patrick55@example.org | (542)978-8445 | Mendozaport | Nauru
+Experience
+Richmond, Miller and Butler, Technology, Small, Cybersecurity Engineer, senior, full-time, 2020-10-02, 2023-10-19, N/A, Conducted
+code reviews and mentored junior developers., Perfected data analysis and data visualization using Python and Tableau.,
+Implemented security best practices and data protection measures., Collaborated with cross-functional teams to design new
+features., Ensured application responsiveness and seamless user experience., CI/CD, Kubernetes, Agile, Jenkins
+Education
+BSc, Computer Science, Cybersecurity, Boyer-Myers, West Dawn, N/A, 2015-11-03, 2021-02-02, 3.91, Cum Laude, Distributed
+Systems, Machine Learning, Data Structures, BSc, Computer Science, Cybersecurity, Grant-Kelly, Penningtonmouth, N/A,
+2015-09-11, 2022-12-26, 2.69, Cum Laude, Machine Learning, Database Systems, Advanced Algorithms, Software Engineering
+Skills
+JavaScript, beginner, C++, beginner, Python, intermediate, Node.js, intermediate, MySQL, beginner, AWS, expert, English, fluent
+Projects
+Cybersecurity Engineer Project, Conducted security assessments and implemented security controls, reducing security
+vulnerabilities by 60% and enhancing system security., Ruby, C#, REST, Cybersecurity Engineer, https://wiley-le.com/, Thank
+produce down human call individual person boy.
+Certifications

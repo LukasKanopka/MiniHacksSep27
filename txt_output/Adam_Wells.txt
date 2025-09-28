@@ -1,0 +1,21 @@
+Adam Wells
+rjimenez@example.com | +1-211-411-1605x7253 | East Lindseybury | Mayotte
+Experience
+Hooper and Sons, Technology, Large, Backend Developer, senior, full-time, 2018-10-27, 2023-03-25, N/A, Automated data
+processing pipelines., Deployed applications on cloud platforms and ensured scalability., Developed and maintained CI/CD
+pipelines., Developed and maintained database schemas and queries., Kubernetes, GraphQL, Kanban, Docker, REST
+Education
+MSc, Computer Science, Backend, Riley, Parker and Gomez, Michaelmouth, N/A, 2017-01-19, 2021-06-15, 2.96, Advanced
+Algorithms, Network Security, MSc, Computer Science, Backend, Martinez PLC, Jasonborough, N/A, 2018-06-10, 2022-05-06, 3.64,
+Data Structures, Machine Learning, Software Engineering
+Skills
+C#, beginner, Python, beginner, Java, intermediate, Django, intermediate, Angular, beginner, Oracle, expert, Redis, beginner, AWS,
+expert, English, fluent
+Projects
+Backend Developer Project, Built scalable backend systems using Python and Django, enabling efficient data processing and
+seamless integration with front-end applications., Java, GraphQL, Backend Developer, http://www.little-payne.info/, Behind site enter
+key plan letter marriage poor movement son hold avoid new through artist., Backend Developer Project, Built scalable backend
+systems using Python and Django, enabling efficient data processing and seamless integration with front-end applications.,
+Kubernetes, C#, Java, CI/CD, Backend Developer, http://www.davis.com/, Skill look stock use run white four talk mean hard
+maintain.
+Certifications

@@ -1,0 +1,24 @@
+Benjamin Montes
+gene62@example.org | 637-518-2402 | Josephstad | Iceland
+Experience
+Pacheco-Crawford, Technology, Medium, Nosql Developer, junior, full-time, 2019-04-28, 2023-06-20, N/A, Enhanced system
+security and performed regular audits., Performed software testing and resolved bugs efficiently., Conducted code reviews and
+mentored junior developers., Managed cloud infrastructure and resource allocation., GraphQL, Docker, Scrum, Git, Jenkins,
+Perez-Weber, Technology, Large, Nosql Developer, junior, full-time, 2019-08-19, 2022-09-23, N/A, Ensured application
+responsiveness and seamless user experience., Automated data processing pipelines., Conducted system monitoring and
+performance tuning., GraphQL, REST, Kanban, Jenkins, CI/CD, Git, Brown-Maldonado, Technology, Small, Nosql Developer, senior,
+full-time, 2019-10-18, 2023-04-09, N/A, Collaborated with cross-functional teams to design new features., Integrated third-party
+services into existing systems., Conducted code reviews and mentored junior developers., Conducted system monitoring and
+performance tuning., Enhanced system security and performed regular audits., Kubernetes, Scrum, REST
+Education
+MSc, Computer Science, Nosql, Johnson Inc, Karenport, N/A, 2018-04-26, 2020-08-08, 3.83, Database Systems, Software
+Engineering, MSc, Computer Science, Nosql, Crawford-Cummings, Lake Courtneyside, N/A, 2017-10-26, 2022-10-04, 2.75, Cum
+Laude, Data Structures, Advanced Algorithms
+Skills
+Java, intermediate, NoSQL, intermediate, Angular, intermediate, React, beginner, PostgreSQL, expert, AWS, intermediate, English,
+fluent
+Projects
+Nosql Developer Project, Implemented NoSQL databases for scalability and flexibility in handling large data sets, reducing storage
+costs by 25%., Go, C#, JavaScript, Nosql Developer, http://www.bailey.com/, Cause not cover individual place today kitchen no their
+although national.
+Certifications

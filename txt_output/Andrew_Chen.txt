@@ -1,0 +1,23 @@
+Andrew Chen
+jameskathleen@example.net | 612-990-4437x157 | Port Katieberg | Maldives
+Experience
+White, Brown and Castillo, Technology, Medium, Systems Engineer, junior, full-time, 2019-03-31, 2024-12-12, N/A, Implemented
+RESTful APIs and microservices., Created user-centric designs and responsive web interfaces., Optimized system performance and
+reduced latency., Collaborated with cross-functional teams to design new features., CI/CD, Kanban, Docker, GitLab, Git,
+Williams-Johnson, Technology, Medium, Systems Engineer, junior, internship, 2019-11-06, 2025-02-14, N/A, Performed software
+testing and resolved bugs efficiently., Ensured application responsiveness and seamless user experience., Implemented security
+best practices and data protection measures., GraphQL, Scrum, CI/CD, Smith Ltd, Technology, Large, Systems Engineer, junior,
+internship, 2021-08-30, 2024-06-23, N/A, Deployed applications on cloud platforms and ensured scalability., Conducted code
+reviews and mentored junior developers., Managed cloud infrastructure and resource allocation., Created user-centric designs and
+responsive web interfaces., CI/CD, GraphQL, Kubernetes, Agile, GraphQL, Git
+Education
+MSc, Computer Science, Systems, Shelton PLC, Adamsfort, N/A, 2016-04-08, 2022-11-30, 3.92, Magna Cum Laude, Data
+Structures, Distributed Systems, Database Systems
+Skills
+C++, intermediate, C#, beginner, Java, beginner, Python, intermediate, Flask, expert, MongoDB, intermediate, Oracle, beginner,
+Azure, intermediate, English, fluent
+Projects
+Systems Engineer Project, Developed a scalable microservices architecture using Python and AWS services, improving system
+performance and reducing infrastructure costs., Git, REST, Systems Engineer, http://www.mckee-terrell.biz/, Ground fact officer upon
+degree put player imagine service drive beat place remain side trouble partner.
+Certifications

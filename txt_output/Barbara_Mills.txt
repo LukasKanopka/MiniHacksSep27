@@ -1,0 +1,24 @@
+Barbara Mills
+brandypeterson@example.org | 626-628-2317x9756 | Stephanieborough | Nigeria
+Experience
+Wright, Villegas and Orr, Technology, Medium, Security Engineer, senior, internship, 2021-10-09, 2024-12-06, N/A, Managed cloud
+infrastructure and resource allocation., Collaborated with cross-functional teams to design new features., Conducted system
+monitoring and performance tuning., GraphQL, Agile, Git, Docker, REST, Knight, Campos and Thomas, Technology, Large, Security
+Engineer, senior, internship, 2019-08-04, 2022-11-01, N/A, Integrated third-party services into existing systems., Utilized version
+control effectively in a team environment., Created user-centric designs and responsive web interfaces., Managed cloud
+infrastructure and resource allocation., Performed software testing and resolved bugs efficiently., Docker, Agile, CI/CD
+Education
+BSc, Computer Science, Security, Williams, Morgan and Lopez, New Julie, N/A, 2017-05-31, 2021-11-27, 3.92, Cum Laude,
+Software Engineering, Data Structures, Advanced Algorithms, Machine Learning, MSc, Computer Science, Security,
+Mcdowell-Phelps, North Bobby, N/A, 2015-08-26, 2020-09-26, 2.82, Magna Cum Laude, Network Security, Data Structures,
+Distributed Systems, Advanced Algorithms
+Skills
+Go, expert, C#, expert, Python, intermediate, Flask, expert, Vue, expert, Django, expert, MySQL, intermediate, Google Cloud,
+beginner, English, fluent
+Projects
+Security Engineer Project, Conducted penetration tests and vulnerability assessments, identifying critical security flaws and
+implementing robust security measures., Java, JavaScript, Kubernetes, Security Engineer, http://good.net/, Notice share crime want
+executive pattern pass., Security Engineer Project, Conducted penetration tests and vulnerability assessments, identifying critical
+security flaws and implementing robust security measures., CI/CD, Ruby, Security Engineer, http://mcgee-scott.org/, Door threat
+chair leg remain need far almost operation build.
+Certifications

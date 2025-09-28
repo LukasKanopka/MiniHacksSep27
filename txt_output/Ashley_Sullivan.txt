@@ -1,0 +1,19 @@
+Ashley Sullivan
+shieldsdavid@example.org | 401.208.0254 | Julieside | Egypt
+Experience
+Wheeler-Bray, Technology, Small, Mlops Engineer, junior, full-time, 2022-02-05, 2023-07-14, N/A, Conducted code reviews and
+mentored junior developers., Perfected data analysis and data visualization using Python and Tableau., Developed and deployed
+scalable solutions., GraphQL, REST, Kubernetes, Kanban, GitLab
+Education
+MSc, Computer Science, Mlops, Gordon, Holmes and Hayes, Figueroamouth, N/A, 2017-04-09, 2021-11-08, 3.9, Dean's List,
+Database Systems, Distributed Systems, Machine Learning, BSc, Computer Science, Mlops, Duffy, Kelly and Bush, West Cynthia,
+N/A, 2018-03-11, 2020-12-07, 3.21, Magna Cum Laude, Network Security, Machine Learning, Data Structures, Advanced Algorithms
+Skills
+Go, intermediate, Python, intermediate, Django, expert, Redis, expert, Google Cloud, beginner, English, fluent
+Projects
+Mlops Engineer Project, Integrated machine learning models into production systems using Docker and Kubernetes, automating
+model deployment and monitoring., Ruby, C#, Go, GraphQL, Mlops Engineer, http://www.harvey.com/, Set save end fight leave far
+maybe executive many., Mlops Engineer Project, Integrated machine learning models into production systems using Docker and
+Kubernetes, automating model deployment and monitoring., Python, REST, Mlops Engineer, https://www.daugherty.org/, Most
+accept rich control record deep letter action.
+Certifications

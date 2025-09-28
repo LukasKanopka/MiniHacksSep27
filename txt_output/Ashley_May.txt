@@ -1,0 +1,18 @@
+Ashley May
+ivargas@example.org | (834)438-2757x8118 | Mitchellview | United States of America
+Experience
+Long Inc, Technology, Large, Data Engineer, senior, full-time, 2020-04-07, 2024-06-21, N/A, Created user-centric designs and
+responsive web interfaces., Implemented security best practices and data protection measures., Enhanced system security and
+performed regular audits., Automated deployment processes and continuous integration., Git, REST, Scrum, REST, Docker, Smith
+Ltd, Technology, Large, Data Engineer, senior, full-time, 2019-12-23, 2023-09-04, N/A, Optimized application performance and
+improved user engagement., Designed and implemented machine learning models., Perfected data analysis and data visualization
+using Python and Tableau., Git, GraphQL, CI/CD, Scrum, Git, Docker
+Education
+BSc, Computer Science, Data, Golden-Miller, Santosview, N/A, 2017-06-09, 2022-02-23, 3.04, Cum Laude, Database Systems,
+Network Security, Software Engineering
+Skills
+JavaScript, beginner, C#, expert, Python, intermediate, Vue, intermediate, Redis, expert, Azure, expert, English, fluent
+Projects
+Data Engineer Project, Developed ETL pipelines for data processing and analysis, enabling real-time data insights and improving
+data quality and integrity., Git, Java, Data Engineer, https://fuller.com/, View kind past people remain who significant range they.
+Certifications

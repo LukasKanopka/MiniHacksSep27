@@ -1,0 +1,21 @@
+Angela Bennett
+mthomas@example.net | 956.386.3071x71643 | South Ann | Cameroon
+Experience
+Hamilton-Henderson, Technology, Large, Full Stack Developer, mid, internship, 2019-09-14, 2024-12-01, N/A, Managed cloud
+infrastructure and resource allocation., Ensured application responsiveness and seamless user experience., Perfected data analysis
+and data visualization using Python and Tableau., GraphQL, Agile, Git, Ruiz Inc, Technology, Small, Full Stack Developer, junior,
+full-time, 2020-12-16, 2022-09-20, N/A, Conducted code reviews and mentored junior developers., Built and maintained scalable web
+applications., Automated data processing pipelines., Integrated third-party services into existing systems., Automated deployment
+processes and continuous integration., GraphQL, Kubernetes, Git, Kanban, Kubernetes, Jenkins
+Education
+BSc, Computer Science, Full, Hayes-Williams, East Robertshire, N/A, 2016-09-19, 2019-03-20, 3.45, Dean's List, Database
+Systems, Machine Learning, BSc, Computer Science, Full, Schaefer-Strickland, Blackbury, N/A, 2016-01-08, 2019-08-14, 2.71,
+Magna Cum Laude, Distributed Systems, Machine Learning, Database Systems
+Skills
+C#, intermediate, Ruby, expert, JavaScript, intermediate, Vue, intermediate, React, intermediate, PostgreSQL, beginner, Redis,
+expert, AWS, beginner, English, fluent
+Projects
+Full Stack Developer Project, Developed end-to-end web applications using React and Django, providing seamless user experiences
+and robust backend functionality., JavaScript, Git, Docker, C#, Full Stack Developer, https://adams.biz/, Air across myself heavy their
+there quite medical nothing seek huge trouble.
+Certifications

@@ -1,0 +1,24 @@
+Benjamin Bridges
+hmiller@example.com | +1-529-435-3069x97126 | South Lori | Palestinian Territory
+Experience
+Walters-Long, Technology, Medium, Computer Vision Engineer, mid, full-time, 2018-07-28, 2024-07-29, N/A, Enhanced system
+security and performed regular audits., Optimized application performance and improved user engagement., Implemented security
+best practices and data protection measures., Conducted system monitoring and performance tuning., GraphQL, CI/CD, REST,
+Agile, Git, CI/CD, Davenport-Hayes, Technology, Medium, Computer Vision Engineer, senior, internship, 2021-09-06, 2024-03-25,
+N/A, Developed and maintained CI/CD pipelines., Implemented RESTful APIs and microservices., Optimized system performance
+and reduced latency., Ensured application responsiveness and seamless user experience., Deployed applications on cloud platforms
+and ensured scalability., GraphQL, Docker, Kubernetes, Scrum, Jenkins, Mendoza-Rivera, Technology, Large, Computer Vision
+Engineer, senior, full-time, 2019-03-09, 2024-04-03, N/A, Managed cloud infrastructure and resource allocation., Perfected data
+analysis and data visualization using Python and Tableau., Implemented RESTful APIs and microservices., Utilized version control
+effectively in a team environment., Conducted system monitoring and performance tuning., CI/CD, Agile, REST, GitLab, Git
+Education
+MSc, Computer Science, Computer, Davis Group, East Cynthia, N/A, 2016-04-15, 2020-05-12, 3.58, Data Structures, Advanced
+Algorithms, BSc, Computer Science, Computer, Wagner, Harrison and Howard, South Emilyberg, N/A, 2015-03-02, 2019-12-05, 3.2,
+Cum Laude, Network Security, Data Structures, Distributed Systems, Database Systems
+Skills
+Ruby, intermediate, Python, expert, JavaScript, expert, Flask, intermediate, MySQL, expert, AWS, expert, English, fluent
+Projects
+Computer Vision Engineer Project, Implemented computer vision algorithms for video analytics, enabling real-time object tracking
+and enhancing surveillance systems., Ruby, GraphQL, Computer Vision Engineer, http://jackson-willis.com/, Keep check by
+throughout relate event situation stage prove natural.
+Certifications

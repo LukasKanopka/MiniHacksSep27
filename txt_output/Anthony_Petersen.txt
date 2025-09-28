@@ -1,0 +1,20 @@
+Anthony Petersen
+obowen@example.net | 727.831.6708 | Kimberlyfurt | South Georgia and the South Sandwich Islands
+Experience
+Jackson-Carpenter, Technology, Small, Penetration Tester, mid, full-time, 2020-05-10, 2022-10-19, N/A, Performed software testing
+and resolved bugs efficiently., Integrated third-party services into existing systems., Developed and maintained CI/CD pipelines.,
+Collaborated with cross-functional teams to design new features., Git, Kanban, Docker, Atkins, Ray and George, Technology,
+Medium, Penetration Tester, mid, full-time, 2018-07-07, 2022-06-18, N/A, Enhanced system security and performed regular audits.,
+Developed and maintained database schemas and queries., Automated deployment processes and continuous integration., REST,
+Scrum, GitLab
+Education
+MSc, Computer Science, Penetration, Flores LLC, Taylorfurt, N/A, 2018-07-15, 2022-06-01, 3.73, Magna Cum Laude, Distributed
+Systems, Advanced Algorithms
+Skills
+C#, expert, JavaScript, expert, Java, beginner, Python, intermediate, Spring, expert, Vue, beginner, MySQL, expert, AWS,
+intermediate, English, fluent
+Projects
+Penetration Tester Project, Conducted penetration tests and vulnerability assessments, identifying security weaknesses and
+providing recommendations for improved security measures., Go, GraphQL, REST, Kubernetes, Penetration Tester,
+https://brandt-kelly.net/, Hundred as pay speech vote major without cause discussion range.
+Certifications

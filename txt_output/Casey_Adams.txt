@@ -1,0 +1,24 @@
+Casey Adams
+christopher61@example.com | (691)557-2826 | Blevinsstad | Ireland
+Experience
+Davis, Robinson and Walker, Technology, Medium, Kubernetes Engineer, junior, internship, 2020-07-05, 2023-12-04, N/A, Managed
+cloud infrastructure and resource allocation., Enhanced system security and performed regular audits., Utilized version control
+effectively in a team environment., CI/CD, Docker, Agile, CI/CD, REST, Kubernetes, Smith LLC, Technology, Small, Kubernetes
+Engineer, mid, full-time, 2021-12-25, 2023-04-28, N/A, Managed cloud infrastructure and resource allocation., Automated data
+processing pipelines., Created user-centric designs and responsive web interfaces., Designed and implemented machine learning
+models., Utilized version control effectively in a team environment., GraphQL, Kubernetes, Docker, Kanban, Docker, Johnson,
+Wheeler and Navarro, Technology, Medium, Kubernetes Engineer, senior, contract, 2021-05-02, 2024-10-11, N/A, Collaborated with
+cross-functional teams to design new features., Optimized application performance and improved user engagement., Integrated
+third-party services into existing systems., Docker, Scrum, CI/CD
+Education
+BSc, Computer Science, Kubernetes, Mendoza and Sons, West Scott, N/A, 2016-09-19, 2021-10-16, 3.94, Dean's List, Machine
+Learning, Software Engineering, BSc, Computer Science, Kubernetes, Ramirez-Wright, Hayesland, N/A, 2017-09-25, 2021-06-19,
+3.55, Data Structures, Machine Learning
+Skills
+Java, expert, Python, intermediate, Angular, expert, Flask, expert, PostgreSQL, expert, Redis, expert, Google Cloud, intermediate,
+English, fluent
+Projects
+Kubernetes Engineer Project, Managed Kubernetes clusters for container orchestration, improving system reliability and enabling
+seamless deployment of microservices., C++, Ruby, Kubernetes, Kubernetes Engineer, https://www.west.com/, Administration
+different window style because fish meeting condition office house season account letter maintain.
+Certifications

@@ -1,0 +1,22 @@
+Andrew Nichols
+jhernandez@example.net | +1-544-877-8619x4516 | Brianachester | Tonga
+Experience
+Werner, Hensley and Lee, Technology, Medium, Kubernetes Engineer, mid, full-time, 2021-06-17, 2022-06-15, N/A, Collaborated
+with cross-functional teams to design new features., Perfected data analysis and data visualization using Python and Tableau.,
+Developed and deployed scalable solutions., Automated deployment processes and continuous integration., Kubernetes, Docker,
+Agile, REST, Kubernetes, Johnson, Watson and Lewis, Technology, Medium, Kubernetes Engineer, mid, internship, 2019-01-21,
+2022-12-13, N/A, Optimized application performance and improved user engagement., Built and maintained scalable web
+applications., Ensured application responsiveness and seamless user experience., GraphQL, Kubernetes, Kanban, Git, Jenkins
+Education
+BSc, Computer Science, Kubernetes, Jones, Rogers and Olson, Port Elizabethstad, N/A, 2018-07-08, 2022-09-23, 2.8, Magna Cum
+Laude, Software Engineering, Machine Learning, Database Systems
+Skills
+C#, intermediate, Java, intermediate, Angular, intermediate, Flask, beginner, Django, expert, Oracle, beginner, Google Cloud, expert,
+English, fluent
+Projects
+Kubernetes Engineer Project, Managed Kubernetes clusters for container orchestration, improving system reliability and enabling
+seamless deployment of microservices., JavaScript, Go, Docker, Kubernetes Engineer, https://www.smith-gibbs.com/, Guess
+possible ago face here project beat box travel down both world., Kubernetes Engineer Project, Managed Kubernetes clusters for
+container orchestration, improving system reliability and enabling seamless deployment of microservices., Java, Python, GraphQL,
+Kubernetes Engineer, https://www.bush.com/, She main mouth personal Democrat large already sure whether figure happen ten.
+Certifications

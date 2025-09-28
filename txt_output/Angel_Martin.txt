@@ -1,0 +1,25 @@
+Angel Martin
+marissa13@example.com | 843.856.9212 | East Jaredborough | Afghanistan
+Experience
+Cooper-Harris, Technology, Small, Backend Developer, senior, internship, 2019-05-26, 2024-11-26, N/A, Built and maintained
+scalable web applications., Perfected data analysis and data visualization using Python and Tableau., Developed and deployed
+scalable solutions., Kubernetes, GraphQL, Agile, CI/CD, Oconnor, Fields and Moran, Technology, Large, Backend Developer, mid,
+contract, 2018-08-06, 2022-07-29, N/A, Developed and maintained CI/CD pipelines., Collaborated with cross-functional teams to
+design new features., Perfected data analysis and data visualization using Python and Tableau., Automated deployment processes
+and continuous integration., Deployed applications on cloud platforms and ensured scalability., Kubernetes, Scrum, Docker, CI/CD,
+Git, Mcmillan PLC, Technology, Small, Backend Developer, junior, internship, 2018-04-28, 2023-10-30, N/A, Integrated third-party
+services into existing systems., Optimized application performance and improved user engagement., Developed and maintained
+CI/CD pipelines., GraphQL, Scrum, GitLab, GraphQL, REST
+Education
+BSc, Computer Science, Backend, Gray, Ruiz and Scott, West Terri, N/A, 2018-03-03, 2021-09-05, 3.24, Dean's List, Database
+Systems, Network Security, Data Structures
+Skills
+Java, expert, C#, expert, Python, intermediate, Vue, beginner, MongoDB, expert, MySQL, intermediate, Google Cloud, beginner,
+English, fluent
+Projects
+Backend Developer Project, Built scalable backend systems using Python and Django, enabling efficient data processing and
+seamless integration with front-end applications., Git, C#, CI/CD, Python, Backend Developer, https://www.bryan-washington.com/,
+Company western happy hospital admit current chance condition., Backend Developer Project, Built scalable backend systems using
+Python and Django, enabling efficient data processing and seamless integration with front-end applications., Git, C++, Backend
+Developer, https://reid.info/, Nothing mouth fight produce energy race why else bar no consumer someone again unit behind.
+Certifications

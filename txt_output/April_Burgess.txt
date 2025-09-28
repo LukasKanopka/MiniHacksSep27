@@ -1,0 +1,19 @@
+April Burgess
+hernandezjavier@example.org | (505)332-5565x338 | Williamsside | Kuwait
+Experience
+Brown-Clark, Technology, Small, Cybersecurity Engineer, junior, contract, 2021-02-13, 2023-11-06, N/A, Automated data processing
+pipelines., Developed and maintained database schemas and queries., Developed and maintained CI/CD pipelines., Conducted
+system monitoring and performance tuning., Automated deployment processes and continuous integration., Kubernetes, Agile,
+Kubernetes, Docker
+Education
+BSc, Computer Science, Cybersecurity, Mahoney Group, Stephenside, N/A, 2018-11-20, 2021-07-18, 3.18, Dean's List, Network
+Security, Software Engineering, Data Structures, BSc, Computer Science, Cybersecurity, Strickland-Welch, Sanderstown, N/A,
+2015-07-15, 2019-11-13, 2.7, Dean's List, Database Systems, Software Engineering, Machine Learning, Data Structures
+Skills
+C++, beginner, Python, intermediate, Angular, intermediate, Django, beginner, Vue, beginner, Redis, intermediate, Google Cloud,
+expert, English, fluent
+Projects
+Cybersecurity Engineer Project, Conducted security assessments and implemented security controls, reducing security
+vulnerabilities by 60% and enhancing system security., Kubernetes, Python, Go, Git, Cybersecurity Engineer,
+http://www.kim-harvey.org/, Our general as how girl marriage about subject.
+Certifications

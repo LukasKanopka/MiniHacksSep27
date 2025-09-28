@@ -1,0 +1,19 @@
+Anna Morris
+zgray@example.org | 356.597.4631 | South Rogerside | Thailand
+Experience
+Pennington, Kennedy and Macias, Technology, Medium, Cloud Engineer, junior, internship, 2020-11-16, 2022-03-17, N/A, Optimized
+system performance and reduced latency., Implemented RESTful APIs and microservices., Utilized version control effectively in a
+team environment., Built and maintained scalable web applications., Managed cloud infrastructure and resource allocation., Docker,
+Kanban, CI/CD
+Education
+MSc, Computer Science, Cloud, White-Davenport, New Timothyville, N/A, 2017-09-17, 2020-03-26, 3.52, Magna Cum Laude,
+Distributed Systems, Software Engineering, Machine Learning
+Skills
+C++, intermediate, Flask, beginner, MongoDB, beginner, AWS, expert, English, fluent
+Projects
+Cloud Engineer Project, Designed and deployed cloud infrastructure using AWS services, reducing operational costs and improving
+system scalability and reliability., Python, Ruby, Cloud Engineer, https://www.conway.com/, Speak good safe daughter bar specific
+ground., Cloud Engineer Project, Designed and deployed cloud infrastructure using AWS services, reducing operational costs and
+improving system scalability and reliability., Go, CI/CD, GraphQL, Kubernetes, Cloud Engineer, https://www.robinson-rogers.org/,
+Effort during low deal add million role position road partner student four the play.
+Certifications

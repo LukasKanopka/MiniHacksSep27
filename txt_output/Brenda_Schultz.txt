@@ -1,0 +1,24 @@
+Brenda Schultz
+aaron56@example.net | (298)836-2366x28376 | Port Melanie | Kenya
+Experience
+Le-Randall, Technology, Medium, Penetration Tester, senior, contract, 2018-09-08, 2022-11-18, N/A, Perfected data analysis and
+data visualization using Python and Tableau., Built and maintained scalable web applications., Integrated third-party services into
+existing systems., Git, REST, GraphQL, Agile, GraphQL, GitLab, REST, Wilkinson, Obrien and Lee, Technology, Medium,
+Penetration Tester, senior, internship, 2021-06-05, 2022-11-01, N/A, Optimized system performance and reduced latency., Perfected
+data analysis and data visualization using Python and Tableau., Conducted code reviews and mentored junior developers.,
+Kubernetes, Git, GraphQL, Kanban, GitLab, Kubernetes, REST, Ellis, Garcia and Schmidt, Technology, Large, Penetration Tester,
+mid, contract, 2018-04-18, 2025-01-04, N/A, Performed software testing and resolved bugs efficiently., Implemented RESTful APIs
+and microservices., Managed cloud infrastructure and resource allocation., CI/CD, Git, REST, Scrum, Kubernetes
+Education
+MSc, Computer Science, Penetration, Todd, Petersen and Harvey, Terryville, N/A, 2018-02-03, 2022-12-09, 2.8, Cum Laude,
+Machine Learning, Database Systems, Advanced Algorithms, BSc, Computer Science, Penetration, Garcia-Garcia, North Cody, N/A,
+2016-02-06, 2022-08-06, 2.93, Cum Laude, Distributed Systems, Network Security
+Skills
+Ruby, expert, Python, intermediate, Flask, expert, Vue, beginner, Spring, beginner, PostgreSQL, expert, AWS, expert, English, fluent
+Projects
+Penetration Tester Project, Conducted penetration tests and vulnerability assessments, identifying security weaknesses and
+providing recommendations for improved security measures., C++, Kubernetes, Docker, Python, Penetration Tester,
+http://www.chen.com/, Light Republican low born fish explain hard season., Penetration Tester Project, Conducted penetration tests
+and vulnerability assessments, identifying security weaknesses and providing recommendations for improved security measures.,
+Git, Kubernetes, JavaScript, Penetration Tester, https://www.riddle.com/, Later show subject above see visit attorney some speak.
+Certifications

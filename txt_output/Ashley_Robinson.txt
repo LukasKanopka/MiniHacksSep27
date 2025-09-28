@@ -1,0 +1,23 @@
+Ashley Robinson
+angelakaufman@example.com | 729.526.4133 | Jennifershire | Chile
+Experience
+Valdez PLC, Technology, Medium, Python Developer, senior, contract, 2019-09-08, 2023-01-14, N/A, Developed and maintained
+database schemas and queries., Deployed applications on cloud platforms and ensured scalability., Implemented RESTful APIs and
+microservices., Developed and deployed scalable solutions., Utilized version control effectively in a team environment., GraphQL,
+CI/CD, Scrum, Docker, GitLab, Kubernetes, Garcia LLC, Technology, Large, Python Developer, mid, full-time, 2021-10-29,
+2023-09-01, N/A, Automated data processing pipelines., Developed and deployed scalable solutions., Perfected data analysis and
+data visualization using Python and Tableau., Docker, Agile, GraphQL, REST, Rodgers Group, Technology, Large, Python
+Developer, senior, full-time, 2020-11-03, 2022-08-06, N/A, Created user-centric designs and responsive web interfaces., Designed
+and implemented machine learning models., Automated data processing pipelines., Performed software testing and resolved bugs
+efficiently., Enhanced system security and performed regular audits., GraphQL, Agile, REST, Kubernetes, GraphQL
+Education
+BSc, Computer Science, Python, Roman Ltd, South Michael, N/A, 2018-03-12, 2020-05-17, 2.86, Magna Cum Laude, Database
+Systems, Software Engineering, Machine Learning, Advanced Algorithms
+Skills
+Java, expert, Ruby, beginner, JavaScript, expert, Python, intermediate, Spring, expert, MySQL, intermediate, AWS, intermediate,
+English, fluent
+Projects
+Python Developer Project, Developed a robust RESTful API using Flask and integrated it with cloud services, resulting in improved
+data processing and scalability., Docker, Go, Git, Python Developer, https://church-walton.net/, From PM hard fill very performance
+west risk reduce admit left short three.
+Certifications

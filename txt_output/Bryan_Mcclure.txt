@@ -1,0 +1,21 @@
+Bryan Mcclure
+cschmidt@example.net | 001-669-478-7080 | Andersonland | Germany
+Experience
+Vasquez-Smith, Technology, Small, Android Developer, mid, internship, 2019-03-22, 2024-08-25, N/A, Utilized version control
+effectively in a team environment., Implemented security best practices and data protection measures., Optimized application
+performance and improved user engagement., Enhanced system security and performed regular audits., Conducted system
+monitoring and performance tuning., Docker, REST, Kubernetes, Kanban, REST, GraphQL, Jenkins
+Education
+MSc, Computer Science, Android, Drake-Jones, Lake William, N/A, 2017-05-27, 2020-06-11, 2.55, Dean's List, Data Structures,
+Database Systems, BSc, Computer Science, Android, Carr Inc, Adkinsstad, N/A, 2017-10-27, 2022-03-22, 3.67, Advanced
+Algorithms, Software Engineering
+Skills
+C++, expert, Java, intermediate, React, expert, Angular, intermediate, MongoDB, beginner, Azure, beginner, English, fluent
+Projects
+Android Developer Project, Developed a high-performance Android app using Kotlin that achieved 1 million downloads on the Google
+Play Store and received positive user reviews., Ruby, Docker, Android Developer, http://brewer.com/, Family improve serve yet hour
+his possible turn financial short call more those middle sell money., Android Developer Project, Developed a high-performance
+Android app using Kotlin that achieved 1 million downloads on the Google Play Store and received positive user reviews., Docker,
+C++, C#, Android Developer, https://www.jackson.biz/, Expect challenge research bill group physical car speech sister audience miss
+foot bill behavior.
+Certifications

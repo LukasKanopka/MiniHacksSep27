@@ -1,0 +1,22 @@
+Brooke Houston
+john17@example.org | 314.808.5408x74939 | West Thomas | Greenland
+Experience
+Terry and Sons, Technology, Small, Backend Developer, mid, internship, 2022-01-29, 2025-02-13, N/A, Performed software testing
+and resolved bugs efficiently., Integrated third-party services into existing systems., Enhanced system security and performed regular
+audits., REST, Git, Agile, GitLab, Blair, Mueller and Moses, Technology, Large, Backend Developer, junior, full-time, 2018-09-05,
+2024-02-14, N/A, Automated data processing pipelines., Deployed applications on cloud platforms and ensured scalability.,
+Collaborated with cross-functional teams to design new features., Optimized system performance and reduced latency., Kubernetes,
+Git, Agile, GitLab, Git
+Education
+BSc, Computer Science, Backend, Washington-Marquez, Alvaradoshire, N/A, 2018-04-11, 2020-08-07, 3.66, Data Structures,
+Network Security, Advanced Algorithms
+Skills
+Java, beginner, Ruby, expert, C++, expert, Python, intermediate, Node.js, expert, Oracle, beginner, Google Cloud, expert, English,
+fluent
+Projects
+Backend Developer Project, Built scalable backend systems using Python and Django, enabling efficient data processing and
+seamless integration with front-end applications., REST, Ruby, Python, Docker, Backend Developer, http://murphy.com/, Conference
+market these stay tonight behind fire cause perform word still., Backend Developer Project, Built scalable backend systems using
+Python and Django, enabling efficient data processing and seamless integration with front-end applications., Go, Git, Backend
+Developer, https://hamilton.com/, Condition actually language consider environment note PM particular quickly purpose area social.
+Certifications

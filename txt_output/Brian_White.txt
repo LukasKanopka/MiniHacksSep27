@@ -1,0 +1,21 @@
+Brian White
+richardsjeffrey@example.com | 684.879.3941 | South Hayleyshire | Samoa
+Experience
+Wright PLC, Technology, Large, Flutter Developer, junior, contract, 2020-09-26, 2023-03-07, N/A, Perfected data analysis and data
+visualization using Python and Tableau., Collaborated with cross-functional teams to design new features., Designed and
+implemented machine learning models., Implemented RESTful APIs and microservices., GraphQL, Kubernetes, Kanban, GraphQL,
+Docker, GitLab
+Education
+MSc, Computer Science, Flutter, Perez LLC, West Thomas, N/A, 2017-10-28, 2020-04-30, 3.07, Network Security, Database
+Systems, Advanced Algorithms, BSc, Computer Science, Flutter, Vincent Ltd, Robertside, N/A, 2017-10-13, 2022-03-25, 3.77, Cum
+Laude, Software Engineering, Database Systems, Machine Learning, Network Security
+Skills
+JavaScript, intermediate, Go, intermediate, Ruby, expert, Dart, intermediate, Vue, intermediate, Angular, beginner, MySQL,
+intermediate, Redis, intermediate, Azure, expert, English, fluent
+Projects
+Flutter Developer Project, Developed a custom mobile app using Flutter that increased user retention by 25% and provided a modern
+and intuitive user interface., Docker, Ruby, JavaScript, Flutter Developer, http://mills-gutierrez.org/, Husband month let wait push
+father green., Flutter Developer Project, Developed a custom mobile app using Flutter that increased user retention by 25% and
+provided a modern and intuitive user interface., Go, Java, C++, C#, Flutter Developer, http://www.patrick.com/, Tonight war team
+structure fight bed which least young realize almost.
+Certifications

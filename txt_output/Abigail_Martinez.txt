@@ -1,0 +1,19 @@
+Abigail Martinez
+rhorne@example.net | 235-672-2006x749 | Buchananfort | Bermuda
+Experience
+Brown, Baker and Young, Technology, Medium, Flutter Developer, junior, contract, 2019-03-11, 2022-03-14, N/A, Developed and
+deployed scalable solutions., Utilized version control effectively in a team environment., Implemented security best practices and
+data protection measures., Git, GraphQL, Agile, GitLab, Ortega, Levine and Martinez, Technology, Small, Flutter Developer, mid,
+internship, 2020-01-23, 2024-06-25, N/A, Created user-centric designs and responsive web interfaces., Conducted code reviews and
+mentored junior developers., Deployed applications on cloud platforms and ensured scalability., Performed software testing and
+resolved bugs efficiently., Docker, Kubernetes, GraphQL, Agile, Docker
+Education
+MSc, Computer Science, Flutter, Kelly, Bailey and Barnes, Hudsonview, N/A, 2017-12-26, 2019-08-19, 3.83, Magna Cum Laude,
+Data Structures, Network Security, Distributed Systems, Machine Learning
+Skills
+Java, intermediate, Ruby, expert, Python, expert, Dart, intermediate, Node.js, beginner, Oracle, beginner, Redis, expert, AWS,
+beginner, English, fluent
+Projects
+Flutter Developer Project, Developed a custom mobile app using Flutter that increased user retention by 25% and provided a modern
+and intuitive user interface., REST, JavaScript, Flutter Developer, http://www.salazar.com/, Deal similar she water again party add.
+Certifications

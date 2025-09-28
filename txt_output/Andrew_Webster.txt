@@ -1,0 +1,22 @@
+Andrew Webster
+thomas13@example.net | (448)818-7038 | Hansonview | Mongolia
+Experience
+Moody, Patterson and Henry, Technology, Medium, Infrastructure Engineer, mid, contract, 2019-10-18, 2024-07-19, N/A,
+Implemented RESTful APIs and microservices., Built and maintained scalable web applications., Collaborated with cross-functional
+teams to design new features., Conducted code reviews and mentored junior developers., Automated data processing pipelines.,
+CI/CD, REST, Docker, Agile, Git, Jenkins, CI/CD, Newman PLC, Technology, Large, Infrastructure Engineer, mid, contract,
+2018-08-17, 2022-06-26, N/A, Implemented RESTful APIs and microservices., Automated deployment processes and continuous
+integration., Performed software testing and resolved bugs efficiently., CI/CD, Kanban, Kubernetes, GitLab, REST, Lynch, Craig and
+Wyatt, Technology, Medium, Infrastructure Engineer, junior, contract, 2020-04-25, 2023-09-25, N/A, Ensured application
+responsiveness and seamless user experience., Managed cloud infrastructure and resource allocation., Implemented RESTful APIs
+and microservices., Docker, Git, GraphQL, Agile, GitLab, REST, Git
+Education
+MSc, Computer Science, Infrastructure, Marquez Inc, Alexanderport, N/A, 2017-11-25, 2021-10-05, 2.64, Dean's List, Distributed
+Systems, Network Security, Machine Learning, Database Systems
+Skills
+JavaScript, intermediate, Vue, beginner, MySQL, expert, Google Cloud, beginner, English, fluent
+Projects
+Infrastructure Engineer Project, Designed and implemented cloud infrastructure using Terraform, reducing deployment time by 50%
+and improving system scalability., Kubernetes, CI/CD, GraphQL, Infrastructure Engineer, http://www.reid.com/, Sense particular
+exactly believe special condition upon others serve style go fine visit.
+Certifications

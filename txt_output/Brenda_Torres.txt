@@ -1,0 +1,23 @@
+Brenda Torres
+amandamcfarland@example.org | (347)664-1283x149 | Adamsview | Saint Pierre and Miquelon
+Experience
+Leon Ltd, Technology, Medium, Web Developer, senior, internship, 2018-03-06, 2022-04-28, N/A, Utilized version control effectively
+in a team environment., Developed and maintained CI/CD pipelines., Created user-centric designs and responsive web interfaces.,
+Built and maintained scalable web applications., Conducted code reviews and mentored junior developers., REST, Scrum, Git,
+Docker, Mccormick LLC, Technology, Large, Web Developer, senior, contract, 2022-02-09, 2023-11-25, N/A, Developed and
+maintained database schemas and queries., Integrated third-party services into existing systems., Managed cloud infrastructure and
+resource allocation., Docker, CI/CD, REST, Scrum, Docker, Jenkins, GitLab
+Education
+MSc, Computer Science, Web, Mccormick Inc, Thomashaven, N/A, 2016-07-23, 2023-02-01, 3.2, Network Security, Database
+Systems, Machine Learning, MSc, Computer Science, Web, Fitzgerald-Vance, West Jasminestad, N/A, 2016-08-19, 2019-12-01,
+3.78, Cum Laude, Distributed Systems, Database Systems
+Skills
+C#, intermediate, JavaScript, expert, Java, intermediate, Spring, beginner, Vue, intermediate, Flask, beginner, PostgreSQL,
+intermediate, MySQL, expert, Azure, beginner, English, fluent
+Projects
+Web Developer Project, Developed responsive web applications using HTML, CSS, and JavaScript, improving user experience and
+increasing user engagement., JavaScript, Java, Kubernetes, Web Developer, https://www.moore.net/, Positive despite indicate pick
+color study to leave hour soon hold., Web Developer Project, Developed responsive web applications using HTML, CSS, and
+JavaScript, improving user experience and increasing user engagement., Ruby, Git, Web Developer, http://www.villarreal.com/,
+Participant choose society involve certainly want fish popular drug performance.
+Certifications

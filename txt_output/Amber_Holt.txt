@@ -1,0 +1,21 @@
+Amber Holt
+heathervazquez@example.com | +1-227-470-1246x8508 | Lake Charlesbury | Brunei Darussalam
+Experience
+Brooks PLC, Technology, Medium, Java Developer, senior, contract, 2020-01-24, 2023-12-26, N/A, Enhanced system security and
+performed regular audits., Optimized system performance and reduced latency., Collaborated with cross-functional teams to design
+new features., Perfected data analysis and data visualization using Python and Tableau., Ensured application responsiveness and
+seamless user experience., Kubernetes, Agile, Git, GitLab, Docker
+Education
+BSc, Computer Science, Java, Kim-Brown, East Denise, N/A, 2018-10-02, 2019-11-26, 3.06, Distributed Systems, Software
+Engineering, Database Systems, Network Security, BSc, Computer Science, Java, Austin-Smith, West Rickytown, N/A, 2018-02-20,
+2021-10-21, 3.81, Cum Laude, Machine Learning, Database Systems, Data Structures
+Skills
+Python, beginner, Java, intermediate, React, expert, PostgreSQL, expert, MySQL, intermediate, Google Cloud, intermediate,
+English, fluent
+Projects
+Java Developer Project, Engineered a microservices-based backend using Spring Boot, which increased system efficiency and
+reduced latency in critical applications., GraphQL, C#, Git, Java Developer, http://nicholson-snow.com/, Concern threat character
+culture break agency across., Java Developer Project, Engineered a microservices-based backend using Spring Boot, which
+increased system efficiency and reduced latency in critical applications., C++, Ruby, Go, Java Developer, https://kaufman-collins.biz/,
+Small fear kid education agree manage want be seat compare.
+Certifications

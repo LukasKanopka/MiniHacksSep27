@@ -1,0 +1,24 @@
+Amber Snow
+garnermelanie@example.com | +1-926-953-2239x53326 | West Nicholasburgh | Italy
+Experience
+Larsen PLC, Technology, Large, Cloud Engineer, senior, internship, 2019-01-30, 2023-11-11, N/A, Implemented RESTful APIs and
+microservices., Automated deployment processes and continuous integration., Automated data processing pipelines., Kubernetes,
+Git, Docker, Scrum, GitLab, Henson-Williams, Technology, Large, Cloud Engineer, mid, contract, 2021-12-05, 2022-06-09, N/A,
+Implemented RESTful APIs and microservices., Developed and maintained CI/CD pipelines., Automated data processing pipelines.,
+GraphQL, Docker, Agile, Docker, Hartman and Sons, Technology, Medium, Cloud Engineer, senior, contract, 2021-05-15,
+2023-02-20, N/A, Developed and deployed scalable solutions., Deployed applications on cloud platforms and ensured scalability.,
+Developed and maintained CI/CD pipelines., Git, GraphQL, Agile, Git, CI/CD, Kubernetes
+Education
+BSc, Computer Science, Cloud, Oneal-Irwin, Cobbburgh, N/A, 2018-03-18, 2019-03-22, 3.76, Dean's List, Network Security, Data
+Structures, Machine Learning, MSc, Computer Science, Cloud, Marks Ltd, Carlsontown, N/A, 2015-08-14, 2022-09-30, 2.76, Dean's
+List, Advanced Algorithms, Machine Learning
+Skills
+JavaScript, beginner, Java, beginner, Go, intermediate, React, expert, MySQL, intermediate, PostgreSQL, expert, Azure,
+intermediate, AWS, intermediate, English, fluent
+Projects
+Cloud Engineer Project, Designed and deployed cloud infrastructure using AWS services, reducing operational costs and improving
+system scalability and reliability., JavaScript, Ruby, C++, Java, Cloud Engineer, http://payne.org/, Mouth public alone allow fish staff
+dream would guy until treatment yourself easy sure., Cloud Engineer Project, Designed and deployed cloud infrastructure using AWS
+services, reducing operational costs and improving system scalability and reliability., JavaScript, Java, Cloud Engineer,
+http://www.watson-hughes.org/, Their happen agent skill become care under walk.
+Certifications

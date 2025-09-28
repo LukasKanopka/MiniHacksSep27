@@ -1,0 +1,27 @@
+Beth Price
+pfrancis@example.org | 589.588.0690x44015 | North Brian | Jamaica
+Experience
+Hurst Inc, Technology, Small, Sql Developer, junior, internship, 2021-01-13, 2022-09-20, N/A, Implemented RESTful APIs and
+microservices., Utilized version control effectively in a team environment., Conducted code reviews and mentored junior developers.,
+Developed and maintained CI/CD pipelines., Created user-centric designs and responsive web interfaces., Git, Docker, REST,
+Scrum, Docker, GraphQL, Git, Henderson, Torres and Diaz, Technology, Medium, Sql Developer, mid, full-time, 2022-01-20,
+2022-08-08, N/A, Conducted code reviews and mentored junior developers., Designed and implemented machine learning models.,
+Developed and maintained CI/CD pipelines., Managed cloud infrastructure and resource allocation., GraphQL, Git, Agile, CI/CD,
+Bailey LLC, Technology, Large, Sql Developer, junior, internship, 2020-06-09, 2023-07-26, N/A, Developed and maintained database
+schemas and queries., Implemented security best practices and data protection measures., Automated data processing pipelines.,
+Optimized system performance and reduced latency., Collaborated with cross-functional teams to design new features., Docker, Git,
+Kanban, Docker, REST, Docker
+Education
+BSc, Computer Science, Sql, Sullivan PLC, Lewisfurt, N/A, 2016-04-12, 2022-07-05, 3.98, Magna Cum Laude, Advanced Algorithms,
+Software Engineering, BSc, Computer Science, Sql, Kim and Sons, Jesseside, N/A, 2016-04-14, 2022-07-31, 3.28, Magna Cum
+Laude, Database Systems, Network Security, Advanced Algorithms, Distributed Systems
+Skills
+C++, beginner, Ruby, expert, SQL, intermediate, Vue, beginner, Django, expert, Spring, intermediate, MongoDB, expert, Azure,
+expert, English, fluent
+Projects
+Sql Developer Project, Optimized SQL queries for faster data retrieval and improved database performance, reducing query
+execution time by 40%., CI/CD, Go, Sql Developer, http://bradshaw.com/, Between many before social final network own show star
+simple idea dinner admit challenge., Sql Developer Project, Optimized SQL queries for faster data retrieval and improved database
+performance, reducing query execution time by 40%., REST, Git, Ruby, Docker, Sql Developer, https://hoffman.net/, Operation wear
+because fill building last place use study war.
+Certifications

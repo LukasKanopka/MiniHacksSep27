@@ -1,0 +1,19 @@
+Anthony Terry
+haroldpeters@example.net | 538.418.0664 | Lake Sean | Mali
+Experience
+Hicks LLC, Technology, Small, Mobile Developer, senior, full-time, 2019-09-05, 2023-04-08, N/A, Perfected data analysis and data
+visualization using Python and Tableau., Utilized version control effectively in a team environment., Integrated third-party services
+into existing systems., Managed cloud infrastructure and resource allocation., Optimized system performance and reduced latency.,
+Docker, Kubernetes, REST, Scrum, Kubernetes
+Education
+BSc, Computer Science, Mobile, Perez, Rodgers and Williams, North Kaylafurt, N/A, 2016-01-11, 2021-12-09, 2.95, Cum Laude,
+Machine Learning, Software Engineering, Database Systems, Distributed Systems
+Skills
+C++, intermediate, C#, beginner, JavaScript, intermediate, React, expert, MySQL, beginner, Google Cloud, beginner, English, fluent
+Projects
+Mobile Developer Project, Developed a cross-platform mobile app using React Native that achieved a 4.8-star rating on app stores
+and increased user retention by 30%., Docker, C#, JavaScript, REST, Mobile Developer, https://reynolds-richards.com/, Idea across
+also source a development information., Mobile Developer Project, Developed a cross-platform mobile app using React Native that
+achieved a 4.8-star rating on app stores and increased user retention by 30%., Go, CI/CD, Mobile Developer,
+http://www.mitchell-hernandez.com/, Term enjoy plant indeed throw entire customer majority.
+Certifications

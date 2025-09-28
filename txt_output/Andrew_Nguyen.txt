@@ -1,0 +1,17 @@
+Andrew Nguyen
+daniel86@example.org | 7956403954 | East Gavinton | Iraq
+Experience
+Brown Inc, Technology, Medium, Qa Engineer, senior, full-time, 2020-05-16, 2022-09-27, N/A, Ensured application responsiveness
+and seamless user experience., Utilized version control effectively in a team environment., Automated data processing pipelines.,
+Designed and implemented machine learning models., Automated deployment processes and continuous integration., Git,
+Kubernetes, Agile, GitLab, REST, Jenkins
+Education
+BSc, Computer Science, Qa, Nguyen-Li, Port Jessica, N/A, 2016-10-02, 2020-12-14, 3.87, Magna Cum Laude, Advanced
+Algorithms, Distributed Systems
+Skills
+Python, intermediate, C#, beginner, Go, expert, Django, beginner, MySQL, expert, AWS, expert, English, fluent
+Projects
+Qa Engineer Project, Automated test scripts using Selenium and Python, reducing manual testing efforts and improving software
+quality., C#, Docker, JavaScript, Qa Engineer, https://johns.com/, Individual drop the eye Mr care although focus husband shoulder
+outside heart station.
+Certifications

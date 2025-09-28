@@ -1,0 +1,23 @@
+Carl Bennett
+melissamartin@example.net | 001-832-897-3953 | South Michael | Venezuela
+Experience
+Harding, Maxwell and Adams, Technology, Small, Kubernetes Engineer, junior, full-time, 2020-12-14, 2023-01-16, N/A, Designed
+and implemented machine learning models., Enhanced system security and performed regular audits., Implemented security best
+practices and data protection measures., REST, GraphQL, Docker, Kanban, REST, CI/CD, Jenkins, Trevino, Hernandez and Torres,
+Technology, Large, Kubernetes Engineer, mid, internship, 2021-03-20, 2024-07-29, N/A, Collaborated with cross-functional teams to
+design new features., Implemented security best practices and data protection measures., Developed and maintained CI/CD
+pipelines., Optimized system performance and reduced latency., REST, Git, Kanban, Kubernetes
+Education
+BSc, Computer Science, Kubernetes, Jones, Moore and Villanueva, Torresside, N/A, 2017-09-13, 2020-02-11, 2.67, Cum Laude,
+Network Security, Advanced Algorithms, Distributed Systems, Machine Learning, BSc, Computer Science, Kubernetes, Sanchez
+PLC, Leonburgh, N/A, 2016-07-16, 2021-07-14, 3.99, Magna Cum Laude, Network Security, Advanced Algorithms, Distributed
+Systems
+Skills
+Java, intermediate, Django, intermediate, MongoDB, beginner, MySQL, intermediate, AWS, intermediate, English, fluent
+Projects
+Kubernetes Engineer Project, Managed Kubernetes clusters for container orchestration, improving system reliability and enabling
+seamless deployment of microservices., C++, Go, Java, CI/CD, Kubernetes Engineer, https://flores.biz/, Weight loss type hospital
+month military right than smile., Kubernetes Engineer Project, Managed Kubernetes clusters for container orchestration, improving
+system reliability and enabling seamless deployment of microservices., Git, Python, Java, GraphQL, Kubernetes Engineer,
+http://watkins-gibson.com/, Type behavior myself might amount cause high economic compare speak.
+Certifications

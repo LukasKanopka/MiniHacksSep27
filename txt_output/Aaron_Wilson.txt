@@ -1,0 +1,25 @@
+Aaron Wilson
+aguilarmichael@example.net | +1-316-754-6449x08587 | New Shellychester | Swaziland
+Experience
+Lee PLC, Technology, Large, Mlops Engineer, mid, full-time, 2019-08-25, 2022-07-31, N/A, Implemented security best practices and
+data protection measures., Optimized application performance and improved user engagement., Created user-centric designs and
+responsive web interfaces., REST, Docker, Kubernetes, Scrum, Jenkins, GraphQL, Docker, Gonzalez, Graves and Berger,
+Technology, Small, Mlops Engineer, mid, full-time, 2019-12-27, 2022-04-09, N/A, Integrated third-party services into existing
+systems., Created user-centric designs and responsive web interfaces., Perfected data analysis and data visualization using Python
+and Tableau., GraphQL, Git, Kanban, Git, Johnson and Sons, Technology, Large, Mlops Engineer, mid, contract, 2021-07-24,
+2022-05-16, N/A, Designed and implemented machine learning models., Ensured application responsiveness and seamless user
+experience., Developed and deployed scalable solutions., Implemented security best practices and data protection measures.,
+Developed and maintained CI/CD pipelines., Git, GraphQL, Agile, REST, Git, GitLab
+Education
+BSc, Computer Science, Mlops, Smith PLC, West Marthatown, N/A, 2018-01-12, 2022-02-02, 2.71, Dean's List, Network Security,
+Distributed Systems
+Skills
+Go, intermediate, Java, beginner, JavaScript, beginner, Python, intermediate, Flask, intermediate, Node.js, intermediate, MySQL,
+intermediate, PostgreSQL, beginner, Azure, intermediate, English, fluent
+Projects
+Mlops Engineer Project, Integrated machine learning models into production systems using Docker and Kubernetes, automating
+model deployment and monitoring., C++, Docker, Java, C#, Mlops Engineer, http://martinez-bean.com/, Production political
+education seven blood provide now., Mlops Engineer Project, Integrated machine learning models into production systems using
+Docker and Kubernetes, automating model deployment and monitoring., GraphQL, Docker, Git, Mlops Engineer,
+https://krueger.com/, Lose their people hand late watch test.
+Certifications

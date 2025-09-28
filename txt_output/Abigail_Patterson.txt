@@ -1,0 +1,21 @@
+Abigail Patterson
+jennifermoore@example.com | (892)805-9247x0655 | Port Tinaborough | Mauritania
+Experience
+Nelson, Gray and Stone, Technology, Medium, Automation Engineer, junior, full-time, 2021-01-22, 2024-04-23, N/A, Conducted code
+reviews and mentored junior developers., Designed and implemented machine learning models., Collaborated with cross-functional
+teams to design new features., Built and maintained scalable web applications., Perfected data analysis and data visualization using
+Python and Tableau., Git, REST, Kubernetes, Agile, Git, GitLab, GraphQL
+Education
+MSc, Computer Science, Automation, Benitez, Alexander and Koch, Reynoldsville, N/A, 2018-11-08, 2022-09-06, 2.93, Dean's List,
+Machine Learning, Software Engineering, Database Systems, MSc, Computer Science, Automation, Elliott Inc, Lake Dawnchester,
+N/A, 2016-09-29, 2023-01-31, 2.84, Cum Laude, Data Structures, Advanced Algorithms, Software Engineering, Distributed Systems
+Skills
+C++, beginner, Python, intermediate, Flask, beginner, MySQL, intermediate, MongoDB, expert, Google Cloud, beginner, English,
+fluent
+Projects
+Automation Engineer Project, Automated test scripts and CI/CD pipelines using Python and Jenkins, reducing manual testing efforts
+and improving software quality., Git, Python, CI/CD, Automation Engineer, https://www.stevenson-cummings.com/, Today out
+economy focus film network respond., Automation Engineer Project, Automated test scripts and CI/CD pipelines using Python and
+Jenkins, reducing manual testing efforts and improving software quality., JavaScript, Ruby, Automation Engineer,
+http://herrera-lee.com/, Oil senior Mrs southern special member available source discuss down I base chair PM attention cultural.
+Certifications

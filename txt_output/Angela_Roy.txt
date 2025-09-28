@@ -1,0 +1,20 @@
+Angela Roy
+gsanchez@example.com | (513)887-9424x018 | Gabrielborough | Belarus
+Experience
+Brown Group, Technology, Small, Embedded Systems Engineer, senior, full-time, 2021-06-19, 2023-04-13, N/A, Deployed
+applications on cloud platforms and ensured scalability., Developed and maintained database schemas and queries., Built and
+maintained scalable web applications., Docker, Agile, Jenkins, Docker, Git
+Education
+MSc, Computer Science, Embedded, Delacruz, Lyons and Wagner, Ramirezchester, N/A, 2018-04-19, 2021-07-09, 2.62, Machine
+Learning, Advanced Algorithms, Database Systems, Distributed Systems
+Skills
+C++, expert, Python, beginner, C, intermediate, Angular, expert, Flask, intermediate, Django, intermediate, MySQL, beginner, Redis,
+expert, Google Cloud, expert, English, fluent
+Projects
+Embedded Systems Engineer Project, Developed firmware for IoT devices, enhancing device functionality and enabling real-time
+data processing for smart home applications., Docker, Python, GraphQL, Kubernetes, Embedded Systems Engineer,
+https://vasquez.net/, Plan time fight population itself body since paper voice event discover despite., Embedded Systems Engineer
+Project, Developed firmware for IoT devices, enhancing device functionality and enabling real-time data processing for smart home
+applications., CI/CD, GraphQL, Python, Embedded Systems Engineer, http://www.cain.com/, Ago writer street deep summer fear
+student million worker interest group whom agency show box.
+Certifications

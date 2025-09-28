@@ -1,0 +1,22 @@
+Calvin Anthony
+lbrock@example.net | +1-483-991-7849x6259 | Williamtown | Jordan
+Experience
+Reyes-Lopez, Technology, Large, Ai Engineer, senior, internship, 2018-09-16, 2024-07-17, N/A, Integrated third-party services into
+existing systems., Developed and maintained database schemas and queries., Optimized system performance and reduced latency.,
+Automated data processing pipelines., Designed and implemented machine learning models., Git, GraphQL, Scrum, CI/CD, Smith,
+Roth and Guerra, Technology, Large, Ai Engineer, senior, internship, 2020-08-13, 2023-12-10, N/A, Optimized application
+performance and improved user engagement., Implemented security best practices and data protection measures., Enhanced
+system security and performed regular audits., Docker, Agile, Git, REST, CI/CD
+Education
+BSc, Computer Science, Ai, Garcia-Nguyen, Lake Leroyside, N/A, 2016-01-03, 2021-07-29, 3.89, Dean's List, Machine Learning,
+Advanced Algorithms, Software Engineering, Distributed Systems, BSc, Computer Science, Ai, Kaufman, Bass and Smith,
+Ashleyhaven, N/A, 2017-03-12, 2019-02-25, 2.74, Dean's List, Machine Learning, Database Systems, Distributed Systems, Network
+Security
+Skills
+C#, beginner, Python, intermediate, Django, intermediate, Vue, intermediate, MySQL, intermediate, AWS, intermediate, English,
+fluent
+Projects
+Ai Engineer Project, Built AI-powered applications using TensorFlow and Python, improving predictive accuracy and enabling
+data-driven decision-making., REST, Python, Ai Engineer, http://www.ruiz-farley.com/, Body give high top window tonight specific
+involve represent score article almost choice tell majority doctor.
+Certifications

@@ -1,0 +1,25 @@
+Carlos Jimenez
+wvelasquez@example.net | 001-508-395-9380 | Anthonychester | Australia
+Experience
+Hernandez PLC, Technology, Small, Angular Developer, mid, contract, 2020-04-06, 2024-03-19, N/A, Designed and implemented
+machine learning models., Built and maintained scalable web applications., Deployed applications on cloud platforms and ensured
+scalability., Ensured application responsiveness and seamless user experience., CI/CD, GraphQL, Docker, Kanban, GraphQL,
+Russell-Long, Technology, Medium, Angular Developer, junior, internship, 2019-03-15, 2023-05-14, N/A, Perfected data analysis
+and data visualization using Python and Tableau., Optimized application performance and improved user engagement., Conducted
+system monitoring and performance tuning., Developed and deployed scalable solutions., Deployed applications on cloud platforms
+and ensured scalability., GraphQL, CI/CD, Scrum, Docker, Jenkins, Byrd-Jackson, Technology, Large, Angular Developer, senior,
+internship, 2021-07-15, 2022-04-20, N/A, Managed cloud infrastructure and resource allocation., Developed and maintained
+database schemas and queries., Deployed applications on cloud platforms and ensured scalability., Git, Agile, Docker, Git, Jenkins
+Education
+BSc, Computer Science, Angular, Andersen PLC, Rebeccachester, N/A, 2018-04-09, 2022-03-22, 3.66, Distributed Systems,
+Advanced Algorithms, Software Engineering, Machine Learning
+Skills
+C#, beginner, Spring, beginner, React, beginner, Vue, intermediate, Angular, intermediate, MongoDB, intermediate, Google Cloud,
+beginner, English, fluent
+Projects
+Angular Developer Project, Arm it next figure impact. Rock hand official inside beyond still. Find staff everything bar record must
+current. Hit whole part must picture design church. Fire cultural fire fly product agree a dinner. Compare reach per., Kubernetes, C#,
+Angular Developer, https://www.wheeler-hall.com/, Even wide doctor seven son own agent., Angular Developer Project, Drive lose
+change. That scientist central north. Fill north open say compare off., Go, REST, Angular Developer, http://jones-mcneil.net/, Clear
+way perhaps reality establish he fear situation wait here.
+Certifications

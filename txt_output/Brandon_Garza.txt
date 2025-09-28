@@ -1,0 +1,18 @@
+Brandon Garza
+shepherdbrittany@example.com | (490)776-2636x6775 | Port Gregory | Albania
+Experience
+Ramos, Ortiz and Osborne, Technology, Small, Nlp Engineer, junior, internship, 2020-06-26, 2024-05-02, N/A, Performed software
+testing and resolved bugs efficiently., Deployed applications on cloud platforms and ensured scalability., Optimized system
+performance and reduced latency., Kubernetes, REST, Docker, Scrum, REST, Kubernetes
+Education
+MSc, Computer Science, Nlp, Smith and Sons, South Codyville, N/A, 2018-12-30, 2022-12-18, 3.4, Dean's List, Network Security,
+Distributed Systems, Advanced Algorithms, MSc, Computer Science, Nlp, Reilly-Johnson, Christineberg, N/A, 2015-05-07,
+2020-01-06, 2.78, Machine Learning, Data Structures, Software Engineering
+Skills
+Go, beginner, C#, beginner, Python, intermediate, React, expert, Angular, beginner, Django, expert, MySQL, expert, Azure, expert,
+English, fluent
+Projects
+Nlp Engineer Project, Developed a sentiment analysis model using natural language processing techniques, improving customer
+feedback analysis and sentiment classification accuracy., JavaScript, Kubernetes, REST, Nlp Engineer, http://hamilton.net/, What
+place study begin benefit film very walk.
+Certifications

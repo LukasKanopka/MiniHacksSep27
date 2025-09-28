@@ -1,0 +1,18 @@
+Andre Ortiz
+trevorrowe@example.org | 896.313.7420x21302 | Allisonborough | Falkland Islands (Malvinas)
+Experience
+Saunders Group, Technology, Medium, Java Developer, junior, internship, 2018-07-30, 2025-01-07, N/A, Developed and deployed
+scalable solutions., Enhanced system security and performed regular audits., Collaborated with cross-functional teams to design new
+features., Managed cloud infrastructure and resource allocation., Integrated third-party services into existing systems., CI/CD, Git,
+Agile, Kubernetes, GraphQL, REST
+Education
+MSc, Computer Science, Java, Parker, Neal and West, Chapmanstad, N/A, 2017-07-11, 2022-09-20, 3.16, Magna Cum Laude,
+Advanced Algorithms, Distributed Systems, Software Engineering, Database Systems
+Skills
+C++, intermediate, Go, beginner, Python, intermediate, Java, intermediate, Vue, intermediate, Node.js, intermediate, Oracle,
+intermediate, PostgreSQL, expert, AWS, intermediate, English, fluent
+Projects
+Java Developer Project, Engineered a microservices-based backend using Spring Boot, which increased system efficiency and
+reduced latency in critical applications., CI/CD, GraphQL, Java Developer, http://thompson.com/, Without nice only social draw edge
+think issue entire learn politics give visit particular both either.
+Certifications

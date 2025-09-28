@@ -1,0 +1,26 @@
+Bethany Kelly
+laura74@example.org | 304-263-1951 | East Stephanie | Peru
+Experience
+Gay and Sons, Technology, Small, Qa Engineer, mid, full-time, 2021-09-01, 2023-12-16, N/A, Ensured application responsiveness
+and seamless user experience., Optimized application performance and improved user engagement., Utilized version control
+effectively in a team environment., Perfected data analysis and data visualization using Python and Tableau., Docker, Kanban,
+GitLab, REST, Sullivan and Sons, Technology, Small, Qa Engineer, junior, contract, 2019-10-18, 2022-04-02, N/A, Created
+user-centric designs and responsive web interfaces., Ensured application responsiveness and seamless user experience.,
+Conducted code reviews and mentored junior developers., Perfected data analysis and data visualization using Python and Tableau.,
+Automated deployment processes and continuous integration., Docker, Scrum, CI/CD, Perez-Kelley, Technology, Large, Qa
+Engineer, junior, full-time, 2020-02-21, 2024-01-07, N/A, Perfected data analysis and data visualization using Python and Tableau.,
+Optimized system performance and reduced latency., Deployed applications on cloud platforms and ensured scalability., Kubernetes,
+GraphQL, Agile, REST, Git
+Education
+MSc, Computer Science, Qa, Dixon-Perez, South Timothyview, N/A, 2019-01-29, 2022-08-17, 3.01, Cum Laude, Machine Learning,
+Data Structures, MSc, Computer Science, Qa, Jimenez, Knight and Wise, West Joseph, N/A, 2017-10-05, 2021-01-18, 2.78, Cum
+Laude, Advanced Algorithms, Distributed Systems
+Skills
+C++, beginner, Python, intermediate, React, expert, MySQL, expert, Redis, expert, AWS, expert, English, fluent
+Projects
+Qa Engineer Project, Automated test scripts using Selenium and Python, reducing manual testing efforts and improving software
+quality., Go, C++, REST, CI/CD, Qa Engineer, https://www.edwards.com/, Order try news expect writer low training produce before
+three improve need until., Qa Engineer Project, Automated test scripts using Selenium and Python, reducing manual testing efforts
+and improving software quality., Java, Ruby, C++, Qa Engineer, http://henderson.com/, Again visit still north experience rather player
+conference money card traditional husband course within rate stage.
+Certifications

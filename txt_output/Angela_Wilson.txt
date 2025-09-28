@@ -1,0 +1,24 @@
+Angela Wilson
+sspencer@example.com | +1-278-924-1113 | Christianfort | United States of America
+Experience
+Skinner, Williams and Smith, Technology, Large, Nlp Engineer, junior, internship, 2019-05-15, 2022-11-29, N/A, Managed cloud
+infrastructure and resource allocation., Performed software testing and resolved bugs efficiently., Developed and deployed scalable
+solutions., Developed and maintained CI/CD pipelines., Conducted system monitoring and performance tuning., Kubernetes, CI/CD,
+Docker, Agile, Git, Salazar-Johnson, Technology, Medium, Nlp Engineer, senior, internship, 2020-04-26, 2023-01-21, N/A,
+Developed and deployed scalable solutions., Optimized system performance and reduced latency., Automated data processing
+pipelines., Git, Kanban, Docker, Git, CI/CD, Lang-Lopez, Technology, Large, Nlp Engineer, mid, full-time, 2021-10-06, 2024-06-12,
+N/A, Performed software testing and resolved bugs efficiently., Utilized version control effectively in a team environment., Ensured
+application responsiveness and seamless user experience., REST, CI/CD, Docker, Agile, REST
+Education
+MSc, Computer Science, Nlp, Cole and Sons, West Angela, N/A, 2017-03-11, 2020-08-17, 2.69, Magna Cum Laude, Distributed
+Systems, Network Security
+Skills
+Go, expert, Java, intermediate, JavaScript, expert, Python, intermediate, React, expert, Spring, expert, Django, beginner, Oracle,
+intermediate, MySQL, beginner, Google Cloud, intermediate, English, fluent
+Projects
+Nlp Engineer Project, Developed a sentiment analysis model using natural language processing techniques, improving customer
+feedback analysis and sentiment classification accuracy., Kubernetes, JavaScript, Docker, Nlp Engineer,
+http://www.walton-rodriguez.com/, Life would value foot watch bring hospital safe., Nlp Engineer Project, Developed a sentiment
+analysis model using natural language processing techniques, improving customer feedback analysis and sentiment classification
+accuracy., JavaScript, Docker, GraphQL, Nlp Engineer, https://www.barber-reed.biz/, Effect thought speak in full tough huge.
+Certifications

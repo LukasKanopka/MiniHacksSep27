@@ -1,0 +1,22 @@
+Amanda Hawkins
+robin34@example.org | 001-285-573-1066x3788 | Kentberg | Poland
+Experience
+Sampson-Williams, Technology, Medium, Technical Architect, junior, internship, 2021-01-11, 2023-10-10, N/A, Automated data
+processing pipelines., Enhanced system security and performed regular audits., Ensured application responsiveness and seamless
+user experience., Managed cloud infrastructure and resource allocation., Optimized system performance and reduced latency., Git,
+Kanban, CI/CD, Lucas, Hawkins and Vaughn, Technology, Large, Technical Architect, mid, full-time, 2020-03-05, 2025-01-24, N/A,
+Developed and maintained CI/CD pipelines., Optimized system performance and reduced latency., Managed cloud infrastructure and
+resource allocation., CI/CD, GraphQL, Git, Scrum, Jenkins, REST, Coleman, Martinez and Gardner, Technology, Small, Technical
+Architect, junior, full-time, 2020-12-28, 2023-09-13, N/A, Utilized version control effectively in a team environment., Conducted
+system monitoring and performance tuning., Perfected data analysis and data visualization using Python and Tableau., REST, Agile,
+Jenkins, Docker, Git
+Education
+MSc, Computer Science, Technical, Porter-Rivera, Ryanland, N/A, 2016-11-22, 2022-10-26, 3.67, Magna Cum Laude, Distributed
+Systems, Database Systems, Machine Learning
+Skills
+Java, beginner, Python, intermediate, React, beginner, MySQL, expert, MongoDB, expert, AWS, beginner, English, fluent
+Projects
+Technical Architect Project, Designed a scalable microservices architecture using Python and AWS services, improving system
+performance and reducing infrastructure costs., REST, C++, Technical Architect, https://www.best.net/, Coach scientist line better
+sea lawyer test senior very eight popular describe writer.
+Certifications

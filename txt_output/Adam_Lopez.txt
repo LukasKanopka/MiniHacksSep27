@@ -1,0 +1,27 @@
+Adam Lopez
+edward04@example.net | (864)583-5143 | Kennethville | Montserrat
+Experience
+Briggs Group, Technology, Small, Database Administrator, mid, full-time, 2018-04-19, 2025-01-23, N/A, Managed cloud
+infrastructure and resource allocation., Integrated third-party services into existing systems., Developed and maintained CI/CD
+pipelines., REST, Git, Kanban, CI/CD, Craig, Evans and Goodwin, Technology, Large, Database Administrator, senior, internship,
+2019-10-15, 2022-04-24, N/A, Enhanced system security and performed regular audits., Implemented RESTful APIs and
+microservices., Optimized system performance and reduced latency., GraphQL, Docker, Kubernetes, Agile, GitLab, REST, Ashley,
+Terry and Wallace, Technology, Medium, Database Administrator, junior, full-time, 2019-08-22, 2023-02-20, N/A, Developed and
+maintained database schemas and queries., Optimized application performance and improved user engagement., Perfected data
+analysis and data visualization using Python and Tableau., Enhanced system security and performed regular audits., CI/CD, Git,
+GraphQL, Kanban, REST
+Education
+BSc, Computer Science, Database, Harris-Davenport, Torresview, N/A, 2016-06-17, 2021-05-09, 3.81, Advanced Algorithms,
+Distributed Systems, BSc, Computer Science, Database, Weaver-Zimmerman, New William, N/A, 2015-11-19, 2019-06-14, 3.12,
+Dean's List, Network Security, Distributed Systems
+Skills
+Java, intermediate, C#, expert, SQL, intermediate, React, intermediate, MySQL, intermediate, Google Cloud, beginner, English,
+fluent
+Projects
+Database Administrator Project, Optimized database performance by 40% through query optimization and database tuning, ensuring
+seamless data retrieval and storage., GraphQL, Git, JavaScript, Go, Database Administrator, http://anderson.com/, Half student truth
+me sound memory between someone well thing south ground half work prevent., Database Administrator Project, Optimized
+database performance by 40% through query optimization and database tuning, ensuring seamless data retrieval and storage.,
+Ruby, Java, Docker, Database Administrator, http://smith-harris.com/, Understand hot employee lead many include they must under
+sell election couple from.
+Certifications

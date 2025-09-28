@@ -1,0 +1,23 @@
+Brett Perkins
+harrissharon@example.org | +1-425-734-2080x65261 | North Danielview | Moldova
+Experience
+Travis, Shannon and Gonzalez, Technology, Medium, Data Engineer, junior, internship, 2021-07-21, 2023-08-21, N/A, Developed
+and deployed scalable solutions., Deployed applications on cloud platforms and ensured scalability., Performed software testing and
+resolved bugs efficiently., Perfected data analysis and data visualization using Python and Tableau., CI/CD, Kanban, Docker,
+Jenkins, Owens, Diaz and Young, Technology, Large, Data Engineer, senior, full-time, 2021-10-22, 2022-10-19, N/A, Collaborated
+with cross-functional teams to design new features., Conducted code reviews and mentored junior developers., Optimized system
+performance and reduced latency., Utilized version control effectively in a team environment., Deployed applications on cloud
+platforms and ensured scalability., Kubernetes, REST, CI/CD, Agile, GitLab, Docker
+Education
+MSc, Computer Science, Data, Faulkner Inc, Cassandraburgh, N/A, 2015-04-16, 2019-05-20, 3.66, Dean's List, Advanced
+Algorithms, Database Systems, Data Structures
+Skills
+Java, beginner, C#, expert, Python, intermediate, React, beginner, Angular, intermediate, PostgreSQL, intermediate, AWS,
+intermediate, English, fluent
+Projects
+Data Engineer Project, Developed ETL pipelines for data processing and analysis, enabling real-time data insights and improving
+data quality and integrity., Python, REST, Data Engineer, http://www.buck-davis.com/, Detail feeling serious positive receive what
+economy relate run quickly money., Data Engineer Project, Developed ETL pipelines for data processing and analysis, enabling
+real-time data insights and improving data quality and integrity., JavaScript, CI/CD, REST, Data Engineer, http://harrell.com/,
+Sometimes student wait reflect cold position morning start seek finally statement miss mean.
+Certifications

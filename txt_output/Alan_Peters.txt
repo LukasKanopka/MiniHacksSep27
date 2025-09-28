@@ -1,0 +1,21 @@
+Alan Peters
+baldwinjames@example.org | (342)430-1496x953 | Hayesland | Bouvet Island (Bouvetoya)
+Experience
+Sanchez-Carter, Technology, Medium, Qa Engineer, junior, internship, 2021-05-10, 2022-07-01, N/A, Implemented RESTful APIs
+and microservices., Conducted system monitoring and performance tuning., Enhanced system security and performed regular
+audits., Implemented security best practices and data protection measures., Kubernetes, Docker, Agile, GitLab, GraphQL, CI/CD,
+Garcia, Webb and Reyes, Technology, Large, Qa Engineer, mid, internship, 2018-10-21, 2024-10-25, N/A, Developed and
+maintained database schemas and queries., Designed and implemented machine learning models., Enhanced system security and
+performed regular audits., Utilized version control effectively in a team environment., Managed cloud infrastructure and resource
+allocation., Git, REST, Kubernetes, Agile, Git, REST
+Education
+MSc, Computer Science, Qa, Ramos-Walker, Lake Brian, N/A, 2016-08-14, 2022-05-18, 2.8, Cum Laude, Database Systems,
+Network Security, Data Structures, BSc, Computer Science, Qa, Thompson-Martin, North Courtneyfort, N/A, 2018-10-09,
+2019-09-10, 3.9, Dean's List, Database Systems, Data Structures, Machine Learning
+Skills
+Go, beginner, Ruby, expert, Python, intermediate, Django, beginner, Angular, expert, Node.js, beginner, Oracle, expert, Azure,
+beginner, English, fluent
+Projects
+Qa Engineer Project, Automated test scripts using Selenium and Python, reducing manual testing efforts and improving software
+quality., GraphQL, Kubernetes, Qa Engineer, https://hughes.net/, Middle edge each travel loss half customer ask field concern fish.
+Certifications

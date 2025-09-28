@@ -1,0 +1,23 @@
+Brenda Adams
+norma28@example.net | 663.491.5974 | Ramosbury | Samoa
+Experience
+Edwards and Sons, Technology, Medium, Automation Engineer, mid, full-time, 2021-08-12, 2024-05-27, N/A, Integrated third-party
+services into existing systems., Developed and deployed scalable solutions., Built and maintained scalable web applications.,
+Automated deployment processes and continuous integration., Kubernetes, Agile, Kubernetes, Schwartz-Little, Technology, Small,
+Automation Engineer, senior, full-time, 2018-12-28, 2024-08-29, N/A, Conducted code reviews and mentored junior developers.,
+Implemented RESTful APIs and microservices., Conducted system monitoring and performance tuning., Kubernetes, Scrum,
+Kubernetes, REST
+Education
+MSc, Computer Science, Automation, Stone-Dean, South Daniel, N/A, 2015-11-21, 2020-01-13, 3.59, Data Structures, Database
+Systems, Distributed Systems, Machine Learning, BSc, Computer Science, Automation, Blair, Wood and Robertson, Lake Gary, N/A,
+2015-12-22, 2022-11-04, 2.98, Advanced Algorithms, Database Systems, Network Security
+Skills
+Go, beginner, JavaScript, expert, Python, intermediate, Django, intermediate, Vue, beginner, Flask, beginner, MySQL, beginner,
+Azure, intermediate, English, fluent
+Projects
+Automation Engineer Project, Automated test scripts and CI/CD pipelines using Python and Jenkins, reducing manual testing efforts
+and improving software quality., Kubernetes, GraphQL, Automation Engineer, http://www.bradley.org/, Story whole where along
+threat large audience have couple stage experience home buy information could., Automation Engineer Project, Automated test
+scripts and CI/CD pipelines using Python and Jenkins, reducing manual testing efforts and improving software quality., Git, REST,
+Automation Engineer, https://bautista.info/, Occur explain against would offer factor inside wall.
+Certifications

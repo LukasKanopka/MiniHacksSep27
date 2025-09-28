@@ -1,0 +1,17 @@
+Amanda Bridges
+slester@example.com | 998-356-0025x69347 | Grimesborough | Kiribati
+Experience
+Mata-Ramos, Technology, Large, Solutions Architect, junior, internship, 2019-05-24, 2024-08-10, N/A, Conducted system monitoring
+and performance tuning., Automated deployment processes and continuous integration., Automated data processing pipelines.,
+Developed and maintained CI/CD pipelines., Utilized version control effectively in a team environment., Kubernetes, Agile,
+Kubernetes
+Education
+BSc, Computer Science, Solutions, Meyer, Howard and Oliver, New Danaport, N/A, 2015-10-05, 2020-05-23, 3.99, Machine
+Learning, Distributed Systems
+Skills
+Go, beginner, Python, intermediate, Flask, beginner, Redis, intermediate, AWS, beginner, English, fluent
+Projects
+Solutions Architect Project, Designed and implemented a comprehensive solution architecture for an enterprise system, improving
+system scalability and reliability., JavaScript, Docker, Git, C++, Solutions Architect, http://espinoza-le.com/, Wish ok perhaps stage
+exist not between impact although.
+Certifications

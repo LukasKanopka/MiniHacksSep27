@@ -1,0 +1,24 @@
+Bruce Cardenas
+colsen@example.net | +1-333-603-5204x094 | Andrewchester | Denmark
+Experience
+Robinson and Sons, Technology, Large, Computer Vision Engineer, mid, internship, 2020-10-11, 2023-04-10, N/A, Integrated
+third-party services into existing systems., Developed and maintained CI/CD pipelines., Collaborated with cross-functional teams to
+design new features., CI/CD, REST, Git, Scrum, Docker, Adams-Tapia, Technology, Medium, Computer Vision Engineer, senior,
+contract, 2020-09-05, 2022-07-16, N/A, Collaborated with cross-functional teams to design new features., Enhanced system security
+and performed regular audits., Automated deployment processes and continuous integration., Managed cloud infrastructure and
+resource allocation., Automated data processing pipelines., CI/CD, Scrum, GraphQL, Chan-Stewart, Technology, Medium, Computer
+Vision Engineer, junior, contract, 2021-06-08, 2023-04-29, N/A, Integrated third-party services into existing systems., Conducted
+code reviews and mentored junior developers., Enhanced system security and performed regular audits., Kubernetes, Docker,
+GraphQL, Agile, Kubernetes, REST, GraphQL
+Education
+BSc, Computer Science, Computer, Stanley, Rogers and Miller, Michelleport, N/A, 2015-04-16, 2022-03-25, 3.38, Dean's List, Data
+Structures, Database Systems, BSc, Computer Science, Computer, Martinez and Sons, North Shannon, N/A, 2017-07-07,
+2021-04-16, 2.51, Dean's List, Data Structures, Distributed Systems, Machine Learning, Database Systems
+Skills
+Ruby, expert, Go, expert, Python, intermediate, Vue, intermediate, Node.js, intermediate, Angular, expert, MongoDB, beginner,
+Oracle, beginner, Google Cloud, expert, English, fluent
+Projects
+Computer Vision Engineer Project, Implemented computer vision algorithms for video analytics, enabling real-time object tracking
+and enhancing surveillance systems., Java, Docker, JavaScript, GraphQL, Computer Vision Engineer, https://www.ortiz-byrd.com/,
+Choose care something choose good off heavy natural high ready how sing somebody.
+Certifications
