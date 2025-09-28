@@ -1,8 +1,9 @@
 import google.generativeai as genai
 import os
 from schema_setter import resume_schema
+from .neo4j.src.config import GEMINI_APIKEY
 
-genai.configure(api_key=os.getenv())
+genai.configure(api_key=os.getenv(GEMINI_APIKEY))
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 def candidate_resume_parser(filename):
