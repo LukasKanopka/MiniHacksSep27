@@ -26,6 +26,6 @@ for filename in os.listdir(INPUT_DIR):
         text_path = os.path.join(OUTPUT_DIR, text_filename)
         with open(text_path, "w", encoding="utf-8") as f:
             f.write(raw_text)
-        print(f"Converted {filename} -> {text_filename}")
+        #print(f"Converted {filename} -> {text_filename}")
 
-print("All PDFs have been converted to text!")
+#print("All PDFs have been converted to text!")

@@ -31,7 +31,7 @@ def main():
 
     jsonLongList = candidate_resume_parser(bang)
 
-    print(jsonLongList)
+    #print(jsonLongList)
 
     jsonLongList = jsonLongList.strip()
     if jsonLongList.startswith('[') and jsonLongList.endswith(']'):
