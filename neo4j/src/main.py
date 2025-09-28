@@ -232,6 +232,56 @@ def openrouter_embed(texts: List[str], correlation_id: Optional[str]) -> List[Li
         return []
 
 
+def openai_embed(texts: List[str], correlation_id: Optional[str]) -> List[List[float]]:
+    """
+    Call OpenAI embeddings endpoint with a batch of texts.
+    Returns list of embedding vectors. On error, returns empty list.
+    """
+    api_key = os.getenv("OPENAI_API_KEY")
+    model = os.getenv("OPENAI_EMBED_MODEL", "text-embedding-3-small")
+    if not api_key:
+        print(json.dumps({"ts": iso_now(), "level": "error", "msg": "openai_embed_missing_api_key"}))
+        return []
+    try:
+        import httpx  # type: ignore
+    except Exception:
+        print(json.dumps({"ts": iso_now(), "level": "error", "msg": "openai_httpx_not_installed"}))
+        return []
+
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+    }
+    if correlation_id:
+        headers["x-correlation-id"] = correlation_id
+
+    payload = {
+        "model": model,
+        "input": texts,
+    }
+
+    try:
+        with httpx.Client(timeout=60) as client:
+            resp = client.post("https://api.openai.com/v1/embeddings", headers=headers, json=payload)
+            if resp.status_code // 100 != 2:
+                print(json.dumps({
+                    "ts": iso_now(), "level": "error", "msg": "openai_embed_failed",
+                    "status": resp.status_code, "body": resp.text[:500]
+                }))
+                return []
+            data = resp.json()
+            out: List[List[float]] = []
+            for item in data.get("data", []):
+                emb = item.get("embedding")
+                if isinstance(emb, list):
+                    out.append(emb)
+            return out
+    except Exception as e:
+        print(json.dumps({"ts": iso_now(), "level": "error", "msg": "openai_embed_exception", "error": str(e)}))
+        return []
+
+
 def process_job(job_id: str, base_dir: Path, files: List[Dict[str, Any]], options: Dict[str, Any], correlation_id: Optional[str]) -> None:
     """
     Background processing:
@@ -278,7 +328,7 @@ def process_job(job_id: str, base_dir: Path, files: List[Dict[str, Any]], option
         batch_size = 64
         for i in range(0, len(chunks), batch_size):
             batch = chunks[i:i + batch_size]
-            embeds = openrouter_embed([c["text"] for c in batch], correlation_id)
+            embeds = openai_embed([c["text"] for c in batch], correlation_id)
             # If embeddings failed, skip these chunks
             if len(embeds) != len(batch):
                 print(json.dumps({
@@ -316,6 +366,42 @@ def process_job(job_id: str, base_dir: Path, files: List[Dict[str, Any]], option
         "chunks": total_chunks,
         "errors": 0  # basic MVP does not count per-file errors
     }))
+
+
+def validate_ingest_payload(data: Dict[str, Any]) -> Tuple[str, List[Dict[str, Any]]]:
+    """
+    Minimal validation for ingest payload in local/dev mode.
+    Expects: { "jobId": str, "files": [ { "path": str }, ... ] }
+    Returns: (job_id, files_slim)
+    """
+    job_id = str(data.get("jobId") or "").strip()
+    files = data.get("files") or []
+    if not job_id:
+        raise ValueError("jobId is required")
+    if not isinstance(files, list) or len(files) == 0:
+        raise ValueError("files must be a non-empty list")
+
+    norm_files: List[Dict[str, Any]] = []
+    for f in files:
+        p = (f or {}).get("path")
+        if not isinstance(p, str) or not p.strip():
+            raise ValueError("file.path must be a non-empty string")
+        norm_files.append({"path": p.strip()})
+    return job_id, norm_files
+
+
+def validate_finalize_payload(data: Dict[str, Any]) -> str:
+    """
+    Minimal validation for finalize payload.
+    Expects: { "jobId": str, "summary": any }
+    Returns: job_id
+    """
+    job_id = str(data.get("jobId") or "").strip()
+    if not job_id:
+        raise ValueError("jobId is required")
+    if "summary" not in data:
+        raise ValueError("summary is required")
+    return job_id
 
 
 @app.post("/worker/ingest")

@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Find the Right People — Minimal SPA</title>
+    <meta name="description" content="Minimal test UI for health, upload, and search flows" />
+    <style>
+      :root {
+        color-scheme: light dark;
+      }
+      body {
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+        margin: 0;
+        padding: 0 16px 48px;
+        line-height: 1.4;
+      }
+      header {
+        position: sticky;
+        top: 0;
+        backdrop-filter: blur(6px);
+        background: color-mix(in oklab, canvas, transparent 20%);
+        border-bottom: 1px solid color-mix(in oklab, canvasText, transparent 85%);
+        padding: 12px 8px;
+        margin: 0 -16px 16px;
+      }
+      h1 {
+        font-size: 1.25rem;
+        margin: 0;
+      }
+      main {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        gap: 16px;
+      }
+      section {
+        border: 1px solid color-mix(in oklab, canvasText, transparent 85%);
+        border-radius: 10px;
+        padding: 12px;
+      }
+      button {
+        cursor: pointer;
+        padding: 8px 12px;
+        border-radius: 8px;
+        border: 1px solid color-mix(in oklab, canvasText, transparent 75%);
+        background: color-mix(in oklab, canvas, canvasText 3%);
+      }
+      input, textarea, select {
+        padding: 8px;
+        border-radius: 8px;
+        border: 1px solid color-mix(in oklab, canvasText, transparent 85%);
+        width: 100%;
+        box-sizing: border-box;
+        background: color-mix(in oklab, canvas, canvasText 2%);
+      }
+      .row {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+      .muted {
+        opacity: 0.7;
+        font-size: 0.9em;
+      }
+      .mono {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        font-size: 12px;
+        white-space: pre-wrap;
+        word-break: break-word;
+      }
+      .list {
+        max-height: 220px;
+        overflow: auto;
+        border: 1px dashed color-mix(in oklab, canvasText, transparent 80%);
+        padding: 8px;
+        border-radius: 8px;
+      }
+      footer {
+        margin-top: 24px;
+        opacity: 0.6;
+        font-size: 0.9em;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Find the Right People — Minimal SPA</h1>
+      <div class="muted">Uses Netlify Functions under /api/*; Worker via HMAC webhooks; Neo4j vector search</div>
+    </header>
+    <main id="app"></main>
+    <footer>
+      <div class="muted">
+        Refer to testing runbook at <a href="../docs/TESTING.md">docs/TESTING.md</a>
+      </div>
+    </footer>
+    <script>
+      const el = (sel) => document.querySelector(sel);
+      const app = document.getElementById('app');
+      app.innerHTML = `
+        <section>
+          <h2>Health</h2>
+          <div class="row">
+            <button id="btn-health">GET /api/health</button>
+            <span id="health-status" class="muted"></span>
+          </div>
+          <pre id="health-json" class="mono"></pre>
+        </section>
+
+        <section>
+          <h2>Search</h2>
+          <div class="row">
+            <input id="q" placeholder="e.g., neo4j graph experience" />
+            <input id="topK" type="number" min="1" max="50" value="10" style="width:120px" />
+            <label class="muted">topK</label>
+            <button id="btn-search">POST /api/search</button>
+          </div>
+          <pre id="search-json" class="mono"></pre>
+        </section>
+      `;
+
+      el('#btn-health').addEventListener('click', async () => {
+        el('#health-status').textContent = 'Loading...';
+        el('#health-json').textContent = '';
+        try {
+          const res = await fetch('/api/health');
+          const data = await res.json();
+          el('#health-status').textContent = res.ok ? 'OK' : \`HTTP \${res.status}\`;
+          el('#health-json').textContent = JSON.stringify(data, null, 2);
+        } catch (e) {
+          el('#health-status').textContent = 'Error';
+          el('#health-json').textContent = String(e);
+        }
+      });
+
+      el('#btn-search').addEventListener('click', async () => {
+        const q = el('#q').value;
+        const topK = Number(el('#topK').value || 10);
+        el('#search-json').textContent = 'Loading...';
+        try {
+          const res = await fetch('/api/search', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({ q, topK, synthesize: false }),
+          });
+          const data = await res.json();
+          el('#search-json').textContent = JSON.stringify(data, null, 2);
+        } catch (e) {
+          el('#search-json').textContent = String(e);
+        }
+      });
+    </script>
+  </body>
+</html>

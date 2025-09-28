@@ -186,6 +186,9 @@ Reference: [AGENTREADME.md](AGENTREADME.md:349)
 - [-] Provision AuraDB and apply [neo4j/src/setup.cypher](neo4j/src/setup.cypher:1)
 - [-] Minimal Worker path: S3 GET → TXT parse → chunk → [docs/openrouter.md](docs/openrouter.md:1) embed → upsert via [neo4j/src/db.py](neo4j/src/db.py:1)
 
+## Testing
+
+How to Test Locally: follow the deterministic runbook in [docs/TESTING.md](docs/TESTING.md:1) to bring up Netlify dev, the Python Worker, initialize Neo4j via [neo4j/src/setup.cypher](neo4j/src/setup.cypher:1), configure S3 CORS/IAM from [docs/s3-cors.json](docs/s3-cors.json:1) and [docs/iam-policy.json](docs/iam-policy.json:1), then run health → upload session → direct S3 PUT → ingest_start → worker processing → search using PDFs from [final pdfs/](final pdfs/Aaron_Brown.pdf:1).
 ## Progress summary (current)
 - Worker scaffolding present: [neo4j/src/config.py](neo4j/src/config.py:1), [neo4j/src/db.py](neo4j/src/db.py:1), [neo4j/src/main.py](neo4j/src/main.py:1)
 - All Netlify Functions, and most infra configs are created.

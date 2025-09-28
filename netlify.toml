@@ -6,7 +6,7 @@
 
 [build]
   command = "npm run build"
-  publish = "dist"
+  publish = "web/dist"
   functions = "netlify/functions"
 
 # Rewrite /api/* requests to the corresponding Netlify Function

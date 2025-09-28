@@ -6,7 +6,8 @@
 // - Logs and returns structured JSON with correlation ID
 
 import { ok, badRequest, internalError, getCorrelationId, logInfo, logError } from "./_shared/http";
-import { embed, generate } from "./_shared/openrouter";
+import { generate } from "./_shared/openrouter";
+import { embedOpenAI } from "./_shared/openai";
 import { queryPeopleByEmbedding } from "./_shared/neo4j";
 
 type SearchReq = { q: string; topK?: number; synthesize?: boolean };
@@ -45,13 +46,11 @@ export const handler = async (event: any) => {
   // Step 1-2: Embed the query
   let queryEmbedding: number[] = [];
   let embeddingModel = "";
-  let embeddingCost: number | undefined = undefined;
 
   try {
-    const emb = await embed([qRaw], { correlationId });
+    const emb = await embedOpenAI([qRaw], { correlationId });
     embeddingModel = emb.model;
     queryEmbedding = Array.isArray(emb.embeddings?.[0]) ? emb.embeddings[0] : [];
-    embeddingCost = emb.cost?.embedding;
     if (!Array.isArray(queryEmbedding) || queryEmbedding.length === 0) {
       return internalError("Embedding returned no vector", correlationId);
     }
@@ -143,7 +142,6 @@ export const handler = async (event: any) => {
   }
 
   const cost: Record<string, number> = {};
-  if (typeof embeddingCost === "number") cost.embedding = embeddingCost;
   if (typeof generationCost === "number") cost.generation = generationCost;
   if (Object.keys(cost).length > 0) {
     response.cost = cost;

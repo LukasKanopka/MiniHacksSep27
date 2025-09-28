@@ -4,7 +4,8 @@
   "private": true,
   "engines": { "node": ">=18" },
   "scripts": {
-    "build": "echo Build handled by Netlify",
+    "predev": "npm run build",
+    "build": "npm --prefix web install && npm --prefix web run build",
     "dev": "netlify dev"
   },
   "dependencies": {
