@@ -1,0 +1,17 @@
+Alexandra Mitchell
+villamatthew@example.net | (749)425-7191x336 | Julieborough | Hong Kong
+Experience
+Brown PLC, Technology, Large, Automation Engineer, mid, contract, 2018-08-18, 2024-03-12, N/A, Conducted code reviews and
+mentored junior developers., Ensured application responsiveness and seamless user experience., Developed and maintained
+database schemas and queries., CI/CD, Agile, CI/CD, Docker, REST
+Education
+BSc, Computer Science, Automation, Lawrence Ltd, New William, N/A, 2015-05-23, 2021-01-18, 3.98, Dean's List, Software
+Engineering, Network Security, Distributed Systems, MSc, Computer Science, Automation, Hancock-Rodriguez, Port David, N/A,
+2016-05-01, 2019-07-10, 3.06, Dean's List, Advanced Algorithms, Machine Learning, Data Structures, Database Systems
+Skills
+C#, expert, Python, beginner, Spring, intermediate, Node.js, expert, MySQL, beginner, Redis, beginner, Azure, expert, English, fluent
+Projects
+Automation Engineer Project, Automated test scripts and CI/CD pipelines using Python and Jenkins, reducing manual testing efforts
+and improving software quality., Python, Java, JavaScript, REST, Automation Engineer, https://weber.com/, Development many pass
+than thought shake have tell benefit down fill fill.
+Certifications

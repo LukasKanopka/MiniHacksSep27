@@ -1,0 +1,22 @@
+Alicia Charles
+pottertina@example.com | 229-442-9664x5673 | Joelfort | Tonga
+Experience
+Davis, Oconnor and Mcpherson, Technology, Medium, Information Security Analyst, senior, internship, 2020-08-23, 2024-11-02,
+N/A, Implemented RESTful APIs and microservices., Automated data processing pipelines., Enhanced system security and
+performed regular audits., Collaborated with cross-functional teams to design new features., Git, Scrum, GitLab, Git, CI/CD,
+Henderson Group, Technology, Medium, Information Security Analyst, junior, contract, 2021-06-27, 2024-02-05, N/A, Created
+user-centric designs and responsive web interfaces., Optimized application performance and improved user engagement.,
+Collaborated with cross-functional teams to design new features., Automated data processing pipelines., REST, Git, Kanban, Docker
+Education
+BSc, Computer Science, Information, Delacruz Inc, Hickmanchester, N/A, 2016-06-15, 2022-02-25, 2.82, Magna Cum Laude,
+Advanced Algorithms, Database Systems, MSc, Computer Science, Information, Mcpherson, White and Brennan, South
+Perrychester, N/A, 2018-09-09, 2022-02-03, 3.36, Magna Cum Laude, Data Structures, Network Security, Machine Learning,
+Database Systems
+Skills
+Python, expert, Java, intermediate, C#, intermediate, React, intermediate, MongoDB, intermediate, Google Cloud, expert, English,
+fluent
+Projects
+Information Security Analyst Project, Performed security audits and risk assessments, identifying critical security gaps and
+implementing security measures to protect sensitive data., CI/CD, Docker, GraphQL, Git, Information Security Analyst,
+http://www.gutierrez.net/, North behind most partner daughter top trial good report true unit own among safe.
+Certifications

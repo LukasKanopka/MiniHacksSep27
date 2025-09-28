@@ -1,0 +1,20 @@
+Adrian Smith
+williamshoward@example.org | 680-868-7815 | Danielville | Christmas Island
+Experience
+Arnold LLC, Technology, Medium, Database Administrator, mid, full-time, 2021-04-01, 2022-09-11, N/A, Implemented security best
+practices and data protection measures., Enhanced system security and performed regular audits., Managed cloud infrastructure and
+resource allocation., Built and maintained scalable web applications., Git, REST, GraphQL, Agile, Kubernetes, REST, Git, Barrett
+LLC, Technology, Medium, Database Administrator, mid, contract, 2019-06-04, 2025-01-01, N/A, Conducted code reviews and
+mentored junior developers., Developed and deployed scalable solutions., Enhanced system security and performed regular audits.,
+CI/CD, GraphQL, Kubernetes, Agile, Kubernetes, GitLab, CI/CD
+Education
+MSc, Computer Science, Database, Hall PLC, Lake Mark, N/A, 2017-11-12, 2020-03-08, 3.92, Magna Cum Laude, Network Security,
+Database Systems, BSc, Computer Science, Database, Mills, Brown and Warren, New Stevenhaven, N/A, 2018-06-15, 2020-10-24,
+3.21, Dean's List, Machine Learning, Software Engineering, Network Security, Advanced Algorithms
+Skills
+JavaScript, intermediate, SQL, intermediate, Vue, expert, MongoDB, intermediate, Google Cloud, expert, English, fluent
+Projects
+Database Administrator Project, Optimized database performance by 40% through query optimization and database tuning, ensuring
+seamless data retrieval and storage., C++, Docker, Python, Kubernetes, Database Administrator, http://kerr-thomas.com/, Leader
+bar include security suddenly site nothing share whether write of determine me.
+Certifications

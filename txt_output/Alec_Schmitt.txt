@@ -1,0 +1,24 @@
+Alec Schmitt
+nicholas41@example.com | 251-467-2953x15049 | Jonesfurt | Saint Martin
+Experience
+Blankenship LLC, Technology, Medium, Technical Architect, senior, full-time, 2020-09-05, 2023-02-28, N/A, Optimized system
+performance and reduced latency., Ensured application responsiveness and seamless user experience., Utilized version control
+effectively in a team environment., REST, Agile, GraphQL, Hill-Martinez, Technology, Large, Technical Architect, senior, full-time,
+2019-04-12, 2024-02-16, N/A, Managed cloud infrastructure and resource allocation., Implemented security best practices and data
+protection measures., Conducted system monitoring and performance tuning., Automated deployment processes and continuous
+integration., Automated data processing pipelines., Docker, REST, Scrum, Docker, Kubernetes
+Education
+MSc, Computer Science, Technical, Tyler, Hart and Hernandez, Gibbsberg, N/A, 2017-07-28, 2022-04-04, 2.54, Cum Laude,
+Network Security, Machine Learning, BSc, Computer Science, Technical, Gutierrez, Simmons and Mason, New Courtneymouth, N/A,
+2016-10-08, 2020-02-02, 2.62, Magna Cum Laude, Network Security, Distributed Systems, Database Systems, Advanced
+Algorithms
+Skills
+C++, beginner, JavaScript, expert, C#, expert, Python, intermediate, Node.js, expert, Flask, beginner, Redis, intermediate, Oracle,
+expert, AWS, beginner, English, fluent
+Projects
+Technical Architect Project, Designed a scalable microservices architecture using Python and AWS services, improving system
+performance and reducing infrastructure costs., JavaScript, GraphQL, Go, Java, Technical Architect, http://morris-owens.com/,
+Economy owner past budget prove or street job., Technical Architect Project, Designed a scalable microservices architecture using
+Python and AWS services, improving system performance and reducing infrastructure costs., Python, REST, Go, Docker, Technical
+Architect, http://price.info/, Unit hard measure truth gun have dinner fear nearly it nor deal stay.
+Certifications

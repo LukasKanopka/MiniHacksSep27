@@ -1,0 +1,22 @@
+Alejandra Wilkinson
+theresamann@example.com | +1-360-983-8188 | Odonnellstad | Solomon Islands
+Experience
+Oliver Ltd, Technology, Small, Platform Engineer, junior, internship, 2021-10-10, 2023-05-17, N/A, Implemented security best
+practices and data protection measures., Developed and deployed scalable solutions., Utilized version control effectively in a team
+environment., Docker, Agile, REST, Docker
+Education
+MSc, Computer Science, Platform, Chen, Harris and Gutierrez, East Jenniferfort, N/A, 2018-09-28, 2020-09-26, 2.95, Software
+Engineering, Database Systems, Machine Learning, BSc, Computer Science, Platform, Robinson-Martinez, West Katrinachester,
+N/A, 2018-10-09, 2022-04-26, 3.55, Magna Cum Laude, Advanced Algorithms, Software Engineering, Distributed Systems, Network
+Security
+Skills
+Java, intermediate, Django, intermediate, Angular, intermediate, Vue, intermediate, PostgreSQL, intermediate, Google Cloud, expert,
+English, fluent
+Projects
+Platform Engineer Project, Built a scalable platform for web applications using Docker and Kubernetes, reducing deployment time
+and improving system performance., Python, CI/CD, Kubernetes, Go, Platform Engineer, http://www.cherry.com/, Should seven
+decide deep heavy school challenge indeed local western particular recognize sell total action., Platform Engineer Project, Built a
+scalable platform for web applications using Docker and Kubernetes, reducing deployment time and improving system performance.,
+C#, GraphQL, JavaScript, Platform Engineer, http://graham-baker.biz/, Law base main treatment white international tree out skill
+continue.
+Certifications

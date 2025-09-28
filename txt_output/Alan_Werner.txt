@@ -1,0 +1,25 @@
+Alan Werner
+manuelgilbert@example.org | 6146596535 | North Glenn | Guinea-Bissau
+Experience
+Miller-Dean, Technology, Large, Systems Engineer, junior, full-time, 2019-10-12, 2022-07-08, N/A, Ensured application
+responsiveness and seamless user experience., Conducted code reviews and mentored junior developers., Perfected data analysis
+and data visualization using Python and Tableau., Collaborated with cross-functional teams to design new features., Docker, Scrum,
+REST, Docker, Freeman-Sosa, Technology, Large, Systems Engineer, junior, contract, 2022-01-28, 2023-03-22, N/A, Ensured
+application responsiveness and seamless user experience., Implemented RESTful APIs and microservices., Built and maintained
+scalable web applications., Performed software testing and resolved bugs efficiently., CI/CD, Agile, GraphQL, Docker, Kennedy PLC,
+Technology, Large, Systems Engineer, mid, contract, 2021-11-12, 2025-01-19, N/A, Performed software testing and resolved bugs
+efficiently., Automated deployment processes and continuous integration., Designed and implemented machine learning models.,
+Collaborated with cross-functional teams to design new features., GraphQL, CI/CD, REST, Kanban, Jenkins, GitLab, Docker
+Education
+BSc, Computer Science, Systems, Villa, Thompson and Williams, East Deborah, N/A, 2018-01-09, 2021-02-17, 2.66, Dean's List,
+Network Security, Software Engineering
+Skills
+JavaScript, beginner, Python, beginner, C++, beginner, Flask, expert, Angular, beginner, MySQL, beginner, Google Cloud,
+intermediate, English, fluent
+Projects
+Systems Engineer Project, Developed a scalable microservices architecture using Python and AWS services, improving system
+performance and reducing infrastructure costs., Java, C++, JavaScript, Systems Engineer, http://www.morton-taylor.net/, Foreign
+chair them none say improve law history whose carry stock carry quickly tonight., Systems Engineer Project, Developed a scalable
+microservices architecture using Python and AWS services, improving system performance and reducing infrastructure costs.,
+Docker, Python, GraphQL, Systems Engineer, https://forbes.biz/, Say draw left threat budget concern adult ask.
+Certifications

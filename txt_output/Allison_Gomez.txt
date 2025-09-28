@@ -1,0 +1,23 @@
+Allison Gomez
+zsmith@example.com | (585)752-0941x42943 | Jonathanville | Bahamas
+Experience
+Richardson-Smith, Technology, Large, Sql Developer, junior, internship, 2021-10-03, 2022-04-24, N/A, Ensured application
+responsiveness and seamless user experience., Optimized system performance and reduced latency., Deployed applications on
+cloud platforms and ensured scalability., Developed and maintained database schemas and queries., Kubernetes, Docker, CI/CD,
+Scrum, Jenkins, Docker, Git, Fuller, Gibson and Rogers, Technology, Medium, Sql Developer, mid, contract, 2020-01-11,
+2024-03-11, N/A, Conducted system monitoring and performance tuning., Implemented security best practices and data protection
+measures., Automated data processing pipelines., Integrated third-party services into existing systems., Docker, REST, GraphQL,
+Kanban, Kubernetes, Trevino-Rodriguez, Technology, Medium, Sql Developer, junior, full-time, 2021-07-08, 2024-02-10, N/A,
+Optimized application performance and improved user engagement., Developed and maintained database schemas and queries.,
+Conducted system monitoring and performance tuning., Git, GraphQL, CI/CD, Kanban, Docker, GraphQL
+Education
+BSc, Computer Science, Sql, Pena, Weiss and Garcia, Angelahaven, N/A, 2017-03-16, 2020-03-26, 2.63, Magna Cum Laude,
+Network Security, Machine Learning, Software Engineering
+Skills
+Go, beginner, Python, intermediate, SQL, intermediate, Node.js, beginner, Vue, intermediate, Spring, expert, Oracle, beginner,
+PostgreSQL, expert, Google Cloud, intermediate, English, fluent
+Projects
+Sql Developer Project, Optimized SQL queries for faster data retrieval and improved database performance, reducing query
+execution time by 40%., Git, Ruby, Sql Developer, https://www.welch.biz/, Spring concern according themselves author if important
+leave.
+Certifications

@@ -3,7 +3,7 @@ import os
 from neo4j_app.src.config import GEMINI_APIKEY
 
 genai.configure(api_key=os.getenv(GEMINI_APIKEY))
-model = genai.GenerativeModel("gemini-2.5-pro")
+model = genai.GenerativeModel("gemini-2.5-flash")
 
 def candidate_text_maker(filename, content):
     abs_dir = os.getcwd()

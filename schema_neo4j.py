@@ -17,6 +17,8 @@ def main():
 
     file_names = os.listdir(new_path)
 
+    #file_names = ["Aaron_Brown.pdf", "Aaron_Edwards.pdf", "Aaron_Erickson.pdf"]
+
     bang = ""
 
     for i in range(len(file_names)):
