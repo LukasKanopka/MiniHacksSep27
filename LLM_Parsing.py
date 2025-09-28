@@ -1,17 +1,19 @@
 import google.generativeai as genai
 import os
-from schema_setter import resume_schema
-from .neo4j.src.config import GEMINI_APIKEY
+from neo4j_app.src.config import GEMINI_APIKEY
 
 genai.configure(api_key=os.getenv(GEMINI_APIKEY))
-model = genai.GenerativeModel("gemini-2.5-flash")
+model = genai.GenerativeModel("gemini-2.5-pro")
 
 def candidate_resume_parser(filename):
-    with open("txt_output/"+ filename, 'r', encoding='utf-8') as file:
+    abs_dir = os.getcwd()
+    path1 = os.path.join(abs_dir, "txt_output")
+    path2 = os.path.join(path1, filename)
+    with open(path2, 'r', encoding='utf-8') as file:
         content = file.read()
 
 
-    prompt = f"""
+    prompt = """
     Extract the following information from the resume text below and return strictly in JSON format:
     - Name
     - Skills
@@ -20,8 +22,18 @@ def candidate_resume_parser(filename):
     - Projects
 
     Rules to follow: 
+        Read the following text and return ONLY a single JSON object that matches this exact schema:
+        {
+            "Name": "string",
+            "skills": ["string"],
+            "education": ["string"],
+            "work experience": ["string"],
+            "projects": ["string"]
+        }
+
+    - Make sure to keep all quotations properly formatted in the JSON style
     - Output strict JSON that matches the provided JSON schema
-    - Do not invent facts. If unknown, omit the field. 
+    - Do NOT invent facts. If unknown, omit the field. 
     - Normalize skill names to canonical single tokens when obvious (e.g. 'Python', 'React', 'AWS')
     - under work experience, include the most relevant key achievements on the resume
 
@@ -29,7 +41,8 @@ def candidate_resume_parser(filename):
     {content}
     """
 
-    response = model.generate_content(prompt=prompt, response_schema=resume_schema)
+
+    response = model.generate_content(prompt, generation_config={"response_mime_type": "application/json"})
 
     return response.text
 
